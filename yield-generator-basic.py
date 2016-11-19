@@ -12,9 +12,9 @@ from joinmarket import Wallet, YieldGenerator, ygmain
 from joinmarket import get_irc_mchannels
 
 txfee = 1000
-cjfee_a = 200
-cjfee_r = '0.0002'
-ordertype = 'reloffer'
+cjfee_a = 0
+cjfee_r = '0.000'
+ordertype = 'absoffer'
 nickserv_password = ''
 minsize = 100000
 mix_levels = 5

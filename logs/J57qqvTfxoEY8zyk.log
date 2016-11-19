@@ -1,0 +1,1220 @@
+2016-11-19 06:08:12,460 [MainThread  ] [INFO ]  starting yield generator
+2016-11-19 06:08:12,461 [MainThread  ] [DEBUG]  get_utxos_by_mixdepth = 
+{0: {u'b3a1c9797a584ef7cd52f306b47820b87122a5ffc2cdbb7e51074bd367bae51f:0': {'address': u'15TvPe6A5CJ4H8u3BD5Dx2wqrH4RHFVA7G',
+                                                                             'value': 1000000000}},
+ 1: {},
+ 2: {},
+ 3: {},
+ 4: {}}
+2016-11-19 06:08:12,461 [MainThread  ] [INFO ]  connecting to message channels
+2016-11-19 06:08:12,463 [PingThread  ] [DEBUG]  starting ping thread
+2016-11-19 06:08:12,463 [PingThread  ] [DEBUG]  starting ping thread
+2016-11-19 06:08:12,463 [ThrottleThre] [DEBUG]  starting throttle thread
+2016-11-19 06:08:12,463 [MCThread    ] [INFO ]  connecting to host irc.cyberguerrilla.org6697
+2016-11-19 06:08:12,463 [MCThread    ] [INFO ]  connecting to host agora.anarplex.net14716
+2016-11-19 06:08:12,463 [ThrottleThre] [DEBUG]  starting throttle thread
+2016-11-19 06:08:14,392 [MCThread    ] [DEBUG]  found network name: CgAn;
+2016-11-19 06:08:14,869 [MCThread    ] [INFO ]  Connected to IRC and joined channel on CgAn 
+2016-11-19 06:08:17,490 [MCThread    ] [DEBUG]  found network name: agora-irc;
+2016-11-19 06:08:18,799 [MCThread    ] [INFO ]  Connected to IRC and joined channel on agora-irc 
+2016-11-19 06:16:40,971 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J5RTXSd3fLFKpMcO message=!orderbook
+2016-11-19 06:16:40,972 [MCThread    ] [DEBUG]  >>privmsg on CgAn: nick=J5RTXSd3fLFKpMcO cmd=absoffer msg=0 100000 999972700 1000 1200
+2016-11-19 06:16:53,246 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J55vTsRWBSHKauk7 message=!orderbook
+2016-11-19 06:16:53,247 [MCThread    ] [DEBUG]  >>privmsg on CgAn: nick=J55vTsRWBSHKauk7 cmd=absoffer msg=0 100000 999972700 1000 1200
+2016-11-19 06:17:12,201 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J554Axu1c19ZtxhZ message=!hp2 8755869e1d04abc4749a47cd7a1d73af00a2d764778f0ef6c754ee4fa54e5697
+2016-11-19 06:17:12,202 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 8755869e1d04abc4749a47cd7a1d73af00a2d764778f0ef6c754ee4fa54e5697, now blacklisted.
+2016-11-19 06:17:12,262 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J554Axu1c19ZtxhZ message=!hp2 8755869e1d04abc4749a47cd7a1d73af00a2d764778f0ef6c754ee4fa54e5697
+2016-11-19 06:17:12,263 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 8755869e1d04abc4749a47cd7a1d73af00a2d764778f0ef6c754ee4fa54e5697, now blacklisted.
+2016-11-19 06:18:13,946 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J53dC5LZzCK9owJL message=!hp2 e69d8151378b8847a9a173c845b430a8b278e75e0b3fd8a2a26f092e2d1b8845
+2016-11-19 06:18:13,947 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: e69d8151378b8847a9a173c845b430a8b278e75e0b3fd8a2a26f092e2d1b8845, now blacklisted.
+2016-11-19 06:18:42,073 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J59YbBMtQeErbBeo message=!hp2 25178a31fe88613935e8fe074c08b139c4973f3dfc4b1c9a8d299cbfdff6e7fc
+2016-11-19 06:18:42,075 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 25178a31fe88613935e8fe074c08b139c4973f3dfc4b1c9a8d299cbfdff6e7fc, now blacklisted.
+2016-11-19 06:18:46,274 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J52vPZSKotHFddHj message=!hp2 25178a31fe88613935e8fe074c08b139c4973f3dfc4b1c9a8d299cbfdff6e7fc
+2016-11-19 06:18:46,275 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 25178a31fe88613935e8fe074c08b139c4973f3dfc4b1c9a8d299cbfdff6e7fc, now blacklisted.
+2016-11-19 06:18:46,501 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J52vPZSKotHFddHj message=!hp2 25178a31fe88613935e8fe074c08b139c4973f3dfc4b1c9a8d299cbfdff6e7fc
+2016-11-19 06:18:46,501 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 25178a31fe88613935e8fe074c08b139c4973f3dfc4b1c9a8d299cbfdff6e7fc, now blacklisted.
+2016-11-19 06:24:41,991 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J5Cj9RBjvSUnNRZS message=!hp2 64ce0b621c60ec4e12fe16fb3a1337ea92f63559306474cf9ca20972ed204bb8
+2016-11-19 06:24:41,992 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 64ce0b621c60ec4e12fe16fb3a1337ea92f63559306474cf9ca20972ed204bb8, now blacklisted.
+2016-11-19 06:24:48,117 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J53EqmomkihARRzQ message=!hp2 64ce0b621c60ec4e12fe16fb3a1337ea92f63559306474cf9ca20972ed204bb8
+2016-11-19 06:24:48,122 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 64ce0b621c60ec4e12fe16fb3a1337ea92f63559306474cf9ca20972ed204bb8, now blacklisted.
+2016-11-19 06:24:48,602 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J53EqmomkihARRzQ message=!hp2 64ce0b621c60ec4e12fe16fb3a1337ea92f63559306474cf9ca20972ed204bb8
+2016-11-19 06:24:48,603 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 64ce0b621c60ec4e12fe16fb3a1337ea92f63559306474cf9ca20972ed204bb8, now blacklisted.
+2016-11-19 06:26:39,211 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J547ejG1uxnq8T9C message=!hp2 9887bdc21dba9165a01a6449f5f708ddb7cfeb991b85ba3d466a9b7cfce69736
+2016-11-19 06:26:39,212 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 9887bdc21dba9165a01a6449f5f708ddb7cfeb991b85ba3d466a9b7cfce69736, now blacklisted.
+2016-11-19 06:27:00,023 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J58m3wTHsFccb2Gt message=!orderbook
+2016-11-19 06:27:00,024 [MCThread    ] [DEBUG]  >>privmsg on CgAn: nick=J58m3wTHsFccb2Gt cmd=absoffer msg=0 100000 999972700 1000 1200
+2016-11-19 06:27:24,747 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J5BB3jMzr5DsG8an message=!hp2 28d4129b296697937d435c3a648f288c3c480054717f5aafc7081c81ba4a3e66
+2016-11-19 06:27:24,748 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 28d4129b296697937d435c3a648f288c3c480054717f5aafc7081c81ba4a3e66, now blacklisted.
+2016-11-19 06:27:25,066 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5BB3jMzr5DsG8an message=!hp2 28d4129b296697937d435c3a648f288c3c480054717f5aafc7081c81ba4a3e66
+2016-11-19 06:27:25,066 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 28d4129b296697937d435c3a648f288c3c480054717f5aafc7081c81ba4a3e66, now blacklisted.
+2016-11-19 06:27:25,540 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J547ejG1uxnq8T9C message=!hp2 28d4129b296697937d435c3a648f288c3c480054717f5aafc7081c81ba4a3e66
+2016-11-19 06:27:25,540 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 28d4129b296697937d435c3a648f288c3c480054717f5aafc7081c81ba4a3e66, now blacklisted.
+2016-11-19 06:27:42,416 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J58UKJHHWt5EdbM3 message=!hp2 02a158ca49b169df967f7dc28e3a3e35a0490a0d0b4f4bf25f84bf14d5ba856d
+2016-11-19 06:27:42,417 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 02a158ca49b169df967f7dc28e3a3e35a0490a0d0b4f4bf25f84bf14d5ba856d, now blacklisted.
+2016-11-19 06:28:28,292 [MCThread    ] [DEBUG]  <<privmsg on CgAn: nick=J57jKyEckASes7YM message=!hp2 93e960c6c92726a5e29acac651b263e9d29beb424526b30b932af29f7ee5181e 0372ffd277c426a623c286a7f2658ac4f5db23deffad0da75fe95d5261394a7345 MEQCIB2EhjwhS4bcC8+PaqL6h4qeA+T793Rzr75HNQAA7Y+GAiApr7Q+17CLIIfjrvzhoSaITLjY53gOMs2WPx1styYtkA==
+2016-11-19 06:28:28,294 [MCThread    ] [DEBUG]  >>pubmsg !hp2 93e960c6c92726a5e29acac651b263e9d29beb424526b30b932af29f7ee5181e
+2016-11-19 06:28:28,294 [MCThread    ] [DEBUG]  >>pubmsg !hp2 93e960c6c92726a5e29acac651b263e9d29beb424526b30b932af29f7ee5181e
+2016-11-19 06:28:54,203 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J59Jf8hjZMLxF2fo message=!reloffer 0 1500000 1373755161 100 0.0001 ~
+2016-11-19 06:34:48,313 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J58pzNiLzYCQkRHv message=!reloffer 0 8333333 54229306 1000 0.00018 ~
+2016-11-19 06:34:49,084 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J5Cj9RBjvSUnNRZS message=!reloffer 0 0 7611876226 0 0.000123 ~
+2016-11-19 06:34:49,085 [MCThread    ] [DEBUG]  J5Cj9RBjvSUnNRZS has dusty minsize, capping at 27300
+2016-11-19 06:34:51,629 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J59kEneN7Pa16rXS message=!reloffer 0 100000 156384574 100 0.0015 ~
+2016-11-19 06:34:53,479 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J547ejG1uxnq8T9C message=!reloffer 0 0 3605436326 0 0.000166 ~
+2016-11-19 06:34:53,480 [MCThread    ] [DEBUG]  J547ejG1uxnq8T9C has dusty minsize, capping at 27300
+2016-11-19 06:34:59,824 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J57jKyEckASes7YM message=!reloffer 0 10000000 631000526 1000 0.00015 ~
+2016-11-19 06:34:59,977 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J59Jf8hjZMLxF2fo message=!reloffer 0 1500000 2360482876 100 0.0001 ~
+2016-11-19 06:37:38,235 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J5885E33rERycbuB message=!absoffer 0 1000 722355 2 400 ~
+2016-11-19 06:37:38,235 [MCThread    ] [DEBUG]  J5885E33rERycbuB has dusty minsize, capping at 27300
+2016-11-19 06:39:53,621 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J574zWsPoHQr1BKF message=!orderbook
+2016-11-19 06:39:53,621 [MCThread    ] [DEBUG]  >>privmsg on CgAn: nick=J574zWsPoHQr1BKF cmd=absoffer msg=0 100000 999972700 1000 1200
+2016-11-19 06:41:15,326 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J52vPZSKotHFddHj message=!hp2 cdea8bea48182bd85a06121af155fb2d777b47e42680f9e7745e845edbf1043c
+2016-11-19 06:41:15,326 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J52vPZSKotHFddHj message=!hp2 cdea8bea48182bd85a06121af155fb2d777b47e42680f9e7745e845edbf1043c
+2016-11-19 06:41:15,328 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: cdea8bea48182bd85a06121af155fb2d777b47e42680f9e7745e845edbf1043c, now blacklisted.
+2016-11-19 06:41:15,328 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: cdea8bea48182bd85a06121af155fb2d777b47e42680f9e7745e845edbf1043c, now blacklisted.
+2016-11-19 06:41:18,781 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J5CnFXy94JLgjimE message=!hp2 cdea8bea48182bd85a06121af155fb2d777b47e42680f9e7745e845edbf1043c
+2016-11-19 06:41:18,781 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: cdea8bea48182bd85a06121af155fb2d777b47e42680f9e7745e845edbf1043c, now blacklisted.
+2016-11-19 06:41:50,123 [MCThread    ] [DEBUG]  <<privmsg on CgAn: nick=J55WFEjJgv6cBxwm message=!fill 0 4211697 85dd6af474a01e62deef6f7a937b61800f4db60312e7fa2f961f06fd513cff20 P9e19e431dc4be98f7201f962c7068562ada9321c82c6393d50924b51d9a161a9 022270fd59f6dc0951b0140c6ac5bfe61affa8a46bedda33d0d4aefc9215ebd16d MEUCIQDKfEGHX4Dhs2gT3Hb1jXWzBFp9Vh+83A47gGzW3NRPbQIgdgLoTZRTWx0KhIMGcxup/OIHJ7h9D6dybfUPCmv+lc8=
+2016-11-19 06:41:50,128 [MCThread    ] [INFO ]  new cjorder nick=J55WFEjJgv6cBxwm oid=0 amount=4211697
+2016-11-19 06:41:50,131 [MCThread    ] [DEBUG]  get_utxos_by_mixdepth = 
+{0: {u'b3a1c9797a584ef7cd52f306b47820b87122a5ffc2cdbb7e51074bd367bae51f:0': {'address': u'15TvPe6A5CJ4H8u3BD5Dx2wqrH4RHFVA7G',
+                                                                             'value': 1000000000}},
+ 1: {},
+ 2: {},
+ 3: {},
+ 4: {}}
+2016-11-19 06:41:50,131 [MCThread    ] [DEBUG]  mix depths that have enough = [(0, 1000000000)]
+2016-11-19 06:41:50,132 [MCThread    ] [INFO ]  filling offer, mixdepth=0
+2016-11-19 06:41:50,133 [MCThread    ] [DEBUG]  rpc: getaccount ['1CH7kwCRy8NiWoXE8PhgnzQEM2eMtyfqnu']
+2016-11-19 06:41:50,145 [MCThread    ] [DEBUG]  rpc: getaccount ['19tZCmEUAEjg2usJHy2JHR9sY2YA1Xu5BK']
+2016-11-19 06:41:50,147 [MCThread    ] [DEBUG]  get_utxos_by_mixdepth = 
+{0: {u'b3a1c9797a584ef7cd52f306b47820b87122a5ffc2cdbb7e51074bd367bae51f:0': {'address': u'15TvPe6A5CJ4H8u3BD5Dx2wqrH4RHFVA7G',
+                                                                             'value': 1000000000}},
+ 1: {},
+ 2: {},
+ 3: {},
+ 4: {}}
+2016-11-19 06:41:50,147 [MCThread    ] [DEBUG]  for mixdepth=0 amount=4212697 selected:
+2016-11-19 06:41:50,147 [MCThread    ] [DEBUG]  [{'utxo': u'b3a1c9797a584ef7cd52f306b47820b87122a5ffc2cdbb7e51074bd367bae51f:0',
+  'value': 1000000000}]
+2016-11-19 06:41:50,148 [MCThread    ] [DEBUG]  maker utxos = {u'b3a1c9797a584ef7cd52f306b47820b87122a5ffc2cdbb7e51074bd367bae51f:0': {'address': u'15TvPe6A5CJ4H8u3BD5Dx2wqrH4RHFVA7G',
+                                                                         'value': 1000000000}}
+2016-11-19 06:41:50,148 [MCThread    ] [DEBUG]  rpc: gettxout [u'b3a1c9797a584ef7cd52f306b47820b87122a5ffc2cdbb7e51074bd367bae51f', 0, False]
+2016-11-19 06:41:50,151 [MCThread    ] [DEBUG]  Dynamic switch nick: J55WFEjJgv6cBxwm
+2016-11-19 06:41:50,151 [MCThread    ] [DEBUG]  >>privmsg on CgAn: nick=J55WFEjJgv6cBxwm cmd=pubkey msg=f48a7267010bf89f4f253985a016638064df164abc459cc74805be3770f3bf31
+2016-11-19 06:41:54,323 [MCThread    ] [DEBUG]  <<privmsg on CgAn: nick=J55WFEjJgv6cBxwm message=!auth K0cRC1RWodn5Xp9ix4TFYRSeyP5lilxrYiZutb1j5AFhG33PMDgx8XvXhpUIl2Em4mHWHYnukqN5I/cZuhRwOCIZTpYz0h+i6TGSdLSJUfeYrbbcUJ3qMhbsa5YSLPTriAn52Jz373/RUPCxeeQTQO8gUQ65G848rOICrhzkuFw5Yys5I4tnpNId7QM26ESefa9vCfAcsrNunkgdtUarwNNfaBnzUcPG7A1URqo+5sBLgjHBH6tOsChlsq04lQY7ZHTWxgLz3wv/hv9YGwUhZmLo8WzKuMmOiGDbAI4Ohx1z7Q5VehEM8wp1OYmF/txy6YLWcWGxKwTWAAFetbne3ieyzltjV1CAgxegCsg8Ett6eEpRdA9rnOR5hPhpgT6Vk/yTOk+6YOGGh3zdaONXGS3DrjMUeMKtOzBNnPceXuVxJOe/pSoy+baoFj6apvnh+FLd7Id7ia826k7AfUVFfs//4Nvoh1MhNLT2TBqqCUEr2g== 022270fd59f6dc0951b0140c6ac5bfe61affa8a46bedda33d0d4aefc9215ebd16d MEUCIQCoTQ4IPebmsKvZy596a3xWkIr5b4w5zYU6jdeWNToaAAIgeZzLu6QCoJdC8F0mYZ9iiZjalUxak10E9s/wJbhXHFI=
+2016-11-19 06:41:54,361 [MCThread    ] [DEBUG]  rpc: gettxout ['78a4b273087976e6b17a00b39952db4b40babaad7faf6b60aa9bdfdc35f8b784', 2, False]
+2016-11-19 06:41:54,364 [MCThread    ] [DEBUG]  >>privmsg on CgAn: nick=J55WFEjJgv6cBxwm cmd=ioauth msg=b3a1c9797a584ef7cd52f306b47820b87122a5ffc2cdbb7e51074bd367bae51f:0 02b943812e380089c254a88ff7a781c456e82543dee3e8fedae973561246bc2f2e 1CH7kwCRy8NiWoXE8PhgnzQEM2eMtyfqnu 19tZCmEUAEjg2usJHy2JHR9sY2YA1Xu5BK MEQCIGYxPL99qcxaeHPpU9NmfMw34A8y8myWwcP7elIuf67NAiAev4Mk1iGatWPHDinPCOWI7++DE0pVSqcKd9l/twwWRA==
+2016-11-19 06:41:54,365 [MCThread    ] [DEBUG]  Sending commitment to: J5Cj9RBjvSUnNRZS
+2016-11-19 06:41:54,366 [MCThread    ] [DEBUG]  >>privmsg on CgAn: nick=J5Cj9RBjvSUnNRZS cmd=hp2 msg=9e19e431dc4be98f7201f962c7068562ada9321c82c6393d50924b51d9a161a9
+2016-11-19 06:41:55,282 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J5BEFG5iJwQMrkm5 message=!hp2 9e19e431dc4be98f7201f962c7068562ada9321c82c6393d50924b51d9a161a9
+2016-11-19 06:41:55,282 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 9e19e431dc4be98f7201f962c7068562ada9321c82c6393d50924b51d9a161a9, now blacklisted.
+2016-11-19 06:41:55,440 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J5Cj9RBjvSUnNRZS message=!hp2 9e19e431dc4be98f7201f962c7068562ada9321c82c6393d50924b51d9a161a9
+2016-11-19 06:41:55,441 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 9e19e431dc4be98f7201f962c7068562ada9321c82c6393d50924b51d9a161a9, now blacklisted.
+2016-11-19 06:41:55,885 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5BEFG5iJwQMrkm5 message=!hp2 9e19e431dc4be98f7201f962c7068562ada9321c82c6393d50924b51d9a161a9
+2016-11-19 06:41:55,885 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 9e19e431dc4be98f7201f962c7068562ada9321c82c6393d50924b51d9a161a9, now blacklisted.
+2016-11-19 06:42:11,563 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J57GyfTkwEnXERKX message=!orderbook
+2016-11-19 06:42:11,564 [MCThread    ] [DEBUG]  >>privmsg on CgAn: nick=J57GyfTkwEnXERKX cmd=absoffer msg=0 100000 999972700 1000 1200
+2016-11-19 06:42:22,371 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J57FVuHeT9YteNSP message=!hp2 68ffe451b40cd8f9322d3c588ecb1f9d53dc6cbff517650f2c5edac4ecc59f1b
+2016-11-19 06:42:22,372 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 68ffe451b40cd8f9322d3c588ecb1f9d53dc6cbff517650f2c5edac4ecc59f1b, now blacklisted.
+2016-11-19 06:42:38,153 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J5Cj9RBjvSUnNRZS message=!hp2 ec916a6d148ca80345c1230d201b8c786807ef59e41a0fbbd3723547e70e53d8
+2016-11-19 06:42:38,153 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: ec916a6d148ca80345c1230d201b8c786807ef59e41a0fbbd3723547e70e53d8, now blacklisted.
+2016-11-19 06:42:58,031 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J547ejG1uxnq8T9C message=!reloffer 0 0 3605569269 0 0.000166 ~
+2016-11-19 06:42:58,032 [MCThread    ] [DEBUG]  J547ejG1uxnq8T9C has dusty minsize, capping at 27300
+2016-11-19 06:42:58,190 [MCThread    ] [DEBUG]  <<privmsg on CgAn: nick=J55WFEjJgv6cBxwm message=!tx YOEkasPWBdhDN8+rBgKTsb9+y/C/ETzbHx2DteDwgGEmQZIId6n9gKZaoUpno7BMf0fpGvHQz1FxA3IfxgpQraWCzplftW7aCMHsuWK6h5AzylFgz2CLHFumq1Y5L/U+AZ/4lj+9d9V36GFMVulvr5Vwe2BHnNgcxkpnTm+EazuZ08o+AgeDLNWDiOoB0YlK5JEMJtfeBpXGPDf6WPSV1b4Hp7WfbAhCN4tpco0h61MHkDjnShH7VYh9dIJjCgxyrEhwjpXqFgR+/GA2y59pk5sJ10gLIdy69q46wI0lQIIbqIXLDYWQv1I1PSzKMD++N94i2YdUguqFi6auFKsXOAywbLdqTdxkGO7Ikr92t38gKrUZCok6USx1EBJ7OZhEYfiALxr2zNjVJH9Wt62H53jFpSe9viGbjajlk0RUp/Fq3DoUUwpAVgM3RhOaDkcjnbzwSGu72ZKT5iXL6+fN7qaP56I6OR1efup+QPgInCUw/tjWCCv/Cwn/10+/u4C1JBNpOXRf1PmQs4lwykmdUp/mdSTckY45h9ecg0UUf9a++w7I3KMSlbCGnzXliSUscazwio7IeKW9prNTingMM9C0Y5ekTFJzb51hePr1Y9S97/XGt7nRcdS8V/D3ZrJmzeDim6wbg18d+ud393BTPar2HZ6LLiM/QeuZrcvMudtpBWztMIHl1Hl0HssDZzvzZMenoXrl4xFCGZfBuqe01Wu52lSp/c3wO96SyRuSxbJc+MSS5u1mr2boPKQu7/nu7dxu183vH6EUU87d5bQzspfnDAO1CVhe7tfrNRHSV4sRKSTnleS6gaDvvbo+RuOXrv+jACJ9lb7xy+iimRn/NeAHCttCba/e7S4IgzPILKtZh7V73VkBN2kaf0BWj7Br8fs8IK/2p0LopTDoCqJRMR6Ejv1uEKbi68MMpY7gRN3g3zOR5S2cpwnNbyKsIjzzGFVnNkd6gRd71TKxyvqMWCHzEenP3Yic89NKGZVuJkY3D6W/n0+l80NRa7dZa6vVmQ6Xr/2nf5bpxJBy+iIGRdc9kZyUyFSFQQC9Fw5vO+ocYiiJSigRBpzJc0viJiMNXItw89ftgle44JFbrOdlba5Hq0reSaCmtZPwd/l/jYHczErK6gtzkc+2TUNXSpSm15qOvvOwj17Bzr9/WEhyq/kui+j4lJ5USzUxRK2EtLj7iHBMmajk0O3rf0BCAXj5gY7RE3DmLHHVzqtvOAotPA== 022270fd59f6dc0951b0140c6ac5bfe61affa8a46bedda33d0d4aefc9215ebd16d MEUCIQCo8DJYgWZBav6b//1PAQRABblqq0ms/OSDJIqMveQJCgIgCgnCqw+CAAWmPCABXMben1J6IrZia5DxSuW6VMNA7Iw=
+2016-11-19 06:42:58,197 [MCThread    ] [INFO ]  obtained tx
+{'ins': [{'outpoint': {'hash': 'fd46ab33cf074ad9a20f7c42c12463bdc4a91657c67aec79129015de765db817',
+                       'index': 0},
+          'script': '',
+          'sequence': 4294967295},
+         {'outpoint': {'hash': '78a4b273087976e6b17a00b39952db4b40babaad7faf6b60aa9bdfdc35f8b784',
+                       'index': 2},
+          'script': '',
+          'sequence': 4294967295},
+         {'outpoint': {'hash': 'dcb65ab99d0947717594044e8e4efd3258e4aceced376ed1df55057c4f431511',
+                       'index': 0},
+          'script': '',
+          'sequence': 4294967295},
+         {'outpoint': {'hash': 'a50a8aabb1f881d6b2d852d15d17b907381efe69daa3a702a0dc1c0ed4460e83',
+                       'index': 2},
+          'script': '',
+          'sequence': 4294967295},
+         {'outpoint': {'hash': 'b3a1c9797a584ef7cd52f306b47820b87122a5ffc2cdbb7e51074bd367bae51f',
+                       'index': 0},
+          'script': '',
+          'sequence': 4294967295},
+         {'outpoint': {'hash': '2aba2d1a263cb9760d230aefe2492643d1f572a233a040df7b0f7f2e74b217d9',
+                       'index': 11},
+          'script': '',
+          'sequence': 4294967295}],
+ 'locktime': 0,
+ 'outs': [{'script': '76a9145b30271893a376c4b61fe5376170b57b78b3d61388ac',
+           'value': 4211697},
+          {'script': '76a914261f2be8c030640eb4537330514d11339de2fc3988ac',
+           'value': 19861},
+          {'script': '76a914ff2a913ff9c5ba28f0535a7e5108e09f34d6a1cd88ac',
+           'value': 1212359},
+          {'script': '76a914e75bda434b00b48e500d4b95c7054ad67070be9d88ac',
+           'value': 157177687},
+          {'script': '76a914315d5a0b9943e8f6336f5bf8d259eeffb7d3531488ac',
+           'value': 1452213},
+          {'script': '76a9145a7bf1b146ad853c2dad17dde9ed05223f7b9a3288ac',
+           'value': 4211697},
+          {'script': '76a91468d10ab44dcf291511b9bb6c703c1646bce0182b88ac',
+           'value': 4211697},
+          {'script': '76a9142668a3acf3a832f7e6d6c9b29661936567a84bac88ac',
+           'value': 4211697},
+          {'script': '76a91405ae3e55c7b8bec26dc768d9dd60522855e6467f88ac',
+           'value': 4211697},
+          {'script': '76a9147bb5ae0c8bd445e225059f462ef91631e974b22688ac',
+           'value': 4211697},
+          {'script': '76a914d32beb68b40ab3c86918484fcdcbc19f729bf4f188ac',
+           'value': 75043},
+          {'script': '76a91461811a140c1b247f52f0036129e0c9d0b32b992a88ac',
+           'value': 995788503}],
+ 'version': 1}
+2016-11-19 06:42:58,198 [MCThread    ] [INFO ]  potentially earned = 200
+2016-11-19 06:42:58,198 [MCThread    ] [DEBUG]  mycjaddr, mychange = 1CH7kwCRy8NiWoXE8PhgnzQEM2eMtyfqnu, 19tZCmEUAEjg2usJHy2JHR9sY2YA1Xu5BK
+2016-11-19 06:42:58,199 [MCThread    ] [INFO ]  goodtx
+2016-11-19 06:42:58,208 [MCThread    ] [DEBUG]  rpc: getaccount ['19KABAdqP4Lz6iBe2cqKUi5HyvccMUJetv']
+2016-11-19 06:42:58,209 [CoreNotifyTh] [INFO ]  started bitcoin core notify listening thread, host=localhost port=62602
+2016-11-19 06:42:58,210 [MCThread    ] [DEBUG]  rpc: getaccount ['14Ua28EfeSAcePVnAmchacWCyewwj1Y8yq']
+2016-11-19 06:42:58,211 [MCThread    ] [DEBUG]  rpc: getaccount ['1QGCJYvLuUFBD5XnmnLcgeCZQ4bgqkPDNb']
+2016-11-19 06:42:58,212 [MCThread    ] [DEBUG]  rpc: getaccount ['1N6K8LsZcwicizHWvLCdWSDffL1fB8R3sS']
+2016-11-19 06:42:58,213 [MCThread    ] [DEBUG]  rpc: getaccount ['15W1wbMN74VNPdU2QsabSJDotNEfegNuHX']
+2016-11-19 06:42:58,213 [MCThread    ] [DEBUG]  rpc: getaccount ['19FSJ43pmNwiE352QMVQdsFioHDFuKJiUW']
+2016-11-19 06:42:58,214 [MCThread    ] [DEBUG]  rpc: getaccount ['1AZDhRxEYsJ4KVCMEPjQZYCXz6TBZpSTvm']
+2016-11-19 06:42:58,215 [MCThread    ] [DEBUG]  rpc: getaccount ['14W62m4H3oDQARGWN4AsQFFTuqUFepNAmR']
+2016-11-19 06:42:58,216 [MCThread    ] [DEBUG]  rpc: getaccount ['1X37cMSpUuqs92eaEDjPYLZ5gAaVnazM7']
+2016-11-19 06:42:58,217 [MCThread    ] [DEBUG]  rpc: getaccount ['1CH7kwCRy8NiWoXE8PhgnzQEM2eMtyfqnu']
+2016-11-19 06:42:58,217 [MCThread    ] [DEBUG]  >>privmsg on CgAn: nick=J55WFEjJgv6cBxwm cmd=sig msg=SDBFAiEAoRP2MemXgAJre+cZooNTANyyyYCarwiwZ3UxadrWMvYCIHG55ViRG+zoL3ignmPu67Ked0meKbAj4MluDNNHae8JASECuUOBLjgAicJUqI/3p4HEVuglQ97j6P7a6XNWEka8Ly4=
+2016-11-19 06:42:59,527 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J52tq84QiS36yfCS message=!reloffer 0 100000 317177205 0 0.001 ~
+2016-11-19 06:43:07,752 [CoreNotifyTh] [DEBUG]  rpc: getrawtransaction ['d3882ff4e1f3ae6539ac4bfae76b265e273d15d82afffd844b4a26c4d0f10c54']
+2016-11-19 06:43:07,755 [CoreNotifyTh] [DEBUG]  rpc: gettxout ['d3882ff4e1f3ae6539ac4bfae76b265e273d15d82afffd844b4a26c4d0f10c54', 0, True]
+2016-11-19 06:43:07,756 [CoreNotifyTh] [DEBUG]  get_utxos_by_mixdepth = 
+{0: {}, 1: {}, 2: {}, 3: {}, 4: {}}
+2016-11-19 06:43:07,756 [CoreNotifyTh] [DEBUG]  removed utxos, wallet now is 
+{0: {}, 1: {}, 2: {}, 3: {}, 4: {}}
+2016-11-19 06:43:07,756 [CoreNotifyTh] [INFO ]  saw tx on network, removed_utxos=
+{'b3a1c9797a584ef7cd52f306b47820b87122a5ffc2cdbb7e51074bd367bae51f:0': {'address': u'15TvPe6A5CJ4H8u3BD5Dx2wqrH4RHFVA7G',
+                                                                        'value': 1000000000}}
+2016-11-19 06:43:07,757 [CoreNotifyTh] [DEBUG]  get_utxos_by_mixdepth = 
+{0: {}, 1: {}, 2: {}, 3: {}, 4: {}}
+2016-11-19 06:43:07,757 [CoreNotifyTh] [ERROR]  do not have any coins left
+2016-11-19 06:43:07,757 [CoreNotifyTh] [INFO ]  modifying orders. to_cancel=[0]
+to_announce=[]
+2016-11-19 06:43:07,757 [CoreNotifyTh] [DEBUG]  >>pubmsg !cancel 0
+2016-11-19 06:43:07,757 [CoreNotifyTh] [DEBUG]  >>pubmsg !cancel 0
+2016-11-19 06:43:07,757 [CoreNotifyTh] [DEBUG]  ran unconfirmfun
+2016-11-19 06:43:11,420 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J5Cj9RBjvSUnNRZS message=!reloffer 0 0 7607645186 0 0.000123 ~
+2016-11-19 06:43:11,422 [MCThread    ] [DEBUG]  J5Cj9RBjvSUnNRZS has dusty minsize, capping at 27300
+2016-11-19 06:43:18,242 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J54ChMpZkKgagTko message=!reloffer 0 300000 1023493401 10 0.00005 ~
+2016-11-19 06:43:35,989 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J5CxZiJbmzVBEg7T message=!hp2 4e5f39e116b0cf7674df18714bf17935197198106faf42acf72c1d046ec54df3
+2016-11-19 06:43:35,990 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 4e5f39e116b0cf7674df18714bf17935197198106faf42acf72c1d046ec54df3, now blacklisted.
+2016-11-19 06:43:58,410 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J52GZVYijiyeidYB message=!reloffer 0 154990 17512435 10 0.00009678 ~
+2016-11-19 06:45:20,098 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J57ysiMuP5diWB2Z message=!orderbook
+2016-11-19 06:48:14,043 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 06:49:14,043 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 06:49:14,043 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 06:54:14,122 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 06:55:14,122 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 06:55:14,122 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 06:56:51,350 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J532VhLY3XfePFyR message=!hp2 68bfbd0345cd955f478c47893e3e6c069e6804ba7e3a3d019205ccefca770b24
+2016-11-19 06:56:51,351 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 68bfbd0345cd955f478c47893e3e6c069e6804ba7e3a3d019205ccefca770b24, now blacklisted.
+2016-11-19 06:58:06,366 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5DLYfaLbk2xPe3q message=!absoffer 2 20000000 88999999 0 17191!reloffer 3 89000000 185198407 0 0.0001003486 ~
+2016-11-19 06:58:06,827 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5DLYfaLbk2xPe3q message=!reloffer 3 89000000 147144831 0 1.46419e-05 ~
+2016-11-19 06:58:13,293 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5BV7LQ5NWNSACYG message=!reloffer 0 75376884 3055954720 1000 0.0000199 ~
+2016-11-19 07:00:14,198 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 07:01:14,198 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 07:01:14,198 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 07:04:14,014 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J59ztqz8pxxcUySL message=!hp2 d602fe95eea7b572f5e43916b6fdc8535b6b6d9733d4154596638222ab1ee9e1
+2016-11-19 07:04:14,015 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: d602fe95eea7b572f5e43916b6fdc8535b6b6d9733d4154596638222ab1ee9e1, now blacklisted.
+2016-11-19 07:06:14,293 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 07:07:14,293 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 07:07:14,293 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 07:12:14,389 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 07:13:14,389 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 07:13:14,389 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 07:16:36,001 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5DLYfaLbk2xPe3q message=!reloffer 3 89000000 284614655 0 0.0001003486 ~
+2016-11-19 07:16:36,650 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5DLYfaLbk2xPe3q message=!reloffer 3 89000000 329848067 0 0.0001003486 ~
+2016-11-19 07:18:14,485 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 07:18:21,900 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5BV7LQ5NWNSACYG message=!reloffer 0 75376884 3132913289 1000 0.0000199 ~
+2016-11-19 07:18:45,926 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5PCqJag1ZFas78O message=!reloffer 0 10000000 261009877 0 0.00003 ~
+2016-11-19 07:19:14,485 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 07:19:14,486 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 07:24:14,581 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 07:25:14,581 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 07:25:14,581 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 07:26:00,407 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5PCqJag1ZFas78O message=!reloffer 0 10000000 266252082 0 0.00003 ~
+2016-11-19 07:30:14,657 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 07:31:14,657 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 07:31:14,657 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 07:34:36,556 [CoreNotifyTh] [DEBUG]  rpc: getrawtransaction ['b8ccf48feb09a4674451aceeb41bd469c18d9902f1a3b7da3e5a381089871c4f']
+2016-11-19 07:34:36,575 [CoreNotifyTh] [INFO ]  txid=b8ccf48feb09a4674451aceeb41bd469c18d9902f1a3b7da3e5a381089871c4f not being listened for
+2016-11-19 07:34:36,576 [CoreNotifyTh] [DEBUG]  rpc: getrawtransaction ['d3882ff4e1f3ae6539ac4bfae76b265e273d15d82afffd844b4a26c4d0f10c54']
+2016-11-19 07:34:36,593 [CoreNotifyTh] [DEBUG]  rpc: gettxout ['d3882ff4e1f3ae6539ac4bfae76b265e273d15d82afffd844b4a26c4d0f10c54', 0, True]
+2016-11-19 07:34:36,595 [CoreNotifyTh] [DEBUG]  rpc: listunspent []
+2016-11-19 07:34:36,597 [CoreNotifyTh] [DEBUG]  bitcoind sync_unspent took 0.00174903869629sec
+2016-11-19 07:34:36,597 [CoreNotifyTh] [INFO ]  tx in a block
+2016-11-19 07:34:36,597 [CoreNotifyTh] [INFO ]  earned = 200
+2016-11-19 07:34:36,599 [CoreNotifyTh] [DEBUG]  get_utxos_by_mixdepth = 
+{0: {u'b8ccf48feb09a4674451aceeb41bd469c18d9902f1a3b7da3e5a381089871c4f:6': {'address': u'1J1qJk9kuChpLQ599nZ4DzTQDaYNWA3tg5',
+                                                                             'value': 97963038},
+     u'd3882ff4e1f3ae6539ac4bfae76b265e273d15d82afffd844b4a26c4d0f10c54:11': {'address': u'19tZCmEUAEjg2usJHy2JHR9sY2YA1Xu5BK',
+                                                                              'value': 995788503}},
+ 1: {u'b8ccf48feb09a4674451aceeb41bd469c18d9902f1a3b7da3e5a381089871c4f:3': {'address': u'13Nyk7c6tDcDxX1d1BesvAARHTPRWQBb1t',
+                                                                             'value': 2037162},
+     u'd3882ff4e1f3ae6539ac4bfae76b265e273d15d82afffd844b4a26c4d0f10c54:9': {'address': u'1CH7kwCRy8NiWoXE8PhgnzQEM2eMtyfqnu',
+                                                                             'value': 4211697}},
+ 2: {},
+ 3: {},
+ 4: {}}
+2016-11-19 07:34:36,599 [CoreNotifyTh] [INFO ]  modifying orders. to_cancel=[]
+to_announce=[{'ordertype': 'absoffer', 'oid': 0, 'minsize': 100000, 'txfee': 1000, 'maxsize': 1093724241, 'cjfee': '1200'}]
+2016-11-19 07:34:36,599 [CoreNotifyTh] [DEBUG]  ran confirmfun
+2016-11-19 07:34:36,600 [ThrottleThre] [ERROR]  failed to send on socket
+2016-11-19 07:36:14,733 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 07:37:14,733 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 07:37:14,735 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 07:42:14,763 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 07:43:14,763 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 07:43:14,763 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 07:43:58,680 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5DsX42xDFK6XrKp message=!hp2 9a1a811f3120410291c3d50abd0dfc59c291b96e7e06156fac6975420bc9c84b
+2016-11-19 07:43:58,681 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 9a1a811f3120410291c3d50abd0dfc59c291b96e7e06156fac6975420bc9c84b, now blacklisted.
+2016-11-19 07:48:14,821 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 07:48:29,537 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5BLoTeegDpFXNUd message=!hp2 8e16075c77c198297d1ce040e1942cfd0ba42d4f0c8cce31f3386cd54ebb4f72
+2016-11-19 07:48:29,538 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 8e16075c77c198297d1ce040e1942cfd0ba42d4f0c8cce31f3386cd54ebb4f72, now blacklisted.
+2016-11-19 07:49:14,821 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 07:49:14,822 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 07:54:14,840 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 07:55:14,840 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 07:55:14,840 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 08:00:14,941 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 08:01:14,941 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 08:01:14,941 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 08:01:38,245 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5EeToeTxSDaB4mA message=!reloffer 0 7500000 942508371 1000 0.0002 ~
+2016-11-19 08:04:20,207 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5AyGMv3bToVi6oH message=!hp2 6b39ee312acd1aec54ed48e58082b3eed7977d58c4e782a170ae13379f712f17
+2016-11-19 08:04:20,209 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 6b39ee312acd1aec54ed48e58082b3eed7977d58c4e782a170ae13379f712f17, now blacklisted.
+2016-11-19 08:06:15,025 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 08:07:15,025 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 08:07:15,026 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 08:12:15,126 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 08:13:15,126 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 08:13:15,127 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 08:17:06,253 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J59ztqz8pxxcUySL message=!hp2 f28eb51c18c72817ededaa7bf7c640ca8cc614cf61bfeed5cc58ccb9ca4bf4b2
+2016-11-19 08:17:06,254 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: f28eb51c18c72817ededaa7bf7c640ca8cc614cf61bfeed5cc58ccb9ca4bf4b2, now blacklisted.
+2016-11-19 08:17:07,985 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5BV7LQ5NWNSACYG message=!hp2 f28eb51c18c72817ededaa7bf7c640ca8cc614cf61bfeed5cc58ccb9ca4bf4b2
+2016-11-19 08:17:07,986 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: f28eb51c18c72817ededaa7bf7c640ca8cc614cf61bfeed5cc58ccb9ca4bf4b2, now blacklisted.
+2016-11-19 08:18:15,212 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 08:19:15,212 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 08:19:15,213 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 08:24:15,293 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 08:25:15,293 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 08:25:15,294 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 08:25:48,344 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5EeToeTxSDaB4mA message=!hp2 cf2121a0fbabc3e385d28aa5b41044138fd97c3b354a7e340bf51d500982bfb7
+2016-11-19 08:25:48,344 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: cf2121a0fbabc3e385d28aa5b41044138fd97c3b354a7e340bf51d500982bfb7, now blacklisted.
+2016-11-19 08:30:15,390 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 08:31:15,389 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 08:31:15,389 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 08:36:15,490 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 08:36:41,476 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5DsyADveDhoK9Px message=!reloffer 0 100000 37247049 0 0.0003 ~
+2016-11-19 08:37:15,490 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 08:37:15,490 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 08:42:15,581 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 08:43:15,581 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 08:43:15,581 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 08:47:01,455 [MCThread    ] [DEBUG]  <<privmsg on agora-irc: nick=J59CUpqtq3fVvjCH message=!hp2 657749efe214f13ca6c119b82fb1666f6ed0b2e4a76781c3cdada59a9fa60b97 0254d21cbfa133438be5b7c77869a1b3efe296792bf1301fbbe6873267d4963e0f MEQCIE9+doH8jfP3bQbNaX9eJk+H+kLcv64b08ngrdvkF4OCAiBkwK1yoPDpiAeYOtC3XmvRelVvkMP3+ayqdzvM6kEhcg==
+2016-11-19 08:47:01,462 [MCThread    ] [DEBUG]  >>pubmsg !hp2 657749efe214f13ca6c119b82fb1666f6ed0b2e4a76781c3cdada59a9fa60b97
+2016-11-19 08:47:01,463 [MCThread    ] [DEBUG]  >>pubmsg !hp2 657749efe214f13ca6c119b82fb1666f6ed0b2e4a76781c3cdada59a9fa60b97
+2016-11-19 08:47:01,463 [ThrottleThre] [ERROR]  failed to send on socket
+2016-11-19 08:47:58,816 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J53EqmomkihARRzQ message=!hp2 8b0696937684b9b94b0726ccd2e5762af81144e51bd05e077024dfb516882dfb
+2016-11-19 08:47:58,818 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 8b0696937684b9b94b0726ccd2e5762af81144e51bd05e077024dfb516882dfb, now blacklisted.
+2016-11-19 08:48:15,665 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 08:49:03,110 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J56tcLNXiwC7ZewD message=!hp2 7d112f96f97cfbb152ebdf8ecdb256236f6a1136ca3eb56140cb3a3ce2a7a8ce
+2016-11-19 08:49:03,111 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 7d112f96f97cfbb152ebdf8ecdb256236f6a1136ca3eb56140cb3a3ce2a7a8ce, now blacklisted.
+2016-11-19 08:49:15,665 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 08:49:15,671 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 08:54:08,428 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J52R2KNQeEVFPshm message=!hp2 be6e6ef35ad5455c7c4db03f6f280f97066492f5e040c4e512a371ed5065d4bf
+2016-11-19 08:54:08,428 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: be6e6ef35ad5455c7c4db03f6f280f97066492f5e040c4e512a371ed5065d4bf, now blacklisted.
+2016-11-19 08:54:15,735 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 08:55:15,734 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 08:55:15,734 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 08:55:52,710 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5PCqJag1ZFas78O message=!reloffer 0 10000000 254727657 0 0.00003 ~
+2016-11-19 08:55:53,351 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5BV7LQ5NWNSACYG message=!hp2 cbb91ca0e1ef38cf56b94457d440e0f326566a07b29ef23d5cbb125d3a21a294
+2016-11-19 08:55:53,352 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: cbb91ca0e1ef38cf56b94457d440e0f326566a07b29ef23d5cbb125d3a21a294, now blacklisted.
+2016-11-19 08:55:55,902 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5BV7LQ5NWNSACYG message=!hp2 cbb91ca0e1ef38cf56b94457d440e0f326566a07b29ef23d5cbb125d3a21a294
+2016-11-19 08:55:55,903 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: cbb91ca0e1ef38cf56b94457d440e0f326566a07b29ef23d5cbb125d3a21a294, now blacklisted.
+2016-11-19 08:55:56,508 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5BV7LQ5NWNSACYG message=!reloffer 0 75376884 2871917740 1000 0.0000199 ~
+2016-11-19 08:55:57,967 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J554Axu1c19ZtxhZ message=!hp2 cbb91ca0e1ef38cf56b94457d440e0f326566a07b29ef23d5cbb125d3a21a294
+2016-11-19 08:55:57,967 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: cbb91ca0e1ef38cf56b94457d440e0f326566a07b29ef23d5cbb125d3a21a294, now blacklisted.
+2016-11-19 08:57:31,241 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J56tcLNXiwC7ZewD message=!hp2 ae4cb952601cf6a2f83c963b946995bac004103dddd3dcef353802c4c3549c16
+2016-11-19 08:57:31,242 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: ae4cb952601cf6a2f83c963b946995bac004103dddd3dcef353802c4c3549c16, now blacklisted.
+2016-11-19 08:58:09,023 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J52vPZSKotHFddHj message=!hp2 2ab23f4b1a1d1b0baa9cdf8b8697ac4faf17b4958e555f6ea33e7fd3cfb69da1
+2016-11-19 08:58:09,026 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 2ab23f4b1a1d1b0baa9cdf8b8697ac4faf17b4958e555f6ea33e7fd3cfb69da1, now blacklisted.
+2016-11-19 08:58:09,797 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5AyGMv3bToVi6oH message=!hp2 2ab23f4b1a1d1b0baa9cdf8b8697ac4faf17b4958e555f6ea33e7fd3cfb69da1
+2016-11-19 08:58:09,798 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 2ab23f4b1a1d1b0baa9cdf8b8697ac4faf17b4958e555f6ea33e7fd3cfb69da1, now blacklisted.
+2016-11-19 08:58:18,247 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J554Axu1c19ZtxhZ message=!hp2 5337d199ec13558d8eb4f3cf077a13a65f43aa7f73fbb28d1abcff89eca39d92
+2016-11-19 08:58:18,248 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 5337d199ec13558d8eb4f3cf077a13a65f43aa7f73fbb28d1abcff89eca39d92, now blacklisted.
+2016-11-19 08:58:52,366 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J52vPZSKotHFddHj message=!hp2 b29435e0ce37159da497a00f9921f6ca968989d87d814230678fa830fec7fc4a
+2016-11-19 08:58:52,366 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: b29435e0ce37159da497a00f9921f6ca968989d87d814230678fa830fec7fc4a, now blacklisted.
+2016-11-19 08:58:57,286 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5EeToeTxSDaB4mA message=!hp2 b29435e0ce37159da497a00f9921f6ca968989d87d814230678fa830fec7fc4a
+2016-11-19 08:58:57,287 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: b29435e0ce37159da497a00f9921f6ca968989d87d814230678fa830fec7fc4a, now blacklisted.
+2016-11-19 09:00:15,833 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 09:01:15,833 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 09:01:15,833 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 09:01:18,140 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J56tcLNXiwC7ZewD message=!hp2 94b5ca7d521c63c0518f8dffc8ece7114c78f1ea847e77e2c69f1442e1dce549
+2016-11-19 09:01:18,140 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 94b5ca7d521c63c0518f8dffc8ece7114c78f1ea847e77e2c69f1442e1dce549, now blacklisted.
+2016-11-19 09:01:26,887 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5DsX42xDFK6XrKp message=!hp2 94b5ca7d521c63c0518f8dffc8ece7114c78f1ea847e77e2c69f1442e1dce549
+2016-11-19 09:01:26,887 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 94b5ca7d521c63c0518f8dffc8ece7114c78f1ea847e77e2c69f1442e1dce549, now blacklisted.
+2016-11-19 09:02:25,061 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J575rxJHv3D8UQRk message=!hp2 b9892c47bae0a4750286d019820bd1ac953092456c8a8f7e013118eaaea6747e
+2016-11-19 09:02:25,062 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: b9892c47bae0a4750286d019820bd1ac953092456c8a8f7e013118eaaea6747e, now blacklisted.
+2016-11-19 09:02:29,478 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5EeToeTxSDaB4mA message=!hp2 b9892c47bae0a4750286d019820bd1ac953092456c8a8f7e013118eaaea6747e
+2016-11-19 09:02:29,479 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: b9892c47bae0a4750286d019820bd1ac953092456c8a8f7e013118eaaea6747e, now blacklisted.
+2016-11-19 09:06:15,934 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 09:07:15,934 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 09:07:15,934 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 09:07:34,624 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5BB3jMzr5DsG8an message=!reloffer 0 7500000 92070896 1000 0.0002 ~
+2016-11-19 09:12:15,985 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 09:13:15,983 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 09:13:15,984 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 09:14:45,852 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5BB3jMzr5DsG8an message=!reloffer 0 7500000 202428127 1000 0.0002 ~
+2016-11-19 09:15:01,959 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5PCqJag1ZFas78O message=!reloffer 0 10000000 412278410 0 0.00003 ~
+2016-11-19 09:16:05,470 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5BV7LQ5NWNSACYG message=!reloffer 0 75376884 2975364671 1000 0.0000199 ~
+2016-11-19 09:17:10,969 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J52vPZSKotHFddHj message=!hp2 5cbdd69104d4b5543eed74cbb6fc4dcb0b3c41f6daa97c781efa3d400e3f14c7
+2016-11-19 09:17:10,969 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 5cbdd69104d4b5543eed74cbb6fc4dcb0b3c41f6daa97c781efa3d400e3f14c7, now blacklisted.
+2016-11-19 09:17:41,243 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J554Axu1c19ZtxhZ message=!hp2 4b29441ace170ea70d6b1247f2c409563f1ddf6eaabb63f709d22e31846a2c2c
+2016-11-19 09:17:41,243 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 4b29441ace170ea70d6b1247f2c409563f1ddf6eaabb63f709d22e31846a2c2c, now blacklisted.
+2016-11-19 09:18:03,023 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5BLoTeegDpFXNUd message=!hp2 93be6e6fbc32a7723e21279c220d622ad04ba30710a6f2216a0391dac6d68d72
+2016-11-19 09:18:03,024 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 93be6e6fbc32a7723e21279c220d622ad04ba30710a6f2216a0391dac6d68d72, now blacklisted.
+2016-11-19 09:18:16,083 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 09:19:16,083 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 09:19:16,083 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 09:23:56,951 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J532VhLY3XfePFyR message=!hp2 ba257fb471a8761118f5caeb540b35109f0a0540450d4bb4b31c6b54036f8869
+2016-11-19 09:23:56,951 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: ba257fb471a8761118f5caeb540b35109f0a0540450d4bb4b31c6b54036f8869, now blacklisted.
+2016-11-19 09:24:16,137 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 09:24:34,336 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J56tcLNXiwC7ZewD message=!reloffer 0 7797215 549484765 973 0.000188 ~
+2016-11-19 09:24:34,819 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J532VhLY3XfePFyR message=!absoffer 0 100000 23266834 0 3500 ~
+2016-11-19 09:25:16,137 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 09:25:16,137 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 09:26:56,939 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J532VhLY3XfePFyR message=!absoffer 0 100000 52879947 0 3500 ~
+2016-11-19 09:26:57,399 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J56tcLNXiwC7ZewD message=!reloffer 0 6822356 555215802 896 0.000188 ~
+2016-11-19 09:29:53,462 [MCThread    ] [DEBUG]  <<privmsg on agora-irc: nick=J589VYgDdmFdmAEi message=!hp2 6de7785edd699c0a1646cc45cac8df5bcf9a3f38857f9a533025dfde85246ab0 03a6d9f5e8037224d127828d739fb2513d19fdaf9062b4a5592c854f05180133fa MEQCIDtSFnrRjTHE6THotu87mNeZa5wyPv8A+Ybul2KdEVabAiB16wZ4CxVXC8Vu+v/P3LG2M8jA8yNmGVBlLMyO/O10BA==
+2016-11-19 09:29:53,463 [MCThread    ] [DEBUG]  >>pubmsg !hp2 6de7785edd699c0a1646cc45cac8df5bcf9a3f38857f9a533025dfde85246ab0
+2016-11-19 09:29:53,463 [MCThread    ] [DEBUG]  >>pubmsg !hp2 6de7785edd699c0a1646cc45cac8df5bcf9a3f38857f9a533025dfde85246ab0
+2016-11-19 09:29:53,463 [ThrottleThre] [ERROR]  failed to send on socket
+2016-11-19 09:30:16,198 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 09:31:16,198 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 09:31:16,199 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 09:32:00,454 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5BB3jMzr5DsG8an message=!hp2 e7934159d4499ef4e9fc969a9602da8f5437faa8680b48964496ced2c77866fa
+2016-11-19 09:32:00,456 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: e7934159d4499ef4e9fc969a9602da8f5437faa8680b48964496ced2c77866fa, now blacklisted.
+2016-11-19 09:32:48,112 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5DsyADveDhoK9Px message=!hp2 06dfc0a02e620fb9af6b983beb64e66b95a758cf9df8124b4d6e420e053726f8
+2016-11-19 09:32:48,113 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 06dfc0a02e620fb9af6b983beb64e66b95a758cf9df8124b4d6e420e053726f8, now blacklisted.
+2016-11-19 09:32:52,107 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5AyGMv3bToVi6oH message=!hp2 06dfc0a02e620fb9af6b983beb64e66b95a758cf9df8124b4d6e420e053726f8
+2016-11-19 09:32:52,108 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 06dfc0a02e620fb9af6b983beb64e66b95a758cf9df8124b4d6e420e053726f8, now blacklisted.
+2016-11-19 09:33:14,442 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5CFEBjBPpmEhucM message=!reloffer 0 100000 418702373 0 0.00009 ~
+2016-11-19 09:35:03,668 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5PCqJag1ZFas78O message=!hp2 a5450ff4e28141fa493e34952f820c3d427d6df7409d8f35a02f292e4624c3eb
+2016-11-19 09:35:03,670 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: a5450ff4e28141fa493e34952f820c3d427d6df7409d8f35a02f292e4624c3eb, now blacklisted.
+2016-11-19 09:35:13,388 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J56tcLNXiwC7ZewD message=!hp2 28b2d2c762e875babb1f5457d72adc31037a17381a4e21ecec37f65bd084cc96
+2016-11-19 09:35:13,389 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 28b2d2c762e875babb1f5457d72adc31037a17381a4e21ecec37f65bd084cc96, now blacklisted.
+2016-11-19 09:35:14,816 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J532VhLY3XfePFyR message=!hp2 8992788ac22f3f69324826b90fabe9a064f25bf51b1b51551748991c2f2d8927
+2016-11-19 09:35:14,817 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 8992788ac22f3f69324826b90fabe9a064f25bf51b1b51551748991c2f2d8927, now blacklisted.
+2016-11-19 09:35:15,503 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5AyGMv3bToVi6oH message=!hp2 8992788ac22f3f69324826b90fabe9a064f25bf51b1b51551748991c2f2d8927
+2016-11-19 09:35:15,504 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 8992788ac22f3f69324826b90fabe9a064f25bf51b1b51551748991c2f2d8927, now blacklisted.
+2016-11-19 09:35:17,422 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5AyGMv3bToVi6oH message=!hp2 8992788ac22f3f69324826b90fabe9a064f25bf51b1b51551748991c2f2d8927
+2016-11-19 09:35:17,423 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 8992788ac22f3f69324826b90fabe9a064f25bf51b1b51551748991c2f2d8927, now blacklisted.
+2016-11-19 09:36:16,293 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 09:36:19,456 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5PCqJag1ZFas78O message=!hp2 cd4f2bfac924637031c857985d7d989a96c35c0f84abb6dd1677d126a0a8953c
+2016-11-19 09:36:19,460 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: cd4f2bfac924637031c857985d7d989a96c35c0f84abb6dd1677d126a0a8953c, now blacklisted.
+2016-11-19 09:37:16,293 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 09:37:16,293 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 09:37:26,556 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5BB3jMzr5DsG8an message=!hp2 aa94c0042b181455ae03880d66733e9995c555286cee8d83a9a5b71338a432bc
+2016-11-19 09:37:26,557 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: aa94c0042b181455ae03880d66733e9995c555286cee8d83a9a5b71338a432bc, now blacklisted.
+2016-11-19 09:42:16,365 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 09:43:16,365 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 09:43:16,365 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 09:45:09,568 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J532VhLY3XfePFyR message=!absoffer 0 100000 65038602 0 3500 ~
+2016-11-19 09:45:11,657 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5CpGp5USV2K1ZEF message=!absoffer 0 100000 131857044 100 4600 ~
+2016-11-19 09:47:30,121 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J56tcLNXiwC7ZewD message=!hp2 c0678b5f4394a551c5d12a781aaf9c98f11bae32d11bf4844fdf2b81d61a8102
+2016-11-19 09:47:30,122 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: c0678b5f4394a551c5d12a781aaf9c98f11bae32d11bf4844fdf2b81d61a8102, now blacklisted.
+2016-11-19 09:47:32,798 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J52R2KNQeEVFPshm message=!hp2 c0678b5f4394a551c5d12a781aaf9c98f11bae32d11bf4844fdf2b81d61a8102
+2016-11-19 09:47:32,799 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: c0678b5f4394a551c5d12a781aaf9c98f11bae32d11bf4844fdf2b81d61a8102, now blacklisted.
+2016-11-19 09:48:16,447 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 09:49:16,447 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 09:49:16,448 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 09:50:05,891 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5CFEBjBPpmEhucM message=!hp2 444044c1072813ccd4c9b869496f4f8af9412d1b119b483a4b31ab83b904cb2b
+2016-11-19 09:50:05,892 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 444044c1072813ccd4c9b869496f4f8af9412d1b119b483a4b31ab83b904cb2b, now blacklisted.
+2016-11-19 09:54:16,528 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 09:55:16,531 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 09:55:16,534 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 09:55:40,574 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5CFEBjBPpmEhucM message=!hp2 ce823186494c5e6f2a1421262e8058a52a35528a9bfb0d5954587b893505dc10
+2016-11-19 09:55:40,575 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: ce823186494c5e6f2a1421262e8058a52a35528a9bfb0d5954587b893505dc10, now blacklisted.
+2016-11-19 10:00:16,634 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 10:01:16,634 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 10:01:16,634 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 10:06:16,678 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 10:07:16,677 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 10:07:16,677 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 10:10:42,420 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5DsX42xDFK6XrKp message=!hp2 198d4a5e1370c6dfcbd61e3f1b2c2aacab78ad47b3adc3730852128183f5c661
+2016-11-19 10:10:42,421 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 198d4a5e1370c6dfcbd61e3f1b2c2aacab78ad47b3adc3730852128183f5c661, now blacklisted.
+2016-11-19 10:12:16,748 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 10:13:16,741 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 10:13:16,742 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 10:14:26,476 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5CFEBjBPpmEhucM message=!hp2 f08c5a1655e0e302db227529f516bb79c0c320a0dee018cbe3c4aa208dfc6d50
+2016-11-19 10:14:26,485 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: f08c5a1655e0e302db227529f516bb79c0c320a0dee018cbe3c4aa208dfc6d50, now blacklisted.
+2016-11-19 10:14:28,213 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5BLoTeegDpFXNUd message=!hp2 f08c5a1655e0e302db227529f516bb79c0c320a0dee018cbe3c4aa208dfc6d50
+2016-11-19 10:14:28,213 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: f08c5a1655e0e302db227529f516bb79c0c320a0dee018cbe3c4aa208dfc6d50, now blacklisted.
+2016-11-19 10:16:52,442 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5DsyADveDhoK9Px message=!hp2 ab05bd12452c0008025d22d4dc4bc6235215a147640021495232bf52e4584bd2
+2016-11-19 10:16:52,444 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: ab05bd12452c0008025d22d4dc4bc6235215a147640021495232bf52e4584bd2, now blacklisted.
+2016-11-19 10:18:16,824 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 10:18:52,410 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5PCqJag1ZFas78O message=!reloffer 0 10000000 438401382 0 0.00003 ~
+2016-11-19 10:19:16,821 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 10:19:16,822 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 10:21:09,844 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5CFEBjBPpmEhucM message=!hp2 84b7ed9975ba01ac8dde24a964c288d7ebae136d099596ff16d93e289645ad9d
+2016-11-19 10:21:09,845 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 84b7ed9975ba01ac8dde24a964c288d7ebae136d099596ff16d93e289645ad9d, now blacklisted.
+2016-11-19 10:21:39,479 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5732BxLRQ6APmAb message=!reloffer 0 0 324775716 0 0.00097 ~
+2016-11-19 10:21:39,481 [MCThread    ] [DEBUG]  J5732BxLRQ6APmAb has dusty minsize, capping at 27300
+2016-11-19 10:21:50,907 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J53EqmomkihARRzQ message=!cancel 2
+2016-11-19 10:21:51,834 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J53EqmomkihARRzQ message=!absoffer 1 2730 1395320 0 12393 ~
+2016-11-19 10:21:51,835 [MCThread    ] [DEBUG]  J53EqmomkihARRzQ has dusty minsize, capping at 27300
+2016-11-19 10:24:16,897 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 10:24:35,777 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5DsyADveDhoK9Px message=!hp2 e0f19682ae841ef08fc3e149ce30fe4ee78bbdc2f52a344e673d99c40303ac0b
+2016-11-19 10:24:35,778 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: e0f19682ae841ef08fc3e149ce30fe4ee78bbdc2f52a344e673d99c40303ac0b, now blacklisted.
+2016-11-19 10:25:16,897 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 10:25:16,897 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 10:25:43,659 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J56tcLNXiwC7ZewD message=!hp2 a18d8ecf571d41a2c3db93fe6f2a5f09f87651ecd5aca9c1366d05e975179b28
+2016-11-19 10:25:43,659 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: a18d8ecf571d41a2c3db93fe6f2a5f09f87651ecd5aca9c1366d05e975179b28, now blacklisted.
+2016-11-19 10:27:55,949 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J532VhLY3XfePFyR message=!absoffer 0 100000 17393113 0 3500 ~
+2016-11-19 10:27:59,218 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5CpGp5USV2K1ZEF message=!absoffer 0 100000 87930588 100 4600 ~
+2016-11-19 10:28:52,089 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5AyGMv3bToVi6oH message=!hp2 f8fa800a38a6fde1dff5a9334f7af6497676f47973181c0e52015a0b5b135a34
+2016-11-19 10:28:52,090 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: f8fa800a38a6fde1dff5a9334f7af6497676f47973181c0e52015a0b5b135a34, now blacklisted.
+2016-11-19 10:30:00,649 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J56tcLNXiwC7ZewD message=!reloffer 0 7643236 533132717 937 0.000225 ~
+2016-11-19 10:30:16,993 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 10:30:32,242 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5CpGp5USV2K1ZEF message=!absoffer 0 100000 19423953 100 4600 ~
+2016-11-19 10:31:16,994 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 10:31:16,995 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 10:36:16,499 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5DsyADveDhoK9Px message=!hp2 67f12d1ce750106986a5d7716e1d0e51390b1d3736db7907fee6807e0866f0c7
+2016-11-19 10:36:16,500 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 67f12d1ce750106986a5d7716e1d0e51390b1d3736db7907fee6807e0866f0c7, now blacklisted.
+2016-11-19 10:36:17,091 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 10:36:20,738 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5BEFG5iJwQMrkm5 message=!hp2 67f12d1ce750106986a5d7716e1d0e51390b1d3736db7907fee6807e0866f0c7
+2016-11-19 10:36:20,739 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 67f12d1ce750106986a5d7716e1d0e51390b1d3736db7907fee6807e0866f0c7, now blacklisted.
+2016-11-19 10:36:44,719 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J53EqmomkihARRzQ message=!absoffer 1 2730 1102374 0 15244 ~
+2016-11-19 10:36:44,720 [MCThread    ] [DEBUG]  J53EqmomkihARRzQ has dusty minsize, capping at 27300
+2016-11-19 10:37:17,091 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 10:37:17,091 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 10:37:18,551 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5DsyADveDhoK9Px message=!hp2 d19cb54720ed4b3507b1ef64e4a798cd1c09df5b9cc49d4c3d8c444a3049d0fc
+2016-11-19 10:37:18,552 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: d19cb54720ed4b3507b1ef64e4a798cd1c09df5b9cc49d4c3d8c444a3049d0fc, now blacklisted.
+2016-11-19 10:37:48,970 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J59sdvqDTD2QyCu9 message=!orderbook
+2016-11-19 10:37:48,973 [MCThread    ] [DEBUG]  >>privmsg on agora-irc: nick=J59sdvqDTD2QyCu9 cmd=absoffer msg=0 100000 1093724241 1000 1200
+2016-11-19 10:38:02,315 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5BLoTeegDpFXNUd message=!reloffer 0 1000000 193202811 0 0.000049 ~
+2016-11-19 10:38:05,266 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J532VhLY3XfePFyR message=!absoffer 0 100000 48594396 0 3500 ~
+2016-11-19 10:38:05,773 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5CpGp5USV2K1ZEF message=!absoffer 0 100000 51330626 100 4600 ~
+2016-11-19 10:38:15,119 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J53EqmomkihARRzQ message=!absoffer 1 2730 1435155 0 15244 ~
+2016-11-19 10:38:15,120 [MCThread    ] [DEBUG]  J53EqmomkihARRzQ has dusty minsize, capping at 27300
+2016-11-19 10:38:33,651 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5CFEBjBPpmEhucM message=!reloffer 0 100000 469723284 0 0.00009 ~
+2016-11-19 10:38:56,218 [MCThread    ] [DEBUG]  <<privmsg on agora-irc: nick=J59sdvqDTD2QyCu9 message=!fill 0 39201273 4d0a3cd3b495f89f2100710fcda5b52923dc62895485eacbd16e2212e03ced43 P13b632f660c4fdb9a84f20aeab287348430b1f94fadbda768e169cd96d289e90 022600763b76ab96dcc06156c7cccc2348721c59fc5ab3cfde77618a5859efd2cc MEQCIEKHEY5vFNPg8pGPjslauVm+1cwXC++bfg4KjUzENVn2AiBEei5unwBMl/qD8FUkbgqlEw0WBPmUupYvUGFdNLgenw==
+2016-11-19 10:38:56,233 [MCThread    ] [INFO ]  new cjorder nick=J59sdvqDTD2QyCu9 oid=0 amount=39201273
+2016-11-19 10:38:56,242 [MCThread    ] [DEBUG]  get_utxos_by_mixdepth = 
+{0: {u'b8ccf48feb09a4674451aceeb41bd469c18d9902f1a3b7da3e5a381089871c4f:6': {'address': u'1J1qJk9kuChpLQ599nZ4DzTQDaYNWA3tg5',
+                                                                             'value': 97963038},
+     u'd3882ff4e1f3ae6539ac4bfae76b265e273d15d82afffd844b4a26c4d0f10c54:11': {'address': u'19tZCmEUAEjg2usJHy2JHR9sY2YA1Xu5BK',
+                                                                              'value': 995788503}},
+ 1: {u'b8ccf48feb09a4674451aceeb41bd469c18d9902f1a3b7da3e5a381089871c4f:3': {'address': u'13Nyk7c6tDcDxX1d1BesvAARHTPRWQBb1t',
+                                                                             'value': 2037162},
+     u'd3882ff4e1f3ae6539ac4bfae76b265e273d15d82afffd844b4a26c4d0f10c54:9': {'address': u'1CH7kwCRy8NiWoXE8PhgnzQEM2eMtyfqnu',
+                                                                             'value': 4211697}},
+ 2: {},
+ 3: {},
+ 4: {}}
+2016-11-19 10:38:56,243 [MCThread    ] [DEBUG]  mix depths that have enough = [(0, 1093751541)]
+2016-11-19 10:38:56,243 [MCThread    ] [INFO ]  filling offer, mixdepth=0
+2016-11-19 10:38:56,252 [MCThread    ] [DEBUG]  rpc: getaccount ['1E4pEk7xxEQ8S2iVTTLnoK5KfpMby7eA7G']
+2016-11-19 10:38:56,274 [MCThread    ] [DEBUG]  rpc: getaccount ['126Db7ZAP9aXmcFLgEyD9HjdZ8NbJjMuLE']
+2016-11-19 10:38:56,276 [MCThread    ] [DEBUG]  get_utxos_by_mixdepth = 
+{0: {u'b8ccf48feb09a4674451aceeb41bd469c18d9902f1a3b7da3e5a381089871c4f:6': {'address': u'1J1qJk9kuChpLQ599nZ4DzTQDaYNWA3tg5',
+                                                                             'value': 97963038},
+     u'd3882ff4e1f3ae6539ac4bfae76b265e273d15d82afffd844b4a26c4d0f10c54:11': {'address': u'19tZCmEUAEjg2usJHy2JHR9sY2YA1Xu5BK',
+                                                                              'value': 995788503}},
+ 1: {u'b8ccf48feb09a4674451aceeb41bd469c18d9902f1a3b7da3e5a381089871c4f:3': {'address': u'13Nyk7c6tDcDxX1d1BesvAARHTPRWQBb1t',
+                                                                             'value': 2037162},
+     u'd3882ff4e1f3ae6539ac4bfae76b265e273d15d82afffd844b4a26c4d0f10c54:9': {'address': u'1CH7kwCRy8NiWoXE8PhgnzQEM2eMtyfqnu',
+                                                                             'value': 4211697}},
+ 2: {},
+ 3: {},
+ 4: {}}
+2016-11-19 10:38:56,276 [MCThread    ] [DEBUG]  for mixdepth=0 amount=39202273 selected:
+2016-11-19 10:38:56,276 [MCThread    ] [DEBUG]  [{'utxo': u'b8ccf48feb09a4674451aceeb41bd469c18d9902f1a3b7da3e5a381089871c4f:6',
+  'value': 97963038}]
+2016-11-19 10:38:56,278 [MCThread    ] [DEBUG]  maker utxos = {u'b8ccf48feb09a4674451aceeb41bd469c18d9902f1a3b7da3e5a381089871c4f:6': {'address': u'1J1qJk9kuChpLQ599nZ4DzTQDaYNWA3tg5',
+                                                                         'value': 97963038}}
+2016-11-19 10:38:56,278 [MCThread    ] [DEBUG]  rpc: gettxout [u'b8ccf48feb09a4674451aceeb41bd469c18d9902f1a3b7da3e5a381089871c4f', 6, False]
+2016-11-19 10:38:56,286 [MCThread    ] [DEBUG]  Dynamic switch nick: J59sdvqDTD2QyCu9
+2016-11-19 10:38:56,286 [MCThread    ] [DEBUG]  >>privmsg on agora-irc: nick=J59sdvqDTD2QyCu9 cmd=pubkey msg=648aa952d52e1d0c79e7a3670e0a62085c2699d5b837a46b394cca851284f76d
+2016-11-19 10:38:57,369 [MCThread    ] [DEBUG]  <<privmsg on agora-irc: nick=J59sdvqDTD2QyCu9 message=!auth 5+rtARkh2P+QsrwiI8GKzFKHBI5HWUHAckm9EnxnPf0mW1WSFFX/rmaqv6mFNitKj0UFRMjoLUSzHAOGDwfTHY1JffFrHP7reUfJ/jg/Uv50vXwwOBmiw7wUbQmCm+oy5hGYriVybUsKltAqGkJS8qZi9fw9RNmlWD4BR7wykNbo1Oh2Egh/hUQUz9nsanJMIz7ykJcjePBys9ACvjyrfDvDl+gFhjaRAzKmSHd6PNF9r27mhqCQ3D06vpsfq1YnmnW7wh4dgalbfhk/sjgonD4hzmGO/FwjuetrMa4Ik8XvKcgpBL18XOwlifPt9afCztE7J3iNSXdYBGuKjtjH97mE7DhsjNpSyw2L3abX3sU/jelGCoSr8GlqujVEKFnvrl/yg5oXDidOGdr1vVByItBxl4INlVFmC/wzhCi+Qw8wHweoFuJaH7aJri63TJet/M2lSpfYmzbuBw71C56j3xzBp1w1tOe52vrDACL89SV6Zw== 022600763b76ab96dcc06156c7cccc2348721c59fc5ab3cfde77618a5859efd2cc MEUCIQDmcTw8AJ9mJC1k2ruPSHL/PPFsVFoLfRV1gBohThHLSwIgMDaP2359ne2ltE+USe4qpzTRLeaoxJLqh34G2F2kscU=
+2016-11-19 10:38:57,436 [MCThread    ] [DEBUG]  rpc: gettxout ['80cabe0de28fcb74210e6624e653d1a2600f793dd66fe99838a3336d7dbd10aa', 5, False]
+2016-11-19 10:38:57,441 [MCThread    ] [DEBUG]  >>privmsg on agora-irc: nick=J59sdvqDTD2QyCu9 cmd=ioauth msg=b8ccf48feb09a4674451aceeb41bd469c18d9902f1a3b7da3e5a381089871c4f:6 02d7df95302adfa14eebc0e01bd00127c6c5c85d16b2803fbdcd7ce80ee20cb307 1E4pEk7xxEQ8S2iVTTLnoK5KfpMby7eA7G 126Db7ZAP9aXmcFLgEyD9HjdZ8NbJjMuLE MEQCIC72nXqldveiSp0ghcMT2evVFz/7Ink/4/CAFqZTa5S4AiBRDeFdRb+bIcNFOiZM0IYponPZgd+8UsP5ibVkZ8oFkw==
+2016-11-19 10:38:57,445 [MCThread    ] [DEBUG]  Sending commitment to: J5EeToeTxSDaB4mA
+2016-11-19 10:38:57,446 [MCThread    ] [DEBUG]  >>privmsg on agora-irc: nick=J5EeToeTxSDaB4mA cmd=hp2 msg=13b632f660c4fdb9a84f20aeab287348430b1f94fadbda768e169cd96d289e90
+2016-11-19 10:38:58,739 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5EeToeTxSDaB4mA message=!hp2 13b632f660c4fdb9a84f20aeab287348430b1f94fadbda768e169cd96d289e90
+2016-11-19 10:38:58,739 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 13b632f660c4fdb9a84f20aeab287348430b1f94fadbda768e169cd96d289e90, now blacklisted.
+2016-11-19 10:39:18,368 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5732BxLRQ6APmAb message=!hp2 9dc7d865fcffb995abb03723f4fe71aaed1f83508996cc06a20b8786c8ab7601
+2016-11-19 10:39:18,368 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 9dc7d865fcffb995abb03723f4fe71aaed1f83508996cc06a20b8786c8ab7601, now blacklisted.
+2016-11-19 10:39:41,288 [MCThread    ] [DEBUG]  <<privmsg on agora-irc: nick=J59sdvqDTD2QyCu9 message=!fill 0 39205964 51799f9fed2821a63843282efb47442c1a46e6ff4360f85542d86a8cab7fa07c P3150a73fe440bcf8452af6e3430bd50bfc445cc68022a32e46c2b7258c558f21 022600763b76ab96dcc06156c7cccc2348721c59fc5ab3cfde77618a5859efd2cc MEQCIBNsL0pzh6qL/4KZaRaJJCk/bGyxXvs03vDG6k51NbldAiAfxBCpMd5uNQU7L9zeA3E2nVNzfWb6kr/URRsEt8UAkA==
+2016-11-19 10:39:41,288 [MCThread    ] [INFO ]  had a partially filled order but starting over now
+2016-11-19 10:39:41,289 [MCThread    ] [INFO ]  new cjorder nick=J59sdvqDTD2QyCu9 oid=0 amount=39205964
+2016-11-19 10:39:41,290 [MCThread    ] [DEBUG]  get_utxos_by_mixdepth = 
+{0: {u'b8ccf48feb09a4674451aceeb41bd469c18d9902f1a3b7da3e5a381089871c4f:6': {'address': u'1J1qJk9kuChpLQ599nZ4DzTQDaYNWA3tg5',
+                                                                             'value': 97963038},
+     u'd3882ff4e1f3ae6539ac4bfae76b265e273d15d82afffd844b4a26c4d0f10c54:11': {'address': u'19tZCmEUAEjg2usJHy2JHR9sY2YA1Xu5BK',
+                                                                              'value': 995788503}},
+ 1: {u'b8ccf48feb09a4674451aceeb41bd469c18d9902f1a3b7da3e5a381089871c4f:3': {'address': u'13Nyk7c6tDcDxX1d1BesvAARHTPRWQBb1t',
+                                                                             'value': 2037162},
+     u'd3882ff4e1f3ae6539ac4bfae76b265e273d15d82afffd844b4a26c4d0f10c54:9': {'address': u'1CH7kwCRy8NiWoXE8PhgnzQEM2eMtyfqnu',
+                                                                             'value': 4211697}},
+ 2: {},
+ 3: {},
+ 4: {}}
+2016-11-19 10:39:41,290 [MCThread    ] [DEBUG]  mix depths that have enough = [(0, 1093751541)]
+2016-11-19 10:39:41,290 [MCThread    ] [INFO ]  filling offer, mixdepth=0
+2016-11-19 10:39:41,291 [MCThread    ] [DEBUG]  rpc: getaccount ['1JAxFexhkjts9cqAwkdtPgnP7o7BZZx2QM']
+2016-11-19 10:39:41,293 [MCThread    ] [DEBUG]  rpc: getaccount ['1Nk9hw1memnmrUbWVwgiYJmF6sviWDz9qD']
+2016-11-19 10:39:41,295 [MCThread    ] [DEBUG]  get_utxos_by_mixdepth = 
+{0: {u'b8ccf48feb09a4674451aceeb41bd469c18d9902f1a3b7da3e5a381089871c4f:6': {'address': u'1J1qJk9kuChpLQ599nZ4DzTQDaYNWA3tg5',
+                                                                             'value': 97963038},
+     u'd3882ff4e1f3ae6539ac4bfae76b265e273d15d82afffd844b4a26c4d0f10c54:11': {'address': u'19tZCmEUAEjg2usJHy2JHR9sY2YA1Xu5BK',
+                                                                              'value': 995788503}},
+ 1: {u'b8ccf48feb09a4674451aceeb41bd469c18d9902f1a3b7da3e5a381089871c4f:3': {'address': u'13Nyk7c6tDcDxX1d1BesvAARHTPRWQBb1t',
+                                                                             'value': 2037162},
+     u'd3882ff4e1f3ae6539ac4bfae76b265e273d15d82afffd844b4a26c4d0f10c54:9': {'address': u'1CH7kwCRy8NiWoXE8PhgnzQEM2eMtyfqnu',
+                                                                             'value': 4211697}},
+ 2: {},
+ 3: {},
+ 4: {}}
+2016-11-19 10:39:41,295 [MCThread    ] [DEBUG]  for mixdepth=0 amount=39206964 selected:
+2016-11-19 10:39:41,295 [MCThread    ] [DEBUG]  [{'utxo': u'b8ccf48feb09a4674451aceeb41bd469c18d9902f1a3b7da3e5a381089871c4f:6',
+  'value': 97963038}]
+2016-11-19 10:39:41,296 [MCThread    ] [DEBUG]  maker utxos = {u'b8ccf48feb09a4674451aceeb41bd469c18d9902f1a3b7da3e5a381089871c4f:6': {'address': u'1J1qJk9kuChpLQ599nZ4DzTQDaYNWA3tg5',
+                                                                         'value': 97963038}}
+2016-11-19 10:39:41,296 [MCThread    ] [DEBUG]  rpc: gettxout [u'b8ccf48feb09a4674451aceeb41bd469c18d9902f1a3b7da3e5a381089871c4f', 6, False]
+2016-11-19 10:39:41,297 [MCThread    ] [DEBUG]  >>privmsg on agora-irc: nick=J59sdvqDTD2QyCu9 cmd=pubkey msg=67c757a53aefab25f6be982e83144e125649e1d6b5ac4517a824a4169414922a
+2016-11-19 10:39:42,441 [MCThread    ] [DEBUG]  <<privmsg on agora-irc: nick=J59sdvqDTD2QyCu9 message=!auth SoFJgA/p1Gk8vx31XHUNoe57+b50UCAFzJTEkkmdrGQr+rbOaZFMgrWa16qee3PLE41Fh1mv5JwnsBYJHa+Hz3IWz6XVXYnvj7Us0jPpPUqbY49xxrfABSEkyvZf5SMb4AB1dqi3190OAKV7eHOlWtqL4AhPFO68RP0by805Tpv+q6tNX99V4WxQ6nb2z89PRXLsfyBMiiWUwmP4qNhr066dk7m8b/J2FK/iDPmLIEvk4untNAho7/dXoFX2LYqbmO2+bWhwPWymo4dJ6NPKwHa07uz9WxspW9mm6VFKA99vQyqDBBgawqS8d7gBKSLpGY8FHezmuNMzNyac3ebtfXNUHxv0LgI2CEsSDjaXf0IW4rIwDX5n2wmtyigJlp6x0xu3dxZmgr2Hsur9EED7+qoAwvzHiHS2Y9aji66Dxt0AVDqLpjvTMU7e25VPBllEV8kd6Ux3fI1Qv3Jnuz3GT7cY2Culy662MfDPdx4TBFcSNQ== 022600763b76ab96dcc06156c7cccc2348721c59fc5ab3cfde77618a5859efd2cc MEUCIQDCcRwRdBn2K1icOu9jVjYi8y23uJE94huuoLmnLcPGYQIgQrp7AvgU7w5xsoDoW/ohMQqxahyFT/FyKst041fHnuM=
+2016-11-19 10:39:42,536 [MCThread    ] [DEBUG]  rpc: gettxout ['80cabe0de28fcb74210e6624e653d1a2600f793dd66fe99838a3336d7dbd10aa', 5, False]
+2016-11-19 10:39:42,539 [MCThread    ] [DEBUG]  >>privmsg on agora-irc: nick=J59sdvqDTD2QyCu9 cmd=ioauth msg=b8ccf48feb09a4674451aceeb41bd469c18d9902f1a3b7da3e5a381089871c4f:6 02d7df95302adfa14eebc0e01bd00127c6c5c85d16b2803fbdcd7ce80ee20cb307 1JAxFexhkjts9cqAwkdtPgnP7o7BZZx2QM 1Nk9hw1memnmrUbWVwgiYJmF6sviWDz9qD MEQCIHtbm503TRCH51lIlBG0STML6c6f2Wk/DlWyq9t3TVTIAiAWYys4J+NzBDIJZUoo+Vdhh80/S7i5a7fCi/0vK4Lv3w==
+2016-11-19 10:39:42,541 [MCThread    ] [DEBUG]  Sending commitment to: J5EeToeTxSDaB4mA
+2016-11-19 10:39:42,541 [MCThread    ] [DEBUG]  >>privmsg on agora-irc: nick=J5EeToeTxSDaB4mA cmd=hp2 msg=3150a73fe440bcf8452af6e3430bd50bfc445cc68022a32e46c2b7258c558f21
+2016-11-19 10:39:43,845 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5EeToeTxSDaB4mA message=!hp2 3150a73fe440bcf8452af6e3430bd50bfc445cc68022a32e46c2b7258c558f21
+2016-11-19 10:39:43,845 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 3150a73fe440bcf8452af6e3430bd50bfc445cc68022a32e46c2b7258c558f21, now blacklisted.
+2016-11-19 10:39:48,383 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5DsyADveDhoK9Px message=!hp2 3150a73fe440bcf8452af6e3430bd50bfc445cc68022a32e46c2b7258c558f21
+2016-11-19 10:39:48,384 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 3150a73fe440bcf8452af6e3430bd50bfc445cc68022a32e46c2b7258c558f21, now blacklisted.
+2016-11-19 10:39:51,832 [MCThread    ] [DEBUG]  <<privmsg on agora-irc: nick=J59sdvqDTD2QyCu9 message=!tx cauFAQEn9lIyp3XQI3GVhsW9EWxjrn0DMdfS78QF505U959djGcvRVzg0MaJlfhXTOBHIipL+lU0ZY4DXsbNrLe8Mg09AViYDXkmFivzWNyzjC2UCP8tO3Go7RD/xrr57bOjbN6Sa525i4eieFFqwZpYy6dmdYS4g6SdXlzAw8Jc0JkzDszFrmsauzpbU6ARMZvz11C11PjvlnZBLmPV9PYY2xk4ewAJOE2l4NqBqsiC4IIcdtvkrRXRu+eDZMVwAquKRz+sNHplV2SiiazQHSYrsxRZSnb7RCViC8fLe8bZn8gSm4L0fxEpjiK9ib1cW+bjQ65QVSBB1Rdw9T9MjwdxT7YsyNXqnLsiJZ+tajDcNm8pz8nzB/15O4c37SX/UFa44RJpYKD+HyGpgzN+feto06YwVYQSTyWQDw8I0+h0dTDseeHWwWm2o7h8396sQ/S1VIR91UsKHYtvUiJV5JvlnlK1ojYa6WKV9gVS7j2lvNMzLHYIEtFN9N7i3t4dzlwZKxlCIrAYiKMKXC5F+BMrdywZZp/Xh1aoVz7N+dIJgGflmjQjpY/u5R7sCNURAh6jrG3a67iGLtvF5YrML2/Seya2ShxQdJQL1cDhpSKY/NrrhXnN1bIYQpTvSSm5QeJt9kY0UdzcAGO4jVp1+ftAcpZ1QW7BymUTbTSa/zA0TV5f5fCK7mdN3UnKcnR2aBJUvpvpOpvPKcoDdN/tQzXkB0QXGghbaZr+FKe5eaYGsrism8PbEwJMbgkzffcwMiO1jxmM9lyMycKnomhj3q3cd0FF6QHpStnWbF+nuEj/FxrwrSb6O0XQAvsC7UyElTUqdlMCb5NTwTz2TclYw956WQ/UY335NyjYBxzrZKpXS77B0ZHI/LEeepASULw2KB4qIm0j7oKmi102BCQbApsDFrmC9elROIpmnJ8Jh/gocM6mkg2C48qou0ym+6Iw+uW2cvB2Cbu44qhT2NNgBg3wP1AdLo2sXjCFkAsgYzYaK5f+jRwSHs3uUYnnjF8nXJFfKPjSOnXN+d7D0+vy/YsdHFa5D8hUq1dWcxovHXq7+bc2rhmpySAZp1TQuu9K1WyqfXYQK18IoG75Bv/M465tYn+DYMCz78sV/29voBrfn3BmCZHvz1ipvcuYRjCs/pY4wWxSk6UBpW8tf4tsc2kwI5Ytcb+D4ng6M4lJwrzRBd4aubPFV4MBhk6MJkUB1QWi37aESUGZ2vPA+PR2Z/Hu731Rn+85bB8Oj3lg7mHUSCyvgiQ4EWuP4ry9T+5Z4B5I4eDhyWq+teKv+o+AqA4VaA5Z8d2W7TLn0zbNheS2YJH3dk55Pb1K8FJM98n9YrOnPfc81bborwgnIfchxthgona6BH+jnlwi8Zm0UHn2IfzlK9NZAKG2o1UFeBBAY3ugG/qkCk5lTmAPNIIyBDFb/aQJjJGC 022600763b76ab96dcc06156c7cccc2348721c59fc5ab3cfde77618a5859efd2cc MEUCIQCSjrTFJWCjkpPen4nBEABHe/ETlt1DYw9xOzmWGLGdCgIgVsGX1BggNW/72/eQy7j+0J40/liJ09D7BTVjZ/vwRJE=
+2016-11-19 10:39:51,840 [MCThread    ] [INFO ]  obtained tx
+{'ins': [{'outpoint': {'hash': 'e692900943f9e5bbdeb98efdc2080df65e0cb189a02f1bcba4061774a7c63d19',
+                       'index': 8},
+          'script': '',
+          'sequence': 4294967295},
+         {'outpoint': {'hash': '80cabe0de28fcb74210e6624e653d1a2600f793dd66fe99838a3336d7dbd10aa',
+                       'index': 5},
+          'script': '',
+          'sequence': 4294967295},
+         {'outpoint': {'hash': '9715bc4eb8ec51bf4da75384e6f13709ca6217370a9c56d3b29ec635b06c3de8',
+                       'index': 1},
+          'script': '',
+          'sequence': 4294967295},
+         {'outpoint': {'hash': 'b8ccf48feb09a4674451aceeb41bd469c18d9902f1a3b7da3e5a381089871c4f',
+                       'index': 6},
+          'script': '',
+          'sequence': 4294967295},
+         {'outpoint': {'hash': 'bdafbdab9e8e7fb9007f35dbf3350883c952b3357f79a6af1bcbc25e6f693bde',
+                       'index': 11},
+          'script': '',
+          'sequence': 4294967295},
+         {'outpoint': {'hash': 'bdafbdab9e8e7fb9007f35dbf3350883c952b3357f79a6af1bcbc25e6f693bde',
+                       'index': 1},
+          'script': '',
+          'sequence': 4294967295},
+         {'outpoint': {'hash': 'a9746a3a57b66034a9e554154bbbaa9b7a0666c669e8007ce35a5bf753eaf853',
+                       'index': 7},
+          'script': '',
+          'sequence': 4294967295},
+         {'outpoint': {'hash': 'bdafbdab9e8e7fb9007f35dbf3350883c952b3357f79a6af1bcbc25e6f693bde',
+                       'index': 6},
+          'script': '',
+          'sequence': 4294967295}],
+ 'locktime': 0,
+ 'outs': [{'script': '76a9146e169b7f3fa5126fba354d3ed9359f48a005a56188ac',
+           'value': 39205964},
+          {'script': '76a9149e993c1e1643a8b3d1e3662c10bccaa904bdeae988ac',
+           'value': 18688760},
+          {'script': '76a914a0dc5c952397f65dc5e97cd711e383e7debc717888ac',
+           'value': 677104},
+          {'script': '76a914687238ec6746c68f4f36b50a198026fcfefc5b2c88ac',
+           'value': 39205964},
+          {'script': '76a9147e11491dae21bafc8cffd88e7c8c3be2fd3105f288ac',
+           'value': 39205964},
+          {'script': '76a914e503184ecea6093a1d1ff245387942be3630928a88ac',
+           'value': 39205964},
+          {'script': '76a914bc5c012c3b960b89a2317f83fa31c6b4832646c088ac',
+           'value': 39205964},
+          {'script': '76a914731ead281cd7eda72e735528e38d6544a988555788ac',
+           'value': 39205964},
+          {'script': '76a914650b36312a1d26a8dcc510eee20521486ca44af888ac',
+           'value': 506130408},
+          {'script': '76a914c7b1291ca1a86026775519b98026af2aeaceea3d88ac',
+           'value': 112713689},
+          {'script': '76a914ee83cb83b10c669bd0270bb376d3ac9f13cf2d6988ac',
+           'value': 58757274},
+          {'script': '76a91480f1364a9600e44113d94d68e1f1350f529c610888ac',
+           'value': 40320730},
+          {'script': '76a914f7b7ef38a6ed7aac2735c1c04200a1c807bb994f88ac',
+           'value': 39205964}],
+ 'version': 1}
+2016-11-19 10:39:51,841 [MCThread    ] [INFO ]  potentially earned = 200
+2016-11-19 10:39:51,841 [MCThread    ] [DEBUG]  mycjaddr, mychange = 1JAxFexhkjts9cqAwkdtPgnP7o7BZZx2QM, 1Nk9hw1memnmrUbWVwgiYJmF6sviWDz9qD
+2016-11-19 10:39:51,842 [MCThread    ] [INFO ]  goodtx
+2016-11-19 10:39:51,853 [MCThread    ] [DEBUG]  rpc: getaccount ['1B36QtisvopiBkCesuauUiPBRJsSbxecB2']
+2016-11-19 10:39:51,855 [MCThread    ] [DEBUG]  rpc: getaccount ['1FTbLFdB4131C98wmri5KbG7fkYXfpSz8X']
+2016-11-19 10:39:51,855 [MCThread    ] [DEBUG]  rpc: getaccount ['1FfZ6gx3WjMfw2CCtxj4GQYApNUdp4hWBR']
+2016-11-19 10:39:51,856 [MCThread    ] [DEBUG]  rpc: getaccount ['1AXG7G1rySiEYzhtLXBsRMq23BuEnS29d6']
+2016-11-19 10:39:51,857 [MCThread    ] [DEBUG]  rpc: getaccount ['1CVarCMi47UWTpZL6hz4qQXihgyPAhvWcf']
+2016-11-19 10:39:51,858 [MCThread    ] [DEBUG]  rpc: getaccount ['1MsuSyGsfpBkW9J3HmiZf6RSjXuXv8w565']
+2016-11-19 10:39:51,859 [MCThread    ] [DEBUG]  rpc: getaccount ['1JAxFexhkjts9cqAwkdtPgnP7o7BZZx2QM']
+2016-11-19 10:39:51,859 [MCThread    ] [DEBUG]  >>privmsg on agora-irc: nick=J59sdvqDTD2QyCu9 cmd=sig msg=RzBEAiAOlr3AzW4uHdNbemrGs7ngW5lBw0yVmWFQsHEACgHUwwIgJWn1gXFNx939FCblE0E1JYijCAny4OMgrLNndKz6sHYBIQLX35UwKt+hTuvA4BvQASfGxchdFrKAP73NfOgO4gyzBw==
+2016-11-19 10:40:06,389 [CoreNotifyTh] [DEBUG]  rpc: getrawtransaction ['e15f15f2bdc4b9d8594025fe35ff633f04174439b56202aa926c6c4ae6cf494b']
+2016-11-19 10:40:06,391 [CoreNotifyTh] [DEBUG]  rpc: gettxout ['e15f15f2bdc4b9d8594025fe35ff633f04174439b56202aa926c6c4ae6cf494b', 0, True]
+2016-11-19 10:40:06,392 [CoreNotifyTh] [DEBUG]  get_utxos_by_mixdepth = 
+{0: {u'd3882ff4e1f3ae6539ac4bfae76b265e273d15d82afffd844b4a26c4d0f10c54:11': {'address': u'19tZCmEUAEjg2usJHy2JHR9sY2YA1Xu5BK',
+                                                                              'value': 995788503}},
+ 1: {u'b8ccf48feb09a4674451aceeb41bd469c18d9902f1a3b7da3e5a381089871c4f:3': {'address': u'13Nyk7c6tDcDxX1d1BesvAARHTPRWQBb1t',
+                                                                             'value': 2037162},
+     u'd3882ff4e1f3ae6539ac4bfae76b265e273d15d82afffd844b4a26c4d0f10c54:9': {'address': u'1CH7kwCRy8NiWoXE8PhgnzQEM2eMtyfqnu',
+                                                                             'value': 4211697}},
+ 2: {},
+ 3: {},
+ 4: {}}
+2016-11-19 10:40:06,393 [CoreNotifyTh] [DEBUG]  removed utxos, wallet now is 
+{0: {u'd3882ff4e1f3ae6539ac4bfae76b265e273d15d82afffd844b4a26c4d0f10c54:11': {'address': u'19tZCmEUAEjg2usJHy2JHR9sY2YA1Xu5BK',
+                                                                              'value': 995788503}},
+ 1: {u'b8ccf48feb09a4674451aceeb41bd469c18d9902f1a3b7da3e5a381089871c4f:3': {'address': u'13Nyk7c6tDcDxX1d1BesvAARHTPRWQBb1t',
+                                                                             'value': 2037162},
+     u'd3882ff4e1f3ae6539ac4bfae76b265e273d15d82afffd844b4a26c4d0f10c54:9': {'address': u'1CH7kwCRy8NiWoXE8PhgnzQEM2eMtyfqnu',
+                                                                             'value': 4211697}},
+ 2: {},
+ 3: {},
+ 4: {}}
+2016-11-19 10:40:06,393 [CoreNotifyTh] [INFO ]  saw tx on network, removed_utxos=
+{'b8ccf48feb09a4674451aceeb41bd469c18d9902f1a3b7da3e5a381089871c4f:6': {'address': u'1J1qJk9kuChpLQ599nZ4DzTQDaYNWA3tg5',
+                                                                        'value': 97963038}}
+2016-11-19 10:40:06,394 [CoreNotifyTh] [DEBUG]  get_utxos_by_mixdepth = 
+{0: {u'd3882ff4e1f3ae6539ac4bfae76b265e273d15d82afffd844b4a26c4d0f10c54:11': {'address': u'19tZCmEUAEjg2usJHy2JHR9sY2YA1Xu5BK',
+                                                                              'value': 995788503}},
+ 1: {u'b8ccf48feb09a4674451aceeb41bd469c18d9902f1a3b7da3e5a381089871c4f:3': {'address': u'13Nyk7c6tDcDxX1d1BesvAARHTPRWQBb1t',
+                                                                             'value': 2037162},
+     u'd3882ff4e1f3ae6539ac4bfae76b265e273d15d82afffd844b4a26c4d0f10c54:9': {'address': u'1CH7kwCRy8NiWoXE8PhgnzQEM2eMtyfqnu',
+                                                                             'value': 4211697}},
+ 2: {},
+ 3: {},
+ 4: {}}
+2016-11-19 10:40:06,395 [CoreNotifyTh] [INFO ]  modifying orders. to_cancel=[]
+to_announce=[{'ordertype': 'absoffer', 'oid': 0, 'minsize': 100000, 'txfee': 1000, 'maxsize': 995761203, 'cjfee': '1200'}]
+2016-11-19 10:40:06,395 [CoreNotifyTh] [DEBUG]  ran unconfirmfun
+2016-11-19 10:40:06,399 [ThrottleThre] [ERROR]  failed to send on socket
+2016-11-19 10:40:08,478 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5CpGp5USV2K1ZEF message=!absoffer 0 100000 23476341 100 4600 ~
+2016-11-19 10:40:19,387 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5CpGp5USV2K1ZEF message=!hp2 a3bc33457e0c418c701735a3d39befb5762a3c24db9bbb6f847a110c1023092c
+2016-11-19 10:40:19,387 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: a3bc33457e0c418c701735a3d39befb5762a3c24db9bbb6f847a110c1023092c, now blacklisted.
+2016-11-19 10:42:09,378 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J56FdedXtaxyXggf message=!reloffer 0 37500000 3197754140 1000 0.00004 ~
+2016-11-19 10:42:17,192 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 10:43:17,192 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 10:43:17,192 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 10:46:53,741 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J56X4uboCDQssW75 message=!absoffer 0 14605611 98745069 22 2363!reloffer 1 98745070 645418113 554 0.000101!reloffer 2 645418114 6135501724 5401 0.000162 ~
+2016-11-19 10:48:17,285 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 10:49:17,285 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 10:49:17,285 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 10:53:40,528 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5PCqJag1ZFas78O message=!hp2 2667425b436d15e90a1d7861270b44dceaf21f4bda47a933692be12d3e082a3e
+2016-11-19 10:53:40,529 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 2667425b436d15e90a1d7861270b44dceaf21f4bda47a933692be12d3e082a3e, now blacklisted.
+2016-11-19 10:54:17,289 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 10:55:17,289 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 10:55:17,289 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 11:00:17,374 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 11:01:17,373 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 11:01:17,374 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 11:05:04,922 [CoreNotifyTh] [DEBUG]  rpc: getrawtransaction ['e15f15f2bdc4b9d8594025fe35ff633f04174439b56202aa926c6c4ae6cf494b']
+2016-11-19 11:05:04,951 [CoreNotifyTh] [DEBUG]  rpc: gettxout ['e15f15f2bdc4b9d8594025fe35ff633f04174439b56202aa926c6c4ae6cf494b', 0, True]
+2016-11-19 11:05:04,956 [CoreNotifyTh] [DEBUG]  rpc: listunspent []
+2016-11-19 11:05:04,959 [CoreNotifyTh] [DEBUG]  bitcoind sync_unspent took 0.00650215148926sec
+2016-11-19 11:05:04,959 [CoreNotifyTh] [INFO ]  tx in a block
+2016-11-19 11:05:04,959 [CoreNotifyTh] [INFO ]  earned = 200
+2016-11-19 11:05:04,962 [CoreNotifyTh] [DEBUG]  get_utxos_by_mixdepth = 
+{0: {u'd3882ff4e1f3ae6539ac4bfae76b265e273d15d82afffd844b4a26c4d0f10c54:11': {'address': u'19tZCmEUAEjg2usJHy2JHR9sY2YA1Xu5BK',
+                                                                              'value': 995788503},
+     u'e15f15f2bdc4b9d8594025fe35ff633f04174439b56202aa926c6c4ae6cf494b:10': {'address': u'1Nk9hw1memnmrUbWVwgiYJmF6sviWDz9qD',
+                                                                              'value': 58757274}},
+ 1: {u'b8ccf48feb09a4674451aceeb41bd469c18d9902f1a3b7da3e5a381089871c4f:3': {'address': u'13Nyk7c6tDcDxX1d1BesvAARHTPRWQBb1t',
+                                                                             'value': 2037162},
+     u'd3882ff4e1f3ae6539ac4bfae76b265e273d15d82afffd844b4a26c4d0f10c54:9': {'address': u'1CH7kwCRy8NiWoXE8PhgnzQEM2eMtyfqnu',
+                                                                             'value': 4211697},
+     u'e15f15f2bdc4b9d8594025fe35ff633f04174439b56202aa926c6c4ae6cf494b:6': {'address': u'1JAxFexhkjts9cqAwkdtPgnP7o7BZZx2QM',
+                                                                             'value': 39205964}},
+ 2: {},
+ 3: {},
+ 4: {}}
+2016-11-19 11:05:04,962 [CoreNotifyTh] [INFO ]  modifying orders. to_cancel=[]
+to_announce=[{'ordertype': 'absoffer', 'oid': 0, 'minsize': 100000, 'txfee': 1000, 'maxsize': 1054518477, 'cjfee': '1200'}]
+2016-11-19 11:05:04,962 [CoreNotifyTh] [DEBUG]  ran confirmfun
+2016-11-19 11:05:04,963 [ThrottleThre] [ERROR]  failed to send on socket
+2016-11-19 11:05:12,087 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5CpGp5USV2K1ZEF message=!absoffer 0 100000 51524483 100 4600 ~
+2016-11-19 11:06:17,389 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 11:07:17,389 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 11:07:17,389 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 11:08:12,032 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5PCqJag1ZFas78O message=!reloffer 0 10000000 477985189 0 0.00003 ~
+2016-11-19 11:12:17,485 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 11:13:17,485 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 11:13:17,485 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 11:13:27,473 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5DLYfaLbk2xPe3q message=!hp2 5588a6aac8ae0cd71859f869b7185996d222fd89e48684147e98400d2a056575
+2016-11-19 11:13:27,474 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 5588a6aac8ae0cd71859f869b7185996d222fd89e48684147e98400d2a056575, now blacklisted.
+2016-11-19 11:13:36,449 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J56FdedXtaxyXggf message=!hp2 5588a6aac8ae0cd71859f869b7185996d222fd89e48684147e98400d2a056575
+2016-11-19 11:13:36,449 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 5588a6aac8ae0cd71859f869b7185996d222fd89e48684147e98400d2a056575, now blacklisted.
+2016-11-19 11:14:39,943 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5DsyADveDhoK9Px message=!reloffer 0 100000 43331718 0 0.0003 ~
+2016-11-19 11:14:40,442 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J56tcLNXiwC7ZewD message=!reloffer 0 7215421 520602778 1173 0.000205 ~
+2016-11-19 11:14:41,038 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5CpGp5USV2K1ZEF message=!absoffer 0 100000 71035097 100 4600 ~
+2016-11-19 11:14:43,278 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J53EqmomkihARRzQ message=!absoffer 1 2730 19999999 0 64928!absoffer 2 20000000 32997399 0 5178 ~
+2016-11-19 11:14:43,279 [MCThread    ] [DEBUG]  J53EqmomkihARRzQ has dusty minsize, capping at 27300
+2016-11-19 11:17:06,707 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5732BxLRQ6APmAb message=!reloffer 0 0 331624084 0 0.00097 ~
+2016-11-19 11:17:06,708 [MCThread    ] [DEBUG]  J5732BxLRQ6APmAb has dusty minsize, capping at 27300
+2016-11-19 11:18:17,533 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 11:19:17,533 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 11:19:17,533 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 11:20:48,765 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J56tcLNXiwC7ZewD message=!reloffer 0 7315581 559098087 1070 0.000235 ~
+2016-11-19 11:21:44,690 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J56tcLNXiwC7ZewD message=!reloffer 0 7337126 547285652 944 0.000185 ~
+2016-11-19 11:24:17,599 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 11:25:17,599 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 11:25:17,599 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 11:28:48,575 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5BV7LQ5NWNSACYG message=!hp2 dbe30a2e14d264f9600708bdb39be83f0a9d0b34626bf251d328d927e2c561d2
+2016-11-19 11:28:48,575 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: dbe30a2e14d264f9600708bdb39be83f0a9d0b34626bf251d328d927e2c561d2, now blacklisted.
+2016-11-19 11:29:01,705 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J56X4uboCDQssW75 message=!hp2 9da751a4a9b138cc6eaa9e05c74ca21126200d37b7431d9e098db7747460b20a
+2016-11-19 11:29:01,705 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 9da751a4a9b138cc6eaa9e05c74ca21126200d37b7431d9e098db7747460b20a, now blacklisted.
+2016-11-19 11:30:17,700 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 11:31:17,700 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 11:31:17,700 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 11:31:19,351 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J56X4uboCDQssW75 message=!absoffer 0 16169360 94143715 28 1762!reloffer 1 94143716 678320519 764 0.000111!reloffer 2 678320520 5861595397 5895 0.000154 ~
+2016-11-19 11:36:17,745 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 11:37:17,745 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 11:37:17,745 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 11:37:34,061 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5DsyADveDhoK9Px message=!reloffer 0 100000 45207751 0 0.0003 ~
+2016-11-19 11:37:34,608 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J56X4uboCDQssW75 message=!absoffer 0 18476943 72342707 21 2483!reloffer 1 72342708 655776008 514 0.000116!reloffer 2 655776009 5752032867 6123 0.000193 ~
+2016-11-19 11:42:17,846 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 11:43:17,846 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 11:43:17,846 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 11:48:17,853 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 11:48:32,973 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5DLYfaLbk2xPe3q message=!absoffer 1 2730 19999999 0 54570!absoffer 2 20000000 88999999 0 23551!reloffer 3 89000000 259754853 0 0.0001003486 ~
+2016-11-19 11:48:32,974 [MCThread    ] [DEBUG]  J5DLYfaLbk2xPe3q has dusty minsize, capping at 27300
+2016-11-19 11:49:17,853 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 11:49:17,853 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 11:52:36,615 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5PCqJag1ZFas78O message=!hp2 3c5886b64713cceb4aa6c25b3a2453bd2187084da5185cbbc5dd7bd105478d3a
+2016-11-19 11:52:36,616 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 3c5886b64713cceb4aa6c25b3a2453bd2187084da5185cbbc5dd7bd105478d3a, now blacklisted.
+2016-11-19 11:52:43,133 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5BB3jMzr5DsG8an message=!reloffer 0 7500000 107496350 1000 0.0002 ~
+2016-11-19 11:52:44,571 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J58wL42cAUapM7pJ message=!reloffer 0 7500000 7875333 1000 0.0002 ~
+2016-11-19 11:53:33,080 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5EeToeTxSDaB4mA message=!hp2 09bff98cfffab9066071b3cddc1a21fefc97f7072d8260b6528f3ed44b1f2b9f
+2016-11-19 11:53:33,081 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 09bff98cfffab9066071b3cddc1a21fefc97f7072d8260b6528f3ed44b1f2b9f, now blacklisted.
+2016-11-19 11:54:17,909 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 11:55:17,909 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 11:55:17,909 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 11:58:23,521 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5BLoTeegDpFXNUd message=!hp2 8e6d146b936fa70d68455901e64143ef43d8d813f9e4bc6220885d5d895bd708
+2016-11-19 11:58:23,522 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 8e6d146b936fa70d68455901e64143ef43d8d813f9e4bc6220885d5d895bd708, now blacklisted.
+2016-11-19 11:59:18,646 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J56FdedXtaxyXggf message=!hp2 d4ab651195f351f8ce0b85d121afaaf651fd44ef3d1ca7f78d94a5f53ad64330
+2016-11-19 11:59:18,647 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: d4ab651195f351f8ce0b85d121afaaf651fd44ef3d1ca7f78d94a5f53ad64330, now blacklisted.
+2016-11-19 11:59:53,737 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J59ztqz8pxxcUySL message=!absoffer 1 2730 8879999 0 10718!reloffer 3 28999999 336639212 0 0.0003811947 ~
+2016-11-19 11:59:53,738 [MCThread    ] [DEBUG]  J59ztqz8pxxcUySL has dusty minsize, capping at 27300
+2016-11-19 11:59:57,448 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5AyGMv3bToVi6oH message=!reloffer 2 100000000 199999999 0 1.25317e-05 ~
+2016-11-19 12:00:18,005 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 12:00:45,601 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5DsyADveDhoK9Px message=!hp2 95059e80631bb9c2d56b3c0ce985542176e09eba0c38ced5f35576dfb3cea6a6
+2016-11-19 12:00:45,602 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 95059e80631bb9c2d56b3c0ce985542176e09eba0c38ced5f35576dfb3cea6a6, now blacklisted.
+2016-11-19 12:01:18,005 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 12:01:18,005 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 12:02:14,259 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J58wL42cAUapM7pJ message=!hp2 f997b80592c845d455adae1b277a18ff7919bd23dd47483ef408f7b31c45d6c2
+2016-11-19 12:02:14,268 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: f997b80592c845d455adae1b277a18ff7919bd23dd47483ef408f7b31c45d6c2, now blacklisted.
+2016-11-19 12:03:39,051 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5PCqJag1ZFas78O message=!reloffer 0 10000000 451165650 0 0.00003 ~
+2016-11-19 12:06:18,101 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 12:06:44,669 [MCThread    ] [DEBUG]  Nick: J59sdvqDTD2QyCu9 has left.
+2016-11-19 12:06:44,669 [MCThread    ] [DEBUG]  nick J59sdvqDTD2QyCu9 has left
+2016-11-19 12:07:18,101 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 12:07:18,101 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 12:08:17,279 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5BB3jMzr5DsG8an message=!hp2 c8c353110c1b8310fbfafb519ef9c2251d3d44cac9d8fa94f8ec2737cb674d0a
+2016-11-19 12:08:17,279 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: c8c353110c1b8310fbfafb519ef9c2251d3d44cac9d8fa94f8ec2737cb674d0a, now blacklisted.
+2016-11-19 12:09:27,302 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J56tcLNXiwC7ZewD message=!reloffer 0 7292975 562805003 841 0.000228 ~
+2016-11-19 12:09:30,305 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5PCqJag1ZFas78O message=!reloffer 0 10000000 377272648 0 0.00003 ~
+2016-11-19 12:10:50,081 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J58wL42cAUapM7pJ message=!hp2 60c45bb169e1755fd09dfe1ae4dd71d93841bfa5a585eae9a1a4c43785da7927
+2016-11-19 12:10:50,083 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 60c45bb169e1755fd09dfe1ae4dd71d93841bfa5a585eae9a1a4c43785da7927, now blacklisted.
+2016-11-19 12:12:18,185 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 12:12:19,338 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5AyGMv3bToVi6oH message=!hp2 f999e06fdfde8b0b3c8a1eaf6ac11533045e5aec319faed558770a583aa2d89e
+2016-11-19 12:12:19,340 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: f999e06fdfde8b0b3c8a1eaf6ac11533045e5aec319faed558770a583aa2d89e, now blacklisted.
+2016-11-19 12:12:20,969 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5BB3jMzr5DsG8an message=!hp2 f999e06fdfde8b0b3c8a1eaf6ac11533045e5aec319faed558770a583aa2d89e
+2016-11-19 12:12:20,970 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: f999e06fdfde8b0b3c8a1eaf6ac11533045e5aec319faed558770a583aa2d89e, now blacklisted.
+2016-11-19 12:13:18,185 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 12:13:18,186 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 12:18:18,249 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 12:19:18,249 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 12:19:18,249 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 12:24:18,293 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 12:25:18,293 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 12:25:18,293 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 12:30:18,393 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 12:31:18,393 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 12:31:18,393 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 12:33:56,316 [MCThread    ] [DEBUG]  Nick: J5BV7LQ5NWNSACYG has left.
+2016-11-19 12:34:43,783 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5EdzQKqQm6RXSiK message=!reloffer 0 753768844 2975364671 1000 0.00000199 ~
+2016-11-19 12:35:27,346 [MCThread    ] [DEBUG]  Nick: J5EdzQKqQm6RXSiK has left.
+2016-11-19 12:36:18,436 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 12:36:28,945 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5AQSkrp6BiU1vh2 message=!reloffer 0 753768844 2975364671 1000 0.00000199 ~
+2016-11-19 12:37:18,436 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 12:37:18,436 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 12:37:44,677 [MCThread    ] [DEBUG]  Nick: J5AQSkrp6BiU1vh2 has left.
+2016-11-19 12:38:33,690 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5ZdHZMZHQzcNm9O message=!reloffer 0 75376884 2975364671 1000 0.0000199 ~
+2016-11-19 12:42:18,501 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 12:43:18,501 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 12:43:18,501 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 12:45:28,232 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5DLYfaLbk2xPe3q message=!absoffer 2 20000000 88999999 0 17191!reloffer 3 89000000 263226600 0 0.0001003486 ~
+2016-11-19 12:46:45,228 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5DsyADveDhoK9Px message=!reloffer 0 100000 47848792 0 0.0003 ~
+2016-11-19 12:46:46,985 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5BLoTeegDpFXNUd message=!reloffer 0 1000000 195843852 0 0.000049 ~
+2016-11-19 12:48:18,559 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 12:49:18,559 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 12:49:18,559 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 12:54:18,661 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 12:55:18,661 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 12:55:18,661 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 13:00:18,743 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 13:01:18,743 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 13:01:18,743 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 13:03:09,606 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5DsyADveDhoK9Px message=!reloffer 0 100000 27641348 0 0.0003 ~
+2016-11-19 13:03:12,454 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J56X4uboCDQssW75 message=!absoffer 0 15196151 75452624 20 2362!reloffer 1 75452625 672749775 502 0.000103!reloffer 2 672749776 6628533113 6603 0.000163 ~
+2016-11-19 13:03:14,196 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5PCqJag1ZFas78O message=!reloffer 0 10000000 337688841 0 0.00003 ~
+2016-11-19 13:06:18,819 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 13:07:18,819 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 13:07:18,819 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 13:12:18,909 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 13:13:18,909 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 13:13:18,909 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 13:18:18,997 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 13:19:18,997 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 13:19:18,997 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 13:24:19,020 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 13:25:19,020 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 13:25:19,021 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 13:25:55,183 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5DsyADveDhoK9Px message=!hp2 44a51782bf6980e94259317fae107541c579d020fcc551e91bfd76a85f09b7a3
+2016-11-19 13:25:55,185 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 44a51782bf6980e94259317fae107541c579d020fcc551e91bfd76a85f09b7a3, now blacklisted.
+2016-11-19 13:30:19,029 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 13:31:19,029 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 13:31:19,029 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 13:32:08,002 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5BLoTeegDpFXNUd message=!reloffer 0 1000000 244344566 0 0.000049 ~
+2016-11-19 13:32:09,446 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J58wL42cAUapM7pJ message=!reloffer 0 7500000 30147687 1000 0.0002 ~
+2016-11-19 13:32:20,029 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5PCqJag1ZFas78O message=!reloffer 0 10000000 349357554 0 0.00003 ~
+2016-11-19 13:33:44,452 [MCThread    ] [DEBUG]  Found a new channel, setting to: J5BB3jMzr5DsG8an,('irc.cyberguerrilla.org', 6697)
+2016-11-19 13:34:50,574 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J575rxJHv3D8UQRk message=!hp2 5dacab2a7a6be21a9db01f0532b97d72ea8719602a344250b99310dec559aa2c
+2016-11-19 13:34:50,574 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 5dacab2a7a6be21a9db01f0532b97d72ea8719602a344250b99310dec559aa2c, now blacklisted.
+2016-11-19 13:36:19,091 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 13:37:19,091 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 13:37:19,091 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 13:42:11,242 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5BLoTeegDpFXNUd message=!reloffer 0 1000000 245781666 0 0.000049 ~
+2016-11-19 13:42:19,167 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 13:43:19,167 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 13:43:19,167 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 13:44:10,250 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5BLoTeegDpFXNUd message=!reloffer 0 1000000 250395921 0 0.000049 ~
+2016-11-19 13:44:10,794 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J56X4uboCDQssW75 message=!absoffer 0 18871703 93500486 35 2181!reloffer 1 93500487 765660279 940 9.4e-05!reloffer 2 765660280 6025939194 5765 0.000173 ~
+2016-11-19 13:44:10,794 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J56tcLNXiwC7ZewD message=!reloffer 0 8201100 572635280 1112 0.000197 ~
+2016-11-19 13:44:12,510 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5DsyADveDhoK9Px message=!reloffer 0 100000 31210623 0 0.0003 ~
+2016-11-19 13:44:13,077 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5AyGMv3bToVi6oH message=!absoffer 1 27300 99999999 0 15000!reloffer 2 100000000 199999999 0 1.13925e-05 ~
+2016-11-19 13:44:13,078 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J59ztqz8pxxcUySL message=!reloffer 3 28999999 336771345 0 0.0003811947 ~
+2016-11-19 13:44:31,572 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5PCqJag1ZFas78O message=!reloffer 0 10000000 380848367 0 0.00003 ~
+2016-11-19 13:45:48,436 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J52R2KNQeEVFPshm message=!hp2 39987327bdd9fc113af8517136a3a6419f27388192ca43e437ce1b6c4a4b522a
+2016-11-19 13:45:48,437 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 39987327bdd9fc113af8517136a3a6419f27388192ca43e437ce1b6c4a4b522a, now blacklisted.
+2016-11-19 13:45:49,735 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J52vPZSKotHFddHj message=!hp2 39987327bdd9fc113af8517136a3a6419f27388192ca43e437ce1b6c4a4b522a
+2016-11-19 13:45:49,736 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 39987327bdd9fc113af8517136a3a6419f27388192ca43e437ce1b6c4a4b522a, now blacklisted.
+2016-11-19 13:48:19,255 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 13:49:19,255 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 13:49:19,255 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 13:50:57,712 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5AyGMv3bToVi6oH message=!hp2 d4f9f9e860fa041cd638fdd862689dccf873323f64025d797a4bcddc393bdc95
+2016-11-19 13:50:57,714 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: d4f9f9e860fa041cd638fdd862689dccf873323f64025d797a4bcddc393bdc95, now blacklisted.
+2016-11-19 13:54:19,096 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5BLoTeegDpFXNUd message=!reloffer 0 1000000 253182505 0 0.000049 ~
+2016-11-19 13:54:19,289 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 13:54:34,569 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J56tcLNXiwC7ZewD message=!hp2 78064aaca04017aeb1de475c1a3db9c2ed30f81fbeb985cf756e1ddd2b464183
+2016-11-19 13:54:34,570 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 78064aaca04017aeb1de475c1a3db9c2ed30f81fbeb985cf756e1ddd2b464183, now blacklisted.
+2016-11-19 13:54:46,223 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5DsX42xDFK6XrKp message=!hp2 78064aaca04017aeb1de475c1a3db9c2ed30f81fbeb985cf756e1ddd2b464183
+2016-11-19 13:54:46,223 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 78064aaca04017aeb1de475c1a3db9c2ed30f81fbeb985cf756e1ddd2b464183, now blacklisted.
+2016-11-19 13:55:19,289 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 13:55:19,289 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 13:55:44,791 [MCThread    ] [DEBUG]  Nick: J56tcLNXiwC7ZewD has left.
+2016-11-19 13:56:14,836 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5BB3jMzr5DsG8an message=!hp2 386a4c283a2d44f45d9cde838c3a1c71a14b1187af30b62387bd00b31eb5fc55
+2016-11-19 13:56:14,837 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 386a4c283a2d44f45d9cde838c3a1c71a14b1187af30b62387bd00b31eb5fc55, now blacklisted.
+2016-11-19 13:56:15,842 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5ca6HpwnxSEPwNO message=!reloffer 0 7637128 538062044 1099 0.000227 ~
+2016-11-19 13:59:05,847 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5ZdHZMZHQzcNm9O message=!hp2 940b2af2f8e78a0a0f11fccad10fc99da97e2bf406a1eb4806d3f5972db8c565
+2016-11-19 13:59:05,848 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 940b2af2f8e78a0a0f11fccad10fc99da97e2bf406a1eb4806d3f5972db8c565, now blacklisted.
+2016-11-19 14:00:19,353 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 14:00:59,208 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5BEFG5iJwQMrkm5 message=!hp2 f4135ca153d6efd6ef0c4ad2308c7ab2c6334088d2fc73a406a39182ba1eaa27
+2016-11-19 14:00:59,208 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: f4135ca153d6efd6ef0c4ad2308c7ab2c6334088d2fc73a406a39182ba1eaa27, now blacklisted.
+2016-11-19 14:01:19,353 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 14:01:19,353 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 14:06:19,378 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 14:07:19,378 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 14:07:19,378 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 14:11:19,306 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J56FdedXtaxyXggf message=!hp2 0510f87c2a49c67420d37e5b6acdaadacd6e9d721dcf57b7107c504216610ae0
+2016-11-19 14:11:19,306 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 0510f87c2a49c67420d37e5b6acdaadacd6e9d721dcf57b7107c504216610ae0, now blacklisted.
+2016-11-19 14:11:19,306 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5ZdHZMZHQzcNm9O message=!hp2 0510f87c2a49c67420d37e5b6acdaadacd6e9d721dcf57b7107c504216610ae0
+2016-11-19 14:11:19,307 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 0510f87c2a49c67420d37e5b6acdaadacd6e9d721dcf57b7107c504216610ae0, now blacklisted.
+2016-11-19 14:11:49,766 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5DsX42xDFK6XrKp message=!hp2 aacff6064df3e95522369ffd9a2d0a7ef03e105e83fade9ca70d964ef27f0d42
+2016-11-19 14:11:49,767 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: aacff6064df3e95522369ffd9a2d0a7ef03e105e83fade9ca70d964ef27f0d42, now blacklisted.
+2016-11-19 14:12:19,479 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 14:13:00,854 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J532VhLY3XfePFyR message=!absoffer 0 100000 25163534 0 3500 ~
+2016-11-19 14:13:19,478 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 14:13:19,479 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 14:17:02,793 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J56X4uboCDQssW75 message=!absoffer 0 12042592 90118671 43 2220!reloffer 1 90118672 732286714 957 0.000106!reloffer 2 732286715 6409408051 6304 0.000192 ~
+2016-11-19 14:18:19,577 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 14:19:19,577 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 14:19:19,577 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 14:22:41,355 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J532VhLY3XfePFyR message=!absoffer 0 100000 41588017 0 3500 ~
+2016-11-19 14:22:42,124 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5BLoTeegDpFXNUd message=!reloffer 0 1000000 293629802 0 0.000049 ~
+2016-11-19 14:23:08,102 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5BB3jMzr5DsG8an message=!hp2 5c5aeceb47c1190cb7957eb6269862d250a1a4add124371e1679ae69d4e11847
+2016-11-19 14:23:08,103 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 5c5aeceb47c1190cb7957eb6269862d250a1a4add124371e1679ae69d4e11847, now blacklisted.
+2016-11-19 14:23:08,906 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J56FdedXtaxyXggf message=!hp2 5c5aeceb47c1190cb7957eb6269862d250a1a4add124371e1679ae69d4e11847
+2016-11-19 14:23:08,906 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 5c5aeceb47c1190cb7957eb6269862d250a1a4add124371e1679ae69d4e11847, now blacklisted.
+2016-11-19 14:24:07,594 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5732BxLRQ6APmAb message=!hp2 3ae845a43b7984e014aaf502d53051cab377a41f16aa0e71b5fd5ebe2739d60f
+2016-11-19 14:24:07,594 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 3ae845a43b7984e014aaf502d53051cab377a41f16aa0e71b5fd5ebe2739d60f, now blacklisted.
+2016-11-19 14:24:19,591 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 14:24:44,950 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5BLoTeegDpFXNUd message=!reloffer 0 1000000 278614204 0 0.000049 ~
+2016-11-19 14:25:15,300 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J54zjeBLtyJshyAK message=!hp2 e2e8851f946ea795d22cb4556089174d72de5a3706f0a1e1c5ed9bb462e1ffa0
+2016-11-19 14:25:15,302 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: e2e8851f946ea795d22cb4556089174d72de5a3706f0a1e1c5ed9bb462e1ffa0, now blacklisted.
+2016-11-19 14:25:19,590 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 14:25:19,591 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 14:30:19,675 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 14:31:18,150 [MCThread    ] [DEBUG]  Nick: J5DsyADveDhoK9Px has left.
+2016-11-19 14:31:19,675 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 14:31:19,676 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 14:31:57,165 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5DLYfaLbk2xPe3q message=!absoffer 2 20000000 88999999 0 12548!reloffer 3 89000000 285854031 0 0.0001003486 ~
+2016-11-19 14:32:35,809 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J59ztqz8pxxcUySL message=!hp2 93728b45b385dc0cb4fde5783d844a9bcb12288bf947a932d0a028dc5739c324
+2016-11-19 14:32:35,810 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 93728b45b385dc0cb4fde5783d844a9bcb12288bf947a932d0a028dc5739c324, now blacklisted.
+2016-11-19 14:32:50,134 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J56X4uboCDQssW75 message=!absoffer 0 12850020 98025076 35 2079!reloffer 1 98025077 637514919 931 0.000108!reloffer 2 637514920 6409408051 6592 0.000179 ~
+2016-11-19 14:35:02,770 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5BLoTeegDpFXNUd message=!reloffer 0 1000000 278676615 0 0.000049 ~
+2016-11-19 14:35:03,220 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J56X4uboCDQssW75 message=!absoffer 0 19801612 96461770 36 1954!reloffer 1 96461771 765411656 565 0.000111!reloffer 2 765411657 5752032867 6877 0.000161 ~
+2016-11-19 14:35:07,243 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5PCqJag1ZFas78O message=!reloffer 0 10000000 395802287 0 0.00003 ~
+2016-11-19 14:36:19,757 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 14:37:19,757 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 14:37:19,757 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 14:42:19,858 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 14:42:59,393 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5DsyADveDhoK9Px message=!hp2 2135d28249f11988f684c9aa312b1959e18eb02c18e46e0872fa2096e9a3f375
+2016-11-19 14:42:59,394 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 2135d28249f11988f684c9aa312b1959e18eb02c18e46e0872fa2096e9a3f375, now blacklisted.
+2016-11-19 14:43:19,858 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 14:43:19,858 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 14:43:24,106 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J52vPZSKotHFddHj message=!absoffer 5 1000000000 2499999999 0 8640 ~
+2016-11-19 14:48:19,938 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 14:49:15,135 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J58wL42cAUapM7pJ message=!hp2 41a680b78681577ce74f39a7fe5f9fe82da97b577da8111ceaba674a1557a05d
+2016-11-19 14:49:15,136 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 41a680b78681577ce74f39a7fe5f9fe82da97b577da8111ceaba674a1557a05d, now blacklisted.
+2016-11-19 14:49:19,938 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 14:49:19,939 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 14:52:29,353 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J53EqmomkihARRzQ message=!cancel 2
+2016-11-19 14:52:30,093 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J53EqmomkihARRzQ message=!absoffer 1 2730 1435155 0 15244 ~
+2016-11-19 14:52:30,094 [MCThread    ] [DEBUG]  J53EqmomkihARRzQ has dusty minsize, capping at 27300
+2016-11-19 14:54:19,997 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 14:55:19,997 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 14:55:19,997 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 14:57:12,710 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J53EqmomkihARRzQ message=!absoffer 1 2730 19999999 0 64928!absoffer 2 20000000 33002577 0 6628 ~
+2016-11-19 14:57:12,711 [MCThread    ] [DEBUG]  J53EqmomkihARRzQ has dusty minsize, capping at 27300
+2016-11-19 14:58:39,859 [MainThread  ] [WARNI]  Quitting! Dumping object contents to logfile.
+2016-11-19 14:58:39,861 [MainThread  ] [DEBUG]  Class debug dump, name:Wallet
+2016-11-19 14:58:39,862 [MainThread  ] [DEBUG]  key=unspent
+2016-11-19 14:58:39,867 [MainThread  ] [DEBUG]  {u'b8ccf48feb09a4674451aceeb41bd469c18d9902f1a3b7da3e5a381089871c4f:3': {'address': u'13Nyk7c6tDcDxX1d1BesvAARHTPRWQBb1t',
+                                                                         'value': 2037162},
+ u'd3882ff4e1f3ae6539ac4bfae76b265e273d15d82afffd844b4a26c4d0f10c54:11': {'address': u'19tZCmEUAEjg2usJHy2JHR9sY2YA1Xu5BK',
+                                                                          'value': 995788503},
+ u'd3882ff4e1f3ae6539ac4bfae76b265e273d15d82afffd844b4a26c4d0f10c54:9': {'address': u'1CH7kwCRy8NiWoXE8PhgnzQEM2eMtyfqnu',
+                                                                         'value': 4211697},
+ u'e15f15f2bdc4b9d8594025fe35ff633f04174439b56202aa926c6c4ae6cf494b:10': {'address': u'1Nk9hw1memnmrUbWVwgiYJmF6sviWDz9qD',
+                                                                          'value': 58757274},
+ u'e15f15f2bdc4b9d8594025fe35ff633f04174439b56202aa926c6c4ae6cf494b:6': {'address': u'1JAxFexhkjts9cqAwkdtPgnP7o7BZZx2QM',
+                                                                         'value': 39205964}}
+2016-11-19 14:58:39,867 [MainThread  ] [DEBUG]  key=gaplimit
+2016-11-19 14:58:39,868 [MainThread  ] [DEBUG]  6
+2016-11-19 14:58:39,868 [MainThread  ] [DEBUG]  key=index
+2016-11-19 14:58:39,868 [MainThread  ] [DEBUG]  [[2, 4], [0, 4], [0, 0], [0, 0], [0, 0]]
+2016-11-19 14:58:39,868 [MainThread  ] [DEBUG]  key=index_cache
+2016-11-19 14:58:39,868 [MainThread  ] [DEBUG]  [[1, 1], [0, 1], [0, 0], [0, 0], [0, 0]]
+2016-11-19 14:58:39,869 [MainThread  ] [DEBUG]  key=spent_utxos
+2016-11-19 14:58:39,869 [MainThread  ] [DEBUG]  ['b3a1c9797a584ef7cd52f306b47820b87122a5ffc2cdbb7e51074bd367bae51f:0',
+ 'b8ccf48feb09a4674451aceeb41bd469c18d9902f1a3b7da3e5a381089871c4f:6']
+2016-11-19 14:58:39,869 [MainThread  ] [DEBUG]  key=utxo_selector
+2016-11-19 14:58:39,870 [MainThread  ] [DEBUG]  <function select at 0x7f29116dd9b0>
+2016-11-19 14:58:39,870 [MainThread  ] [DEBUG]  key=path
+2016-11-19 14:58:39,870 [MainThread  ] [DEBUG]  string: len:19
+2016-11-19 14:58:39,870 [MainThread  ] [DEBUG]  wallets/wallet.json
+2016-11-19 14:58:39,870 [MainThread  ] [DEBUG]  key=storepassword
+2016-11-19 14:58:39,870 [MainThread  ] [DEBUG]  False
+2016-11-19 14:58:39,870 [MainThread  ] [DEBUG]  key=max_mix_depth
+2016-11-19 14:58:39,871 [MainThread  ] [DEBUG]  5
+2016-11-19 14:58:39,871 [MainThread  ] [DEBUG]  key=imported_privkeys
+2016-11-19 14:58:39,871 [MainThread  ] [DEBUG]  {}
+2016-11-19 14:58:39,872 [MainThread  ] [DEBUG]  Class debug dump, name:YieldGeneratorBasic
+2016-11-19 14:58:39,872 [MainThread  ] [DEBUG]  key=wallet_unspent_lock
+2016-11-19 14:58:39,872 [MainThread  ] [DEBUG]  <_RLock owner=None count=0>
+2016-11-19 14:58:39,872 [MainThread  ] [DEBUG]  key=dblock
+2016-11-19 14:58:39,872 [MainThread  ] [DEBUG]  <thread.lock object at 0x7f2914c34cf0>
+2016-11-19 14:58:39,872 [MainThread  ] [DEBUG]  key=ordertype
+2016-11-19 14:58:39,872 [MainThread  ] [DEBUG]  string: len:8
+2016-11-19 14:58:39,872 [MainThread  ] [DEBUG]  absoffer
+2016-11-19 14:58:39,872 [MainThread  ] [DEBUG]  key=nextoid
+2016-11-19 14:58:39,872 [MainThread  ] [DEBUG]  -1
+2016-11-19 14:58:39,872 [MainThread  ] [DEBUG]  key=db
+2016-11-19 14:58:39,872 [MainThread  ] [DEBUG]  <sqlite3.Cursor object at 0x7f2910ed6650>
+2016-11-19 14:58:39,872 [MainThread  ] [DEBUG]  key=cjfee_r
+2016-11-19 14:58:39,872 [MainThread  ] [DEBUG]  string: len:5
+2016-11-19 14:58:39,872 [MainThread  ] [DEBUG]  0.000
+2016-11-19 14:58:39,872 [MainThread  ] [DEBUG]  key=wallet
+2016-11-19 14:58:39,872 [MainThread  ] [DEBUG]  <joinmarket.wallet.Wallet object at 0x7f29129c0e10>
+2016-11-19 14:58:39,872 [MainThread  ] [DEBUG]  key=minsize
+2016-11-19 14:58:39,872 [MainThread  ] [DEBUG]  100000
+2016-11-19 14:58:39,872 [MainThread  ] [DEBUG]  key=txfee
+2016-11-19 14:58:39,872 [MainThread  ] [DEBUG]  1000
+2016-11-19 14:58:39,873 [MainThread  ] [DEBUG]  key=mix_levels
+2016-11-19 14:58:39,873 [MainThread  ] [DEBUG]  5
+2016-11-19 14:58:39,873 [MainThread  ] [DEBUG]  key=orderlist
+2016-11-19 14:58:39,873 [MainThread  ] [DEBUG]  [{'cjfee': '1200',
+  'maxsize': 1054518477,
+  'minsize': 100000,
+  'oid': 0,
+  'ordertype': 'absoffer',
+  'txfee': 1000}]
+2016-11-19 14:58:39,873 [MainThread  ] [DEBUG]  key=msgchan
+2016-11-19 14:58:39,873 [MainThread  ] [DEBUG]  <joinmarket.message_channel.MessageChannelCollection object at 0x7f2910f11ed0>
+2016-11-19 14:58:39,873 [MainThread  ] [DEBUG]  key=commit
+2016-11-19 14:58:39,873 [MainThread  ] [DEBUG]  string: len:64
+2016-11-19 14:58:39,873 [MainThread  ] [DEBUG]  3150a73fe440bcf8452af6e3430bd50bfc445cc68022a32e46c2b7258c558f21
+2016-11-19 14:58:39,873 [MainThread  ] [DEBUG]  key=income_statement
+2016-11-19 14:58:39,874 [MainThread  ] [DEBUG]  <closed file 'logs/yigen-statement.csv', mode 'a' at 0x7f2911628ed0>
+2016-11-19 14:58:39,874 [MainThread  ] [DEBUG]  key=tx_unconfirm_timestamp
+2016-11-19 14:58:39,874 [MainThread  ] [DEBUG]  {'1CH7kwCRy8NiWoXE8PhgnzQEM2eMtyfqnu': 1479540876,
+ '1JAxFexhkjts9cqAwkdtPgnP7o7BZZx2QM': 1479553504}
+2016-11-19 14:58:39,874 [MainThread  ] [DEBUG]  key=cjfee_a
+2016-11-19 14:58:39,874 [MainThread  ] [DEBUG]  200
+2016-11-19 14:58:39,874 [MainThread  ] [DEBUG]  key=active_orders
+2016-11-19 14:58:39,874 [MainThread  ] [DEBUG]  {'J55WFEjJgv6cBxwm': None}
+2016-11-19 14:58:39,874 [MainThread  ] [DEBUG]  Class debug dump, name:MessageChannelCollection
+2016-11-19 14:58:39,874 [MainThread  ] [DEBUG]  key=nicks_seen
+2016-11-19 14:58:39,875 [MainThread  ] [DEBUG]  {<joinmarket.irc.IRCMessageChannel object at 0x7f2910eda0d0>: set(['J52GZVYijiyeidYB',
+                                                                   'J52tq84QiS36yfCS',
+                                                                   'J52vPZSKotHFddHj',
+                                                                   'J53EqmomkihARRzQ',
+                                                                   'J53dC5LZzCK9owJL',
+                                                                   'J547ejG1uxnq8T9C',
+                                                                   'J54ChMpZkKgagTko',
+                                                                   'J554Axu1c19ZtxhZ',
+                                                                   'J55WFEjJgv6cBxwm',
+                                                                   'J55vTsRWBSHKauk7',
+                                                                   'J574zWsPoHQr1BKF',
+                                                                   'J57FVuHeT9YteNSP',
+                                                                   'J57GyfTkwEnXERKX',
+                                                                   'J57jKyEckASes7YM',
+                                                                   'J57ysiMuP5diWB2Z',
+                                                                   'J5885E33rERycbuB',
+                                                                   'J58UKJHHWt5EdbM3',
+                                                                   'J58m3wTHsFccb2Gt',
+                                                                   'J58pzNiLzYCQkRHv',
+                                                                   'J59Jf8hjZMLxF2fo',
+                                                                   'J59YbBMtQeErbBeo',
+                                                                   'J59kEneN7Pa16rXS',
+                                                                   'J5BB3jMzr5DsG8an',
+                                                                   'J5BEFG5iJwQMrkm5',
+                                                                   'J5Cj9RBjvSUnNRZS',
+                                                                   'J5CnFXy94JLgjimE',
+                                                                   'J5CxZiJbmzVBEg7T',
+                                                                   'J5RTXSd3fLFKpMcO']),
+ <joinmarket.irc.IRCMessageChannel object at 0x7f2910eda410>: set(['J52R2KNQeEVFPshm',
+                                                                   'J52vPZSKotHFddHj',
+                                                                   'J532VhLY3XfePFyR',
+                                                                   'J53EqmomkihARRzQ',
+                                                                   'J54zjeBLtyJshyAK',
+                                                                   'J56FdedXtaxyXggf',
+                                                                   'J56X4uboCDQssW75',
+                                                                   'J5732BxLRQ6APmAb',
+                                                                   'J575rxJHv3D8UQRk',
+                                                                   'J589VYgDdmFdmAEi',
+                                                                   'J58wL42cAUapM7pJ',
+                                                                   'J59CUpqtq3fVvjCH',
+                                                                   'J59ztqz8pxxcUySL',
+                                                                   'J5AyGMv3bToVi6oH',
+                                                                   'J5BEFG5iJwQMrkm5',
+                                                                   'J5BLoTeegDpFXNUd',
+                                                                   'J5CFEBjBPpmEhucM',
+                                                                   'J5CpGp5USV2K1ZEF',
+                                                                   'J5DLYfaLbk2xPe3q',
+                                                                   'J5DsX42xDFK6XrKp',
+                                                                   'J5DsyADveDhoK9Px',
+                                                                   'J5EeToeTxSDaB4mA',
+                                                                   'J5PCqJag1ZFas78O',
+                                                                   'J5ZdHZMZHQzcNm9O',
+                                                                   'J5ca6HpwnxSEPwNO'])}
+2016-11-19 14:58:39,875 [MainThread  ] [DEBUG]  key=nick
+2016-11-19 14:58:39,876 [MainThread  ] [DEBUG]  string: len:16
+2016-11-19 14:58:39,876 [MainThread  ] [DEBUG]  J57qqvTfxoEY8zyk
+2016-11-19 14:58:39,876 [MainThread  ] [DEBUG]  key=active_channels
+2016-11-19 14:58:39,876 [MainThread  ] [DEBUG]  {'J52GZVYijiyeidYB': <joinmarket.irc.IRCMessageChannel object at 0x7f2910eda0d0>,
+ 'J52tq84QiS36yfCS': <joinmarket.irc.IRCMessageChannel object at 0x7f2910eda0d0>,
+ 'J52vPZSKotHFddHj': <joinmarket.irc.IRCMessageChannel object at 0x7f2910eda410>,
+ 'J532VhLY3XfePFyR': <joinmarket.irc.IRCMessageChannel object at 0x7f2910eda410>,
+ 'J53EqmomkihARRzQ': <joinmarket.irc.IRCMessageChannel object at 0x7f2910eda410>,
+ 'J547ejG1uxnq8T9C': <joinmarket.irc.IRCMessageChannel object at 0x7f2910eda0d0>,
+ 'J54ChMpZkKgagTko': <joinmarket.irc.IRCMessageChannel object at 0x7f2910eda0d0>,
+ 'J55WFEjJgv6cBxwm': <joinmarket.irc.IRCMessageChannel object at 0x7f2910eda0d0>,
+ 'J56FdedXtaxyXggf': <joinmarket.irc.IRCMessageChannel object at 0x7f2910eda410>,
+ 'J56X4uboCDQssW75': <joinmarket.irc.IRCMessageChannel object at 0x7f2910eda410>,
+ 'J5732BxLRQ6APmAb': <joinmarket.irc.IRCMessageChannel object at 0x7f2910eda410>,
+ 'J57jKyEckASes7YM': <joinmarket.irc.IRCMessageChannel object at 0x7f2910eda0d0>,
+ 'J5885E33rERycbuB': <joinmarket.irc.IRCMessageChannel object at 0x7f2910eda0d0>,
+ 'J58pzNiLzYCQkRHv': <joinmarket.irc.IRCMessageChannel object at 0x7f2910eda0d0>,
+ 'J58wL42cAUapM7pJ': <joinmarket.irc.IRCMessageChannel object at 0x7f2910eda410>,
+ 'J59Jf8hjZMLxF2fo': <joinmarket.irc.IRCMessageChannel object at 0x7f2910eda0d0>,
+ 'J59kEneN7Pa16rXS': <joinmarket.irc.IRCMessageChannel object at 0x7f2910eda0d0>,
+ 'J59ztqz8pxxcUySL': <joinmarket.irc.IRCMessageChannel object at 0x7f2910eda410>,
+ 'J5AyGMv3bToVi6oH': <joinmarket.irc.IRCMessageChannel object at 0x7f2910eda410>,
+ 'J5BB3jMzr5DsG8an': <joinmarket.irc.IRCMessageChannel object at 0x7f2910eda0d0>,
+ 'J5BLoTeegDpFXNUd': <joinmarket.irc.IRCMessageChannel object at 0x7f2910eda410>,
+ 'J5CFEBjBPpmEhucM': <joinmarket.irc.IRCMessageChannel object at 0x7f2910eda410>,
+ 'J5Cj9RBjvSUnNRZS': <joinmarket.irc.IRCMessageChannel object at 0x7f2910eda0d0>,
+ 'J5CpGp5USV2K1ZEF': <joinmarket.irc.IRCMessageChannel object at 0x7f2910eda410>,
+ 'J5DLYfaLbk2xPe3q': <joinmarket.irc.IRCMessageChannel object at 0x7f2910eda410>,
+ 'J5EeToeTxSDaB4mA': <joinmarket.irc.IRCMessageChannel object at 0x7f2910eda410>,
+ 'J5PCqJag1ZFas78O': <joinmarket.irc.IRCMessageChannel object at 0x7f2910eda410>,
+ 'J5ZdHZMZHQzcNm9O': <joinmarket.irc.IRCMessageChannel object at 0x7f2910eda410>,
+ 'J5ca6HpwnxSEPwNO': <joinmarket.irc.IRCMessageChannel object at 0x7f2910eda410>}
+2016-11-19 14:58:39,877 [MainThread  ] [DEBUG]  key=nick_pkh
+2016-11-19 14:58:39,877 [MainThread  ] [DEBUG]  string: len:14
+2016-11-19 14:58:39,877 [MainThread  ] [DEBUG]  7qqvTfxoEY8zyk
+2016-11-19 14:58:39,877 [MainThread  ] [DEBUG]  key=welcomed
+2016-11-19 14:58:39,877 [MainThread  ] [DEBUG]  True
+2016-11-19 14:58:39,877 [MainThread  ] [DEBUG]  key=on_connect
+2016-11-19 14:58:39,877 [MainThread  ] [DEBUG]  None
+2016-11-19 14:58:39,877 [MainThread  ] [DEBUG]  key=on_order_seen
+2016-11-19 14:58:39,877 [MainThread  ] [DEBUG]  <bound method YieldGeneratorBasic.on_order_seen of <__main__.YieldGeneratorBasic object at 0x7f2910eda710>>
+2016-11-19 14:58:39,877 [MainThread  ] [DEBUG]  key=mc_status
+2016-11-19 14:58:39,878 [MainThread  ] [DEBUG]  {<joinmarket.irc.IRCMessageChannel object at 0x7f2910eda0d0>: 1,
+ <joinmarket.irc.IRCMessageChannel object at 0x7f2910eda410>: 1}
+2016-11-19 14:58:39,878 [MainThread  ] [DEBUG]  key=nick_pubkey
+2016-11-19 14:58:39,878 [MainThread  ] [DEBUG]  string: len:66
+2016-11-19 14:58:39,878 [MainThread  ] [DEBUG]  02c7f2c3e1b98409545fdd314897da4829463535317a3a0741dc1e6a380f46e1f7
+2016-11-19 14:58:39,878 [MainThread  ] [DEBUG]  key=give_up
+2016-11-19 14:58:39,878 [MainThread  ] [DEBUG]  False
+2016-11-19 14:58:39,878 [MainThread  ] [DEBUG]  key=mc_lock
+2016-11-19 14:58:39,878 [MainThread  ] [DEBUG]  <thread.lock object at 0x7f2914c34bd0>
+2016-11-19 14:58:39,878 [MainThread  ] [DEBUG]  key=on_disconnect
+2016-11-19 14:58:39,878 [MainThread  ] [DEBUG]  None
+2016-11-19 14:58:39,878 [MainThread  ] [DEBUG]  key=on_nick_leave
+2016-11-19 14:58:39,878 [MainThread  ] [DEBUG]  <bound method YieldGeneratorBasic.on_nick_leave of <__main__.YieldGeneratorBasic object at 0x7f2910eda710>>
+2016-11-19 14:58:39,878 [MainThread  ] [DEBUG]  key=on_welcome
+2016-11-19 14:58:39,878 [MainThread  ] [DEBUG]  <bound method YieldGeneratorBasic.on_welcome of <__main__.YieldGeneratorBasic object at 0x7f2910eda710>>
+2016-11-19 14:58:39,878 [MainThread  ] [DEBUG]  key=on_nick_change
+2016-11-19 14:58:39,878 [MainThread  ] [DEBUG]  None
+2016-11-19 14:58:39,878 [MainThread  ] [DEBUG]  key=mchannels
+2016-11-19 14:58:39,878 [MainThread  ] [DEBUG]  [<joinmarket.irc.IRCMessageChannel object at 0x7f2910eda0d0>,
+ <joinmarket.irc.IRCMessageChannel object at 0x7f2910eda410>]
+2016-11-19 14:58:39,878 [MainThread  ] [DEBUG]  key=on_orderbook_requested
+2016-11-19 14:58:39,878 [MainThread  ] [DEBUG]  <bound method YieldGeneratorBasic.on_orderbook_requested of <__main__.YieldGeneratorBasic object at 0x7f2910eda710>>
+2016-11-19 14:58:39,883 [MainThread  ] [DEBUG]  Traceback (most recent call last):
+  File "/root/joinmarket/joinmarket/yieldgenerator.py", line 162, in ygmain
+    mcc.run()
+  File "/root/joinmarket/joinmarket/message_channel.py", line 193, in run
+    time.sleep(1)
+KeyboardInterrupt
+

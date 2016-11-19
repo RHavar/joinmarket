@@ -1,0 +1,364 @@
+2016-11-19 14:58:43,959 [MainThread  ] [INFO ]  starting yield generator
+2016-11-19 14:58:43,962 [MainThread  ] [DEBUG]  get_utxos_by_mixdepth = 
+{0: {u'd3882ff4e1f3ae6539ac4bfae76b265e273d15d82afffd844b4a26c4d0f10c54:11': {'address': u'19tZCmEUAEjg2usJHy2JHR9sY2YA1Xu5BK',
+                                                                              'value': 995788503},
+     u'e15f15f2bdc4b9d8594025fe35ff633f04174439b56202aa926c6c4ae6cf494b:10': {'address': u'1Nk9hw1memnmrUbWVwgiYJmF6sviWDz9qD',
+                                                                              'value': 58757274}},
+ 1: {u'b8ccf48feb09a4674451aceeb41bd469c18d9902f1a3b7da3e5a381089871c4f:3': {'address': u'13Nyk7c6tDcDxX1d1BesvAARHTPRWQBb1t',
+                                                                             'value': 2037162},
+     u'd3882ff4e1f3ae6539ac4bfae76b265e273d15d82afffd844b4a26c4d0f10c54:9': {'address': u'1CH7kwCRy8NiWoXE8PhgnzQEM2eMtyfqnu',
+                                                                             'value': 4211697},
+     u'e15f15f2bdc4b9d8594025fe35ff633f04174439b56202aa926c6c4ae6cf494b:6': {'address': u'1JAxFexhkjts9cqAwkdtPgnP7o7BZZx2QM',
+                                                                             'value': 39205964}},
+ 2: {},
+ 3: {},
+ 4: {}}
+2016-11-19 14:58:43,963 [MainThread  ] [INFO ]  connecting to message channels
+2016-11-19 14:58:43,963 [PingThread  ] [DEBUG]  starting ping thread
+2016-11-19 14:58:43,964 [PingThread  ] [DEBUG]  starting ping thread
+2016-11-19 14:58:43,964 [MCThread    ] [INFO ]  connecting to host irc.cyberguerrilla.org6697
+2016-11-19 14:58:43,964 [ThrottleThre] [DEBUG]  starting throttle thread
+2016-11-19 14:58:43,965 [MCThread    ] [INFO ]  connecting to host agora.anarplex.net14716
+2016-11-19 14:58:43,965 [ThrottleThre] [DEBUG]  starting throttle thread
+2016-11-19 14:58:46,497 [MCThread    ] [DEBUG]  found network name: CgAn;
+2016-11-19 14:58:46,976 [MCThread    ] [INFO ]  Connected to IRC and joined channel on CgAn 
+2016-11-19 14:58:48,651 [MCThread    ] [DEBUG]  found network name: agora-irc;
+2016-11-19 14:58:50,138 [MCThread    ] [INFO ]  Connected to IRC and joined channel on agora-irc 
+2016-11-19 14:58:55,995 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J58pzNiLzYCQkRHv message=!reloffer 0 8333333 41671896 1000 0.00018 ~
+2016-11-19 14:58:57,009 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J5DJyohhAypKrsEJ message=!reloffer 0 200000 4807421579 0 0.001 ~
+2016-11-19 14:58:58,912 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J56X4uboCDQssW75 message=!absoffer 0 12404969 67063731 35 2270!reloffer 1 67063732 649839454 967 9.8e-05!reloffer 2 649839455 5697251601 6986 0.00015 ~
+2016-11-19 14:58:59,088 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J56X4uboCDQssW75 message=!absoffer 0 12404969 67063731 35 2270!reloffer 1 67063732 649839454 967 9.8e-05!reloffer 2 649839455 5697251601 6986 0.00015 ~
+2016-11-19 14:58:59,156 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J52M134SXt3K98Sp message=!reloffer 0 100000 293285014 0 0.001 ~
+2016-11-19 14:58:59,519 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J52GZVYijiyeidYB message=!reloffer 0 154990 921647489 10 0.00009678 ~
+2016-11-19 14:59:00,655 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J57THWfeGyhiyMFM message=!reloffer 0 1000000 40956447254 1 0.00099999 ~
+2016-11-19 14:59:02,269 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J56w7GvkvgFUyR2F message=!reloffer 0 200000 9605388911 1 0.00099999 ~
+2016-11-19 14:59:02,427 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J5AQdoTgzZVxtPe7 message=!orderbook
+2016-11-19 14:59:02,427 [MCThread    ] [DEBUG]  >>privmsg on CgAn: nick=J5AQdoTgzZVxtPe7 cmd=absoffer msg=0 100000 1054518477 1000 1000
+2016-11-19 14:59:04,063 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J54ChMpZkKgagTko message=!reloffer 0 300000 1344761586 10 0.00005 ~
+2016-11-19 14:59:05,270 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J56AMGqzBbi7a3vm message=!reloffer 0 7500000 451323745 1000 0.0002 ~
+2016-11-19 14:59:05,428 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J59Jf8hjZMLxF2fo message=!reloffer 0 1500000 1942695033 100 0.0001 ~
+2016-11-19 14:59:05,468 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5PCqJag1ZFas78O message=!reloffer 0 10000000 407311984 0 0.00003 ~
+2016-11-19 14:59:05,586 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J5PCqJag1ZFas78O message=!reloffer 0 10000000 407311984 0 0.00003 ~
+2016-11-19 14:59:06,698 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J57K74N6egdLxYqm message=!reloffer 0 306122 767704275 10 0.000049 ~
+2016-11-19 14:59:10,965 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J56gjSbiHDNnQ5NC message=!absoffer 0 100000 431660618 100 7100 ~
+2016-11-19 14:59:11,397 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J56gjSbiHDNnQ5NC message=!absoffer 0 100000 431660618 100 7100 ~
+2016-11-19 14:59:22,180 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J5CfBymc8dBWP6Wq message=!reloffer 0 15000000 10743134284 1000 0.0001 ~
+2016-11-19 14:59:22,936 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J5Cj9RBjvSUnNRZS message=!reloffer 0 0 7614136671 0 0.000123 ~
+2016-11-19 14:59:22,937 [MCThread    ] [DEBUG]  J5Cj9RBjvSUnNRZS has dusty minsize, capping at 27300
+2016-11-19 15:01:18,225 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J5Aznq3ptbu8KfTw message=!orderbook
+2016-11-19 15:01:18,226 [MCThread    ] [DEBUG]  >>privmsg on CgAn: nick=J5Aznq3ptbu8KfTw cmd=absoffer msg=0 100000 1054518477 1000 1000
+2016-11-19 15:01:23,324 [MCThread    ] [DEBUG]  <<privmsg on CgAn: nick=J52AdEVozTCSvHzm message=!fill 0 24582654 fa35869ab12576b4d77c0627937866a722f1b7f9e313b2c971b3d300042bdf5d P5cce78f53fa97ad3da2f9b1ea469eae10050317c6155c2155fb2c8778e77d074 02d5fab306f8c3cba512a2b8cdfd20f5100b81ada7026c7b921f33fb3868688f02 MEUCIQCAA/S4GWV5KTvXW1CQVqetQgtSQM4Db8WZx2pBahC47wIgD5JFJ+Pf+OxF/RYmQUspct9aMbynXztWmYK0WBfy42g=
+2016-11-19 15:01:23,325 [MCThread    ] [INFO ]  new cjorder nick=J52AdEVozTCSvHzm oid=0 amount=24582654
+2016-11-19 15:01:23,326 [MCThread    ] [DEBUG]  get_utxos_by_mixdepth = 
+{0: {u'd3882ff4e1f3ae6539ac4bfae76b265e273d15d82afffd844b4a26c4d0f10c54:11': {'address': u'19tZCmEUAEjg2usJHy2JHR9sY2YA1Xu5BK',
+                                                                              'value': 995788503},
+     u'e15f15f2bdc4b9d8594025fe35ff633f04174439b56202aa926c6c4ae6cf494b:10': {'address': u'1Nk9hw1memnmrUbWVwgiYJmF6sviWDz9qD',
+                                                                              'value': 58757274}},
+ 1: {u'b8ccf48feb09a4674451aceeb41bd469c18d9902f1a3b7da3e5a381089871c4f:3': {'address': u'13Nyk7c6tDcDxX1d1BesvAARHTPRWQBb1t',
+                                                                             'value': 2037162},
+     u'd3882ff4e1f3ae6539ac4bfae76b265e273d15d82afffd844b4a26c4d0f10c54:9': {'address': u'1CH7kwCRy8NiWoXE8PhgnzQEM2eMtyfqnu',
+                                                                             'value': 4211697},
+     u'e15f15f2bdc4b9d8594025fe35ff633f04174439b56202aa926c6c4ae6cf494b:6': {'address': u'1JAxFexhkjts9cqAwkdtPgnP7o7BZZx2QM',
+                                                                             'value': 39205964}},
+ 2: {},
+ 3: {},
+ 4: {}}
+2016-11-19 15:01:23,326 [MCThread    ] [DEBUG]  mix depths that have enough = [(0, 1054545777), (1, 45454823)]
+2016-11-19 15:01:23,326 [MCThread    ] [INFO ]  filling offer, mixdepth=0
+2016-11-19 15:01:23,327 [MCThread    ] [DEBUG]  rpc: getaccount ['1BUF8g3bn3nqT5uNXcg6yL7QE4sn7huKyX']
+2016-11-19 15:01:23,329 [MCThread    ] [DEBUG]  rpc: getaccount ['16rEzcAoz5cjNhL8gp6yutXfCg2vTbzEx6']
+2016-11-19 15:01:23,331 [MCThread    ] [DEBUG]  get_utxos_by_mixdepth = 
+{0: {u'd3882ff4e1f3ae6539ac4bfae76b265e273d15d82afffd844b4a26c4d0f10c54:11': {'address': u'19tZCmEUAEjg2usJHy2JHR9sY2YA1Xu5BK',
+                                                                              'value': 995788503},
+     u'e15f15f2bdc4b9d8594025fe35ff633f04174439b56202aa926c6c4ae6cf494b:10': {'address': u'1Nk9hw1memnmrUbWVwgiYJmF6sviWDz9qD',
+                                                                              'value': 58757274}},
+ 1: {u'b8ccf48feb09a4674451aceeb41bd469c18d9902f1a3b7da3e5a381089871c4f:3': {'address': u'13Nyk7c6tDcDxX1d1BesvAARHTPRWQBb1t',
+                                                                             'value': 2037162},
+     u'd3882ff4e1f3ae6539ac4bfae76b265e273d15d82afffd844b4a26c4d0f10c54:9': {'address': u'1CH7kwCRy8NiWoXE8PhgnzQEM2eMtyfqnu',
+                                                                             'value': 4211697},
+     u'e15f15f2bdc4b9d8594025fe35ff633f04174439b56202aa926c6c4ae6cf494b:6': {'address': u'1JAxFexhkjts9cqAwkdtPgnP7o7BZZx2QM',
+                                                                             'value': 39205964}},
+ 2: {},
+ 3: {},
+ 4: {}}
+2016-11-19 15:01:23,331 [MCThread    ] [DEBUG]  for mixdepth=0 amount=24583654 selected:
+2016-11-19 15:01:23,331 [MCThread    ] [DEBUG]  [{'utxo': u'e15f15f2bdc4b9d8594025fe35ff633f04174439b56202aa926c6c4ae6cf494b:10',
+  'value': 58757274}]
+2016-11-19 15:01:23,331 [MCThread    ] [DEBUG]  maker utxos = {u'e15f15f2bdc4b9d8594025fe35ff633f04174439b56202aa926c6c4ae6cf494b:10': {'address': u'1Nk9hw1memnmrUbWVwgiYJmF6sviWDz9qD',
+                                                                          'value': 58757274}}
+2016-11-19 15:01:23,331 [MCThread    ] [DEBUG]  rpc: gettxout [u'e15f15f2bdc4b9d8594025fe35ff633f04174439b56202aa926c6c4ae6cf494b', 10, False]
+2016-11-19 15:01:23,333 [MCThread    ] [DEBUG]  Dynamic switch nick: J52AdEVozTCSvHzm
+2016-11-19 15:01:23,333 [MCThread    ] [DEBUG]  >>privmsg on CgAn: nick=J52AdEVozTCSvHzm cmd=pubkey msg=884c851c62d72381e27b404cf144b2e837d9ebfa9c5d77bf5b97beb40e009a00
+2016-11-19 15:01:27,340 [MCThread    ] [DEBUG]  <<privmsg on CgAn: nick=J52AdEVozTCSvHzm message=!fill 0 24582654 fa35869ab12576b4d77c0627937866a722f1b7f9e313b2c971b3d300042bdf5d P5cce78f53fa97ad3da2f9b1ea469eae10050317c6155c2155fb2c8778e77d074 02d5fab306f8c3cba512a2b8cdfd20f5100b81ada7026c7b921f33fb3868688f02 MEUCIQCAA/S4GWV5KTvXW1CQVqetQgtSQM4Db8WZx2pBahC47wIgD5JFJ+Pf+OxF/RYmQUspct9aMbynXztWmYK0WBfy42g=
+2016-11-19 15:01:27,340 [MCThread    ] [INFO ]  had a partially filled order but starting over now
+2016-11-19 15:01:27,341 [MCThread    ] [INFO ]  new cjorder nick=J52AdEVozTCSvHzm oid=0 amount=24582654
+2016-11-19 15:01:27,341 [MCThread    ] [DEBUG]  get_utxos_by_mixdepth = 
+{0: {u'd3882ff4e1f3ae6539ac4bfae76b265e273d15d82afffd844b4a26c4d0f10c54:11': {'address': u'19tZCmEUAEjg2usJHy2JHR9sY2YA1Xu5BK',
+                                                                              'value': 995788503},
+     u'e15f15f2bdc4b9d8594025fe35ff633f04174439b56202aa926c6c4ae6cf494b:10': {'address': u'1Nk9hw1memnmrUbWVwgiYJmF6sviWDz9qD',
+                                                                              'value': 58757274}},
+ 1: {u'b8ccf48feb09a4674451aceeb41bd469c18d9902f1a3b7da3e5a381089871c4f:3': {'address': u'13Nyk7c6tDcDxX1d1BesvAARHTPRWQBb1t',
+                                                                             'value': 2037162},
+     u'd3882ff4e1f3ae6539ac4bfae76b265e273d15d82afffd844b4a26c4d0f10c54:9': {'address': u'1CH7kwCRy8NiWoXE8PhgnzQEM2eMtyfqnu',
+                                                                             'value': 4211697},
+     u'e15f15f2bdc4b9d8594025fe35ff633f04174439b56202aa926c6c4ae6cf494b:6': {'address': u'1JAxFexhkjts9cqAwkdtPgnP7o7BZZx2QM',
+                                                                             'value': 39205964}},
+ 2: {},
+ 3: {},
+ 4: {}}
+2016-11-19 15:01:27,341 [MCThread    ] [DEBUG]  mix depths that have enough = [(0, 1054545777), (1, 45454823)]
+2016-11-19 15:01:27,342 [MCThread    ] [INFO ]  filling offer, mixdepth=0
+2016-11-19 15:01:27,343 [MCThread    ] [DEBUG]  rpc: getaccount ['1Khy6sM2YQGroX9Pox4bwo9vCcgViU4o1K']
+2016-11-19 15:01:27,344 [MCThread    ] [DEBUG]  rpc: getaccount ['1PfVj9BmK8AyyhudpcKB9s2rBVTgTiYtEf']
+2016-11-19 15:01:27,346 [MCThread    ] [DEBUG]  get_utxos_by_mixdepth = 
+{0: {u'd3882ff4e1f3ae6539ac4bfae76b265e273d15d82afffd844b4a26c4d0f10c54:11': {'address': u'19tZCmEUAEjg2usJHy2JHR9sY2YA1Xu5BK',
+                                                                              'value': 995788503},
+     u'e15f15f2bdc4b9d8594025fe35ff633f04174439b56202aa926c6c4ae6cf494b:10': {'address': u'1Nk9hw1memnmrUbWVwgiYJmF6sviWDz9qD',
+                                                                              'value': 58757274}},
+ 1: {u'b8ccf48feb09a4674451aceeb41bd469c18d9902f1a3b7da3e5a381089871c4f:3': {'address': u'13Nyk7c6tDcDxX1d1BesvAARHTPRWQBb1t',
+                                                                             'value': 2037162},
+     u'd3882ff4e1f3ae6539ac4bfae76b265e273d15d82afffd844b4a26c4d0f10c54:9': {'address': u'1CH7kwCRy8NiWoXE8PhgnzQEM2eMtyfqnu',
+                                                                             'value': 4211697},
+     u'e15f15f2bdc4b9d8594025fe35ff633f04174439b56202aa926c6c4ae6cf494b:6': {'address': u'1JAxFexhkjts9cqAwkdtPgnP7o7BZZx2QM',
+                                                                             'value': 39205964}},
+ 2: {},
+ 3: {},
+ 4: {}}
+2016-11-19 15:01:27,346 [MCThread    ] [DEBUG]  for mixdepth=0 amount=24583654 selected:
+2016-11-19 15:01:27,346 [MCThread    ] [DEBUG]  [{'utxo': u'e15f15f2bdc4b9d8594025fe35ff633f04174439b56202aa926c6c4ae6cf494b:10',
+  'value': 58757274}]
+2016-11-19 15:01:27,346 [MCThread    ] [DEBUG]  maker utxos = {u'e15f15f2bdc4b9d8594025fe35ff633f04174439b56202aa926c6c4ae6cf494b:10': {'address': u'1Nk9hw1memnmrUbWVwgiYJmF6sviWDz9qD',
+                                                                          'value': 58757274}}
+2016-11-19 15:01:27,346 [MCThread    ] [DEBUG]  rpc: gettxout [u'e15f15f2bdc4b9d8594025fe35ff633f04174439b56202aa926c6c4ae6cf494b', 10, False]
+2016-11-19 15:01:27,347 [MCThread    ] [DEBUG]  >>privmsg on CgAn: nick=J52AdEVozTCSvHzm cmd=pubkey msg=278e62e8b93174342b5ad6097143922831d16f54539b753f46951014330e832b
+2016-11-19 15:01:27,507 [MCThread    ] [DEBUG]  <<privmsg on CgAn: nick=J52AdEVozTCSvHzm message=!auth 3CObkaqhRKCVFjOJ1WBIJkrtBEdAMzbkRsZdtxlbkOiU3ZYqoaQzC9SBzXKmTuJAwYB5YHdCZwNyTPVmXVdLBjAqocum4lbhkFCnye4DDLIDTT33rcLESKmkMZ5Ia3akcA9eTfDX3WZSLvFzS2l4BDsnkTHDhKe7Z7DuqIxPMuGqZM8+z2n8Yn98aChaj+HmAgFB1cerRDLB+DJ8xHP4H9+HHJD6fi7xcnu0K5aTOcHJeVXQcSkYzWvlkrxB6D+GFmlkyqYffTbUPgvtrqHj2dktNTlmYRHjKg3DamjEY1Nj3LlJeT34hCJP/IVl0U87N4U+8I0YN+fqhn1wyw2oE/RhbcT45dBC7w3jRGcrRqgd9I11696DHhohep3c8baS26bI8r7jeKupQb5A+YZ7T3hJPP7UAJvWzCPc8c9lbc42e/GrGY/ZDq92ENxWgHLMyhEkoSBPbyMTbCsHP2t06g1NCfXJn4Rmo1nPstS35Fo9DA== 02d5fab306f8c3cba512a2b8cdfd20f5100b81ada7026c7b921f33fb3868688f02 MEUCIQCA1Ar5rLKNXvDO7ZNrtwE5mOVH3Rc7V9B9f4GKKcNl7gIgJqMlTN77+Rkk6BZY7HXXDw0J7v1oqnAHP4UnMp2uV44=
+2016-11-19 15:01:27,508 [MCThread    ] [DEBUG]  valueerror when decrypting, skipping: ValueError('unable to decrypt message',)
+2016-11-19 15:01:35,500 [MCThread    ] [DEBUG]  <<privmsg on CgAn: nick=J52AdEVozTCSvHzm message=!auth eEQ+9MJrHEuITWu7Lp0iaU1hgKZJvUtGpWWMuoTVGaBApnQlgYS04X1GtYakC9H8USsweo6u+rSRS+Tj4rp9WWugQeQRAV+hkdqA47MXc4MgGq7qA02e0eILarfxaNPcZ6fXDx004nqXmD+JHfOfaBGf1Ax9uPo9vMJE0Ilg+h+1lS67PAXSI2R61l6SJikD9zFw+ZhrH/nVQGynzUbe9xaDt/JVhfJIlIFpsElmROBY02Q9JARD3VhvmnJBr7Rxs0Hir+0ZZLgJRUSqEG8+pzmExAnZXF2tf4fPaVE0GNc2J12z9ZgeBg6+gDpxVBcrTKt95GfzpCxwaJDqx1oCLDkvdlcOjmJbxdM1PBbf16WAChEBso5SYg/Mq07S2YZGHW+QHUe4prJVjT13G1p1eGzSfrdBSk3vNO17ZYoTKiB6Uu3zsU/NTKWHJOv05wG9YHubZ3RW9PzKX5Kv3J8tj4+QEwncT4aqK2U+eTiWlMfr7A== 02d5fab306f8c3cba512a2b8cdfd20f5100b81ada7026c7b921f33fb3868688f02 MEUCIQDtrVxu/qfo03RqDRNHryz+e489aFwR3QnYe/7n5RCwvgIgWcIdPYaaw/BJKzp6roTYEUP2OHvS+/qwQIBL1aTz7W8=
+2016-11-19 15:01:35,595 [MCThread    ] [DEBUG]  rpc: gettxout ['75f24f77c22776017deb24e57cf9bb291b6fe18d0c8ede2e1fd316208f257ba1', 5, False]
+2016-11-19 15:01:35,598 [MCThread    ] [DEBUG]  >>privmsg on CgAn: nick=J52AdEVozTCSvHzm cmd=ioauth msg=e15f15f2bdc4b9d8594025fe35ff633f04174439b56202aa926c6c4ae6cf494b:10 02052c4ed612c6b0abce35d59688146935d8d6ae34117502c5c08ed34b1587dad3 1Khy6sM2YQGroX9Pox4bwo9vCcgViU4o1K 1PfVj9BmK8AyyhudpcKB9s2rBVTgTiYtEf MEUCIQDhGrPxI+t0icJgUEiUmuuavT1NoLiMcd71VMEMoZ2z6wIgODkRc544XwKoWIIKX6upLCguavVh7wH2dT2YgO0sMPs=
+2016-11-19 15:01:35,599 [MCThread    ] [DEBUG]  Sending commitment to: J5PCqJag1ZFas78O
+2016-11-19 15:01:35,599 [MCThread    ] [DEBUG]  >>privmsg on CgAn: nick=J5PCqJag1ZFas78O cmd=hp2 msg=5cce78f53fa97ad3da2f9b1ea469eae10050317c6155c2155fb2c8778e77d074
+2016-11-19 15:01:36,786 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J5PCqJag1ZFas78O message=!hp2 5cce78f53fa97ad3da2f9b1ea469eae10050317c6155c2155fb2c8778e77d074
+2016-11-19 15:01:36,788 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 5cce78f53fa97ad3da2f9b1ea469eae10050317c6155c2155fb2c8778e77d074, now blacklisted.
+2016-11-19 15:01:37,202 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5PCqJag1ZFas78O message=!hp2 5cce78f53fa97ad3da2f9b1ea469eae10050317c6155c2155fb2c8778e77d074
+2016-11-19 15:01:37,203 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 5cce78f53fa97ad3da2f9b1ea469eae10050317c6155c2155fb2c8778e77d074, now blacklisted.
+2016-11-19 15:03:54,005 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5DsyADveDhoK9Px message=!hp2 4a46087c2ebc3143ea60643e08b0fc7d19d8d77f45b3bf7cc8adc20b12442e73
+2016-11-19 15:03:54,006 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 4a46087c2ebc3143ea60643e08b0fc7d19d8d77f45b3bf7cc8adc20b12442e73, now blacklisted.
+2016-11-19 15:03:54,059 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J5DsyADveDhoK9Px message=!hp2 4a46087c2ebc3143ea60643e08b0fc7d19d8d77f45b3bf7cc8adc20b12442e73
+2016-11-19 15:03:54,060 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 4a46087c2ebc3143ea60643e08b0fc7d19d8d77f45b3bf7cc8adc20b12442e73, now blacklisted.
+2016-11-19 15:04:21,422 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J54481nsNAJQrHuH message=!reloffer 0 3750000 10224736225 500 0.0002 ~
+2016-11-19 15:04:25,839 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J52GZVYijiyeidYB message=!reloffer 0 154990 78479099 10 0.00009678 ~
+2016-11-19 15:04:31,857 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J56AMGqzBbi7a3vm message=!reloffer 0 7500000 191798330 1000 0.0002 ~
+2016-11-19 15:05:28,568 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J57aAgfeeNmpikxC message=!hp2 23a91c9ad39d6a8676a2854357b71ee25207c1b2e6116aecc0248af06285cecb
+2016-11-19 15:05:28,569 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 23a91c9ad39d6a8676a2854357b71ee25207c1b2e6116aecc0248af06285cecb, now blacklisted.
+2016-11-19 15:07:26,084 [MCThread    ] [DEBUG]  <<privmsg on CgAn: nick=J5C75dvWVcjaRP4m message=!fill 0 993025 cfefa70985b261264bc850dce851e71413e4d4ad66cecedc5d6b467beea96d74 P1477532c61c667ab3673f6a63c4e2f699ec9372e06ab048f72ab9a1e4b9f28ec 03c34c5090e0f2277d5b6386a0adb7b763b96334302aea0651f5922d511b5bc64f MEUCIQC3lSrPU0kGdqwBcZPCQ9X7gsNTxjnB9NMNPciNsWXD9AIgNINMbB0f8D/bNaVk2fzsDEqdWSA44LP7b5ArNFmN7as=
+2016-11-19 15:07:26,085 [MCThread    ] [INFO ]  new cjorder nick=J5C75dvWVcjaRP4m oid=0 amount=993025
+2016-11-19 15:07:26,086 [MCThread    ] [DEBUG]  get_utxos_by_mixdepth = 
+{0: {u'd3882ff4e1f3ae6539ac4bfae76b265e273d15d82afffd844b4a26c4d0f10c54:11': {'address': u'19tZCmEUAEjg2usJHy2JHR9sY2YA1Xu5BK',
+                                                                              'value': 995788503},
+     u'e15f15f2bdc4b9d8594025fe35ff633f04174439b56202aa926c6c4ae6cf494b:10': {'address': u'1Nk9hw1memnmrUbWVwgiYJmF6sviWDz9qD',
+                                                                              'value': 58757274}},
+ 1: {u'b8ccf48feb09a4674451aceeb41bd469c18d9902f1a3b7da3e5a381089871c4f:3': {'address': u'13Nyk7c6tDcDxX1d1BesvAARHTPRWQBb1t',
+                                                                             'value': 2037162},
+     u'd3882ff4e1f3ae6539ac4bfae76b265e273d15d82afffd844b4a26c4d0f10c54:9': {'address': u'1CH7kwCRy8NiWoXE8PhgnzQEM2eMtyfqnu',
+                                                                             'value': 4211697},
+     u'e15f15f2bdc4b9d8594025fe35ff633f04174439b56202aa926c6c4ae6cf494b:6': {'address': u'1JAxFexhkjts9cqAwkdtPgnP7o7BZZx2QM',
+                                                                             'value': 39205964}},
+ 2: {},
+ 3: {},
+ 4: {}}
+2016-11-19 15:07:26,086 [MCThread    ] [DEBUG]  mix depths that have enough = [(0, 1054545777), (1, 45454823)]
+2016-11-19 15:07:26,086 [MCThread    ] [INFO ]  filling offer, mixdepth=0
+2016-11-19 15:07:26,087 [MCThread    ] [DEBUG]  rpc: getaccount ['1HoDYVmrVwpvSaK65zSJU7JzhUK9fqrZNB']
+2016-11-19 15:07:26,089 [MCThread    ] [DEBUG]  rpc: getaccount ['1AcwoB4TiqSL2W8iF2TtE1ZXugS7bbctBB']
+2016-11-19 15:07:26,090 [MCThread    ] [DEBUG]  get_utxos_by_mixdepth = 
+{0: {u'd3882ff4e1f3ae6539ac4bfae76b265e273d15d82afffd844b4a26c4d0f10c54:11': {'address': u'19tZCmEUAEjg2usJHy2JHR9sY2YA1Xu5BK',
+                                                                              'value': 995788503},
+     u'e15f15f2bdc4b9d8594025fe35ff633f04174439b56202aa926c6c4ae6cf494b:10': {'address': u'1Nk9hw1memnmrUbWVwgiYJmF6sviWDz9qD',
+                                                                              'value': 58757274}},
+ 1: {u'b8ccf48feb09a4674451aceeb41bd469c18d9902f1a3b7da3e5a381089871c4f:3': {'address': u'13Nyk7c6tDcDxX1d1BesvAARHTPRWQBb1t',
+                                                                             'value': 2037162},
+     u'd3882ff4e1f3ae6539ac4bfae76b265e273d15d82afffd844b4a26c4d0f10c54:9': {'address': u'1CH7kwCRy8NiWoXE8PhgnzQEM2eMtyfqnu',
+                                                                             'value': 4211697},
+     u'e15f15f2bdc4b9d8594025fe35ff633f04174439b56202aa926c6c4ae6cf494b:6': {'address': u'1JAxFexhkjts9cqAwkdtPgnP7o7BZZx2QM',
+                                                                             'value': 39205964}},
+ 2: {},
+ 3: {},
+ 4: {}}
+2016-11-19 15:07:26,090 [MCThread    ] [DEBUG]  for mixdepth=0 amount=994025 selected:
+2016-11-19 15:07:26,091 [MCThread    ] [DEBUG]  [{'utxo': u'e15f15f2bdc4b9d8594025fe35ff633f04174439b56202aa926c6c4ae6cf494b:10',
+  'value': 58757274}]
+2016-11-19 15:07:26,091 [MCThread    ] [DEBUG]  maker utxos = {u'e15f15f2bdc4b9d8594025fe35ff633f04174439b56202aa926c6c4ae6cf494b:10': {'address': u'1Nk9hw1memnmrUbWVwgiYJmF6sviWDz9qD',
+                                                                          'value': 58757274}}
+2016-11-19 15:07:26,091 [MCThread    ] [DEBUG]  rpc: gettxout [u'e15f15f2bdc4b9d8594025fe35ff633f04174439b56202aa926c6c4ae6cf494b', 10, False]
+2016-11-19 15:07:26,092 [MCThread    ] [DEBUG]  Dynamic switch nick: J5C75dvWVcjaRP4m
+2016-11-19 15:07:26,092 [MCThread    ] [DEBUG]  >>privmsg on CgAn: nick=J5C75dvWVcjaRP4m cmd=pubkey msg=2f6c53a8c929fe063402f58fc748c1b6af26f7d17998e3f290a2f210bb02a970
+2016-11-19 15:07:27,065 [MCThread    ] [DEBUG]  <<privmsg on CgAn: nick=J5C75dvWVcjaRP4m message=!auth 43FZd+R89uBmzMlPUOjIRc3PUvMPb/PUh97fgaXrdoXrRYppYMscK/aIV5xR3FAuFNW/VCNupn0E3VD6xx9h6pn9WLOJRTKzz1q9wrTYvKKeE78+0Q1o+T3HnznhPzhbe+JYtF15PAuKb/xgllA8Kv4EpiSGFEZkxAcCVzkhUVxvHem8RUZw/tBAl0AjBRcSYIs0gWTEWEzYrQhvkWekOkvfk6/YNs4bXW4HFt1jkInoNzsB6+Bo2WHrIrk7yLzWunkDumnk5TdiSOqJuG/JikDD9um7qDzcxf+cY8OZVuEcuhnbEGMXjzFWSHUK6LHs3SnlWBW0mYQ4WhlHBLJBPULhIXUTvL6qcSv/FmPmIrNXo0BuuvNqR7O8T26BLNgak4KIUs8ETE7YsKH1xe3Pjpx4PRzjwf6tQNbJfFkPRCh6v8V3L0lWlum8uZBlx4GqxkORwl+oEMi3h5BRYJq0csJsOUa+4ci6W7i38YitKipLHw== 03c34c5090e0f2277d5b6386a0adb7b763b96334302aea0651f5922d511b5bc64f MEQCIEe1FER0l07cw7wp45L/OhkZFcw4HSxEgZxA8X/9ybkBAiBLjEytiNI2RujTK6+cG9P2gZCu3eoRy8lpqzacH5LASQ==
+2016-11-19 15:07:27,157 [MCThread    ] [DEBUG]  rpc: gettxout ['1ec216ae631622e03966a401d0f440edfac366b8f9213566b7507d4ac506a8fb', 6, False]
+2016-11-19 15:07:27,160 [MCThread    ] [DEBUG]  >>privmsg on CgAn: nick=J5C75dvWVcjaRP4m cmd=ioauth msg=e15f15f2bdc4b9d8594025fe35ff633f04174439b56202aa926c6c4ae6cf494b:10 02052c4ed612c6b0abce35d59688146935d8d6ae34117502c5c08ed34b1587dad3 1HoDYVmrVwpvSaK65zSJU7JzhUK9fqrZNB 1AcwoB4TiqSL2W8iF2TtE1ZXugS7bbctBB MEQCIFJYd4eEQepqDaPYI+v2Q6xqOxhvlOystogfmlIZt0FvAiAe1OrroWMk/7hiNMZGy6fyMUIDVb/NU0EFGPADAP94jA==
+2016-11-19 15:07:27,160 [MCThread    ] [DEBUG]  Sending commitment to: J58pzNiLzYCQkRHv
+2016-11-19 15:07:27,160 [MCThread    ] [DEBUG]  >>privmsg on CgAn: nick=J58pzNiLzYCQkRHv cmd=hp2 msg=1477532c61c667ab3673f6a63c4e2f699ec9372e06ab048f72ab9a1e4b9f28ec
+2016-11-19 15:07:27,636 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J58pzNiLzYCQkRHv message=!hp2 1477532c61c667ab3673f6a63c4e2f699ec9372e06ab048f72ab9a1e4b9f28ec
+2016-11-19 15:07:27,636 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 1477532c61c667ab3673f6a63c4e2f699ec9372e06ab048f72ab9a1e4b9f28ec, now blacklisted.
+2016-11-19 15:07:31,993 [MCThread    ] [DEBUG]  <<privmsg on CgAn: nick=J5C75dvWVcjaRP4m message=!tx 8L/4ElIIxJx7WzVrrH5V8lRteUzPyI0bffRopwaFP0HQkdJpIO+jm/QrHz1dbreRS4gij8o5MUeTzyjCRYJoo8jE0pV0R4rbv5LbbqnobRVr000ugfeAPaVD3Pm6LwzGV0ryC1Vl+KVFy1bQo5ad2xNnTE/qbqw2EOOnpGkwvNYYn3FSjqioQKgg+yzPnYFU4R6smJQsLn+Bo5p1djvfdDZftitC49jguh0TEMqT21ODkCv7J7dmk/dOWijJegcRAuFYMYh+NSC1oxwYghCABLinXYROTiwtDrke2py8B9tFZQtAH5YTzgFKWW4kOjLgfmdALtsy6ZUrpB5PuHeE3KQVMsXzuq34quLvBvVTaj2FQOQ6Rv1iIgxhnUlBZDOSz38zgZz/T0qIUpYzL/d7cyIxQRibRc1cNNaLZOe1SrLHmXdEJAoPZ5oxlUm0LVj8P4tXVL/E83zvwpm3rTEQ5RF9c9BmeU9gAvAAVxEgF0AMZD8xyjZ6MuBbceBuFauweycCcMHrm8Gs+hA0D76SNXVxCNobjCyGPdQh2/7qbdaZngCrO0Hl4Gi36rtYkkAGTTInKjua+/pgxvuwk36fIQgJ4qeP2RQ2phyT4JalSQFBH/4s1kF8xJVraxOj0n/kE+nfRMWE+Za3EMYxyToBbK4b0LAU/hZ5zyDWvDZcIk9VGUkMRpXWrLYMOR3piNi+SMcCwdvq/6X0yNTbzfjG9WayF+LdtTPmOvQHmNhxYCNxCJZ+sgLauhG/GrlsELRLWfIwAbOtAA2vIkfhFO+DNlN/W7oL3KcUAXMEoZuzMrZrKyJNdhVM5tSGsbqfLk4dll/Q+MOebm2CpBnM3ltBSIiQWXStFMhqAezp7QMrZERagdg7LjDm/TXizdZCqhQbEWyeosdLIGj8eD8V0FrbnHVPTCZcZn1SGc6/93GmrxtL3gQr9fJjPq3LWtKth0zVRCJPrKquVFYt4OjYl11B1qb0JgrFkQ17vHUoZUZ0cJPzaILR0IsZgj7m5qxCpctao7VdLyjRD/wpaDM7 03c34c5090e0f2277d5b6386a0adb7b763b96334302aea0651f5922d511b5bc64f MEUCIQC1s+wNDvnlsXQ00UWETDZljoFBzwtc8B9lHQyQpFTPQwIgE8jFjqSDMqJ4JCML7JXzVO2VS/pILn87FD4AiSzPZw8=
+2016-11-19 15:07:31,998 [MCThread    ] [INFO ]  obtained tx
+{'ins': [{'outpoint': {'hash': '1ec216ae631622e03966a401d0f440edfac366b8f9213566b7507d4ac506a8fb',
+                       'index': 6},
+          'script': '',
+          'sequence': 4294967295},
+         {'outpoint': {'hash': '54716f4aa19592be1ad18e0acbbce64d57be7afe391b38c303c766714bbdd496',
+                       'index': 2},
+          'script': '',
+          'sequence': 4294967295},
+         {'outpoint': {'hash': '557e1315744b626cc24d3de4885a93257bbef9a82cc37f9448362a8dd806f827',
+                       'index': 10},
+          'script': '',
+          'sequence': 4294967295},
+         {'outpoint': {'hash': '473b470dee212f39cce18d93618b3700f50de444bc91b8f3fe3f30d7dd8ab4ac',
+                       'index': 15},
+          'script': '',
+          'sequence': 4294967295},
+         {'outpoint': {'hash': 'e15f15f2bdc4b9d8594025fe35ff633f04174439b56202aa926c6c4ae6cf494b',
+                       'index': 10},
+          'script': '',
+          'sequence': 4294967295}],
+ 'locktime': 0,
+ 'outs': [{'script': '76a9149ac70e9d46cede36802f81907b07008e7f2517d088ac',
+           'value': 327922},
+          {'script': '76a91445d43da8d5b6be38f6f3de5c3bd751a4d7a485d688ac',
+           'value': 993025},
+          {'script': '76a91423cc07c81356594bece8a91b9ca282b8939b152688ac',
+           'value': 993025},
+          {'script': '76a914df2f2b3d42e334eaf74ae5bb1674f8052add59fd88ac',
+           'value': 993025},
+          {'script': '76a91469856ea426748a79f1d235dda18ba4997e8693e588ac',
+           'value': 57764249},
+          {'script': '76a9142aac817d4cccc4b0fbccbbd7857d51e3d830572988ac',
+           'value': 993025},
+          {'script': '76a9142ff94258b35aa3a8b03b60e8b79fb1bd61c0f8ec88ac',
+           'value': 301410896},
+          {'script': '76a914b83f9dffa344ee890a481d3489371a0b0c08d3af88ac',
+           'value': 993025},
+          {'script': '76a91439b2b8faea846a744b8ad3372f6a5e6d211d162e88ac',
+           'value': 259998},
+          {'script': '76a9142b478a203cbccd49c0ca16378243ea7aee543dd288ac',
+           'value': 1228808}],
+ 'version': 1}
+2016-11-19 15:07:31,998 [MCThread    ] [INFO ]  potentially earned = 0
+2016-11-19 15:07:31,998 [MCThread    ] [DEBUG]  mycjaddr, mychange = 1HoDYVmrVwpvSaK65zSJU7JzhUK9fqrZNB, 1AcwoB4TiqSL2W8iF2TtE1ZXugS7bbctBB
+2016-11-19 15:07:31,999 [MCThread    ] [INFO ]  goodtx
+2016-11-19 15:07:32,005 [MCThread    ] [DEBUG]  rpc: getaccount ['1F7PXGhuxGCT26Fpk9HLRKgUmTKaFAe6c8']
+2016-11-19 15:07:32,006 [CoreNotifyTh] [INFO ]  started bitcoin core notify listening thread, host=localhost port=62602
+2016-11-19 15:07:32,006 [MCThread    ] [DEBUG]  rpc: getaccount ['17NDszQ2XpQVGK2FagzWyinomgZQwXKTLw']
+2016-11-19 15:07:32,007 [MCThread    ] [DEBUG]  rpc: getaccount ['14GH4zgfwZoifmkXZXtzFkpNJtT9K6FkZZ']
+2016-11-19 15:07:32,008 [MCThread    ] [DEBUG]  rpc: getaccount ['1MM6C8bse48R7JGDdjCx39YNJ2Sf7NeXAy']
+2016-11-19 15:07:32,009 [MCThread    ] [DEBUG]  rpc: getaccount ['1AcwoB4TiqSL2W8iF2TtE1ZXugS7bbctBB']
+2016-11-19 15:07:32,010 [MCThread    ] [DEBUG]  >>privmsg on CgAn: nick=J5C75dvWVcjaRP4m cmd=sig msg=RzBEAiAe+CBOEsYbIJDXiwCAit8hbPjz4Qoy5V3n7upOWlxtNQIgG8b3FXtY2QFHYzgDKEGOftlrAc1xvLqiVWFTWV9eQv0BIQIFLE7WEsawq8411ZaIFGk12NauNBF1AsXAjtNLFYfa0w==
+2016-11-19 15:07:47,399 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J52GZVYijiyeidYB message=!reloffer 0 154990 913529858 10 0.00009678 ~
+2016-11-19 15:07:47,466 [CoreNotifyTh] [DEBUG]  rpc: getrawtransaction ['548983095bd312b9c4e24b3eac52e57b3afa2db9de208767363db619480a0b0c']
+2016-11-19 15:07:47,468 [CoreNotifyTh] [DEBUG]  rpc: gettxout ['548983095bd312b9c4e24b3eac52e57b3afa2db9de208767363db619480a0b0c', 0, True]
+2016-11-19 15:07:47,470 [CoreNotifyTh] [DEBUG]  get_utxos_by_mixdepth = 
+{0: {u'd3882ff4e1f3ae6539ac4bfae76b265e273d15d82afffd844b4a26c4d0f10c54:11': {'address': u'19tZCmEUAEjg2usJHy2JHR9sY2YA1Xu5BK',
+                                                                              'value': 995788503}},
+ 1: {u'b8ccf48feb09a4674451aceeb41bd469c18d9902f1a3b7da3e5a381089871c4f:3': {'address': u'13Nyk7c6tDcDxX1d1BesvAARHTPRWQBb1t',
+                                                                             'value': 2037162},
+     u'd3882ff4e1f3ae6539ac4bfae76b265e273d15d82afffd844b4a26c4d0f10c54:9': {'address': u'1CH7kwCRy8NiWoXE8PhgnzQEM2eMtyfqnu',
+                                                                             'value': 4211697},
+     u'e15f15f2bdc4b9d8594025fe35ff633f04174439b56202aa926c6c4ae6cf494b:6': {'address': u'1JAxFexhkjts9cqAwkdtPgnP7o7BZZx2QM',
+                                                                             'value': 39205964}},
+ 2: {},
+ 3: {},
+ 4: {}}
+2016-11-19 15:07:47,470 [CoreNotifyTh] [DEBUG]  removed utxos, wallet now is 
+{0: {u'd3882ff4e1f3ae6539ac4bfae76b265e273d15d82afffd844b4a26c4d0f10c54:11': {'address': u'19tZCmEUAEjg2usJHy2JHR9sY2YA1Xu5BK',
+                                                                              'value': 995788503}},
+ 1: {u'b8ccf48feb09a4674451aceeb41bd469c18d9902f1a3b7da3e5a381089871c4f:3': {'address': u'13Nyk7c6tDcDxX1d1BesvAARHTPRWQBb1t',
+                                                                             'value': 2037162},
+     u'd3882ff4e1f3ae6539ac4bfae76b265e273d15d82afffd844b4a26c4d0f10c54:9': {'address': u'1CH7kwCRy8NiWoXE8PhgnzQEM2eMtyfqnu',
+                                                                             'value': 4211697},
+     u'e15f15f2bdc4b9d8594025fe35ff633f04174439b56202aa926c6c4ae6cf494b:6': {'address': u'1JAxFexhkjts9cqAwkdtPgnP7o7BZZx2QM',
+                                                                             'value': 39205964}},
+ 2: {},
+ 3: {},
+ 4: {}}
+2016-11-19 15:07:47,471 [CoreNotifyTh] [INFO ]  saw tx on network, removed_utxos=
+{'e15f15f2bdc4b9d8594025fe35ff633f04174439b56202aa926c6c4ae6cf494b:10': {'address': u'1Nk9hw1memnmrUbWVwgiYJmF6sviWDz9qD',
+                                                                         'value': 58757274}}
+2016-11-19 15:07:47,471 [CoreNotifyTh] [DEBUG]  get_utxos_by_mixdepth = 
+{0: {u'd3882ff4e1f3ae6539ac4bfae76b265e273d15d82afffd844b4a26c4d0f10c54:11': {'address': u'19tZCmEUAEjg2usJHy2JHR9sY2YA1Xu5BK',
+                                                                              'value': 995788503}},
+ 1: {u'b8ccf48feb09a4674451aceeb41bd469c18d9902f1a3b7da3e5a381089871c4f:3': {'address': u'13Nyk7c6tDcDxX1d1BesvAARHTPRWQBb1t',
+                                                                             'value': 2037162},
+     u'd3882ff4e1f3ae6539ac4bfae76b265e273d15d82afffd844b4a26c4d0f10c54:9': {'address': u'1CH7kwCRy8NiWoXE8PhgnzQEM2eMtyfqnu',
+                                                                             'value': 4211697},
+     u'e15f15f2bdc4b9d8594025fe35ff633f04174439b56202aa926c6c4ae6cf494b:6': {'address': u'1JAxFexhkjts9cqAwkdtPgnP7o7BZZx2QM',
+                                                                             'value': 39205964}},
+ 2: {},
+ 3: {},
+ 4: {}}
+2016-11-19 15:07:47,472 [CoreNotifyTh] [INFO ]  modifying orders. to_cancel=[]
+to_announce=[{'ordertype': 'absoffer', 'oid': 0, 'minsize': 100000, 'txfee': 1000, 'maxsize': 995761203, 'cjfee': '1000'}]
+2016-11-19 15:07:47,472 [CoreNotifyTh] [DEBUG]  ran unconfirmfun
+2016-11-19 15:07:48,792 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J56AMGqzBbi7a3vm message=!reloffer 0 7500000 443205962 1000 0.0002 ~
+2016-11-19 15:08:08,622 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J54481nsNAJQrHuH message=!reloffer 0 3750000 10232904006 500 0.0002 ~
+2016-11-19 15:08:48,527 [MCThread    ] [DEBUG]  <<privmsg on CgAn: nick=J52AdEVozTCSvHzm message=!tx ulamYEMeCjdM34uvyqUpQD6x8s/dMI3c+MbXtArURBU0Xsgb/Ty4BNyMGoIBJY0YeWVweNJlRje9/powJMcCy5EIubEexRjY4ZET0UnqoxZpbq7Ki05veC6qUS86N/1M7xjOYMa1H4CfZCtu2Ky+oag8lwj7lcFymF84fIu2Yu0yp8344Dc+GmGWkShGk0WIXQ6Dsi5dcm5OEZCrYmM8yUH2mDwVSnk0jvqkv8iLDv3ZDC6IZ2dZ9cSVJjbu6RmhKIgwKso2gPyI5LSEEpdBqIRjWihPPCNxhT6ump0p+vKuD3Qi1goy4xnKfRA3R2VDBlvrDiZ4561eMOcKzoP+piaznJ+N3xwKtl6iN65NFgFsWDDr8zHD+AV8rbo2nxCVu8M56uzcIqRmFmeJMPs2gd9oZu6h/XsmvX5Uk3EU6Nz9t+SRJxHI5ZhEduA+p1gUU/UvaKxqxhVQSVy5oKieYuuXHR6w7FEW3CYqon1rMyRlQt+MB9HzznRD3iirIkyNx4HkSvWsJkEr3M9DJCWQP40IlTPdm8mCUHm+S4YzLPMkW+OXMfEJpexp1HWjmfed8O4x3/j4kLHxwmcsC3RlxIhYahvNR+fPucLbXW3h4J9yzPSAyNpYgzw9unxfvF+M8callIFHlBS+ApD7uWkk5OOyok/Fb8Zrn7U8hi1SK6KDJ8//hy/DASO5AMUhO7q1HYt3iRIxftBymfjI/5P/Icyga1SsgUOWNVRNCKwZ6os0ugwERU4O6UQAdv6klRH807jzmJHeZ3veGH5xLtuO9/TOID0/kEjNezzbi/XAiLnRp7sjhwCDAC+SvIV6DDbAfXubcqU/UkEsqFqvnQcbmy0xgmXq78fCjjTqPq/dnIcnssCPeemXxGPIUXqhAzA3n2DMAvzvadt9rSzS9otowvYAiPf+0FG6jaGSi8ArWiAGyzXdqFNh+Wgj3PPvEcLflb6Xp68t5txydFFc2hfKjD/luZiUB0BbY6iVR/q/5lmfIU7stXFyNVfl2RvK3uzuZj3kHBXvLsKNvVOO0NAd6yCTJ3lVBA+OHQ4xqFbhMEwwKtSlAc2TlnbxZ6McTYa3u8z1/2tCm4jDth/luvkLKZ3XbtXfK7VoYZ5BM6fszgFi5uKfxYctVpCU4eRQx7dZi+ImBm1YtW8+JNs3QBMwlCo1AcXRKdwAxhKMi6ntLobK2kKeo9YNdTJG0gwqEEC8jAcaSDWQo2hoyctb8CNWGdTO4j6q4zR+KLXqLw4ioPJevHGo93AiRz+8MrS1OTX0JB+6bOznHre1WTxyhaV3mtRP4Yk= 02d5fab306f8c3cba512a2b8cdfd20f5100b81ada7026c7b921f33fb3868688f02 MEQCIB0AmFJFXFA7AcKAO0emCMWHBn9WZcrjkzc6uvutKCf4AiACyVWnlUTX8uVKF3/Futa5alknmWBJ7So76TwwA6nr3g==
+2016-11-19 15:08:48,532 [MCThread    ] [INFO ]  obtained tx
+{'ins': [{'outpoint': {'hash': 'f05f8934b69b3fbc31f4e785dddeafa904a0fbaecc5010a0c510152b935eebd3',
+                       'index': 4},
+          'script': '',
+          'sequence': 4294967295},
+         {'outpoint': {'hash': '4c097145a9f3e3fcbf1a7a2c96d321d9acebdf57b33424b3474fd51de5b7c438',
+                       'index': 1},
+          'script': '',
+          'sequence': 4294967295},
+         {'outpoint': {'hash': '557e1315744b626cc24d3de4885a93257bbef9a82cc37f9448362a8dd806f827',
+                       'index': 1},
+          'script': '',
+          'sequence': 4294967295},
+         {'outpoint': {'hash': '75f24f77c22776017deb24e57cf9bb291b6fe18d0c8ede2e1fd316208f257ba1',
+                       'index': 5},
+          'script': '',
+          'sequence': 4294967295},
+         {'outpoint': {'hash': 'e15f15f2bdc4b9d8594025fe35ff633f04174439b56202aa926c6c4ae6cf494b',
+                       'index': 10},
+          'script': '',
+          'sequence': 4294967295},
+         {'outpoint': {'hash': 'd99af6dcaa6e3165ee144d14e303e65c5cbb2ec1ce59ccc430a5946d98a06f81',
+                       'index': 13},
+          'script': '',
+          'sequence': 4294967295},
+         {'outpoint': {'hash': '92d44233c7017507470820ff3815c8d1b4e11234c8b00254a17d34b841504c58',
+                       'index': 6},
+          'script': '',
+          'sequence': 4294967295}],
+ 'locktime': 0,
+ 'outs': [{'script': '76a914f89a8db3d2e6b5f2d8598088e69f71d368e344cf88ac',
+           'value': 34174620},
+          {'script': '76a9146f27dc0fd3911aaa6971b5c0ed386cc2a09e02ed88ac',
+           'value': 24582654},
+          {'script': '76a914aa8ab2eda56036f1dfca9c1ea5d11b98a428959a88ac',
+           'value': 24582654},
+          {'script': '76a914dd75d525c46d3b03dfd3e4cb4d243aabd7aecc7588ac',
+           'value': 278299},
+          {'script': '76a9144ebf5df0f11510304e956af0463c60918f28df8088ac',
+           'value': 9477846},
+          {'script': '76a914cd31bbc55c41e2939209d5b985ccddc8be9d2a7e88ac',
+           'value': 24582654},
+          {'script': '76a914bf5a5344db70b702914c3c90c4afd5a1987d76a088ac',
+           'value': 24582654},
+          {'script': '76a914903cd11791120e3d6232b6736beac472bf8fd92e88ac',
+           'value': 1163898},
+          {'script': '76a91418355ed8aab172ae660b146c1c9211ae7dc33ff588ac',
+           'value': 24582654},
+          {'script': '76a914412832a7c255789836f62ea81524faac650f4aa888ac',
+           'value': 24582654},
+          {'script': '76a9148d9661269ef8d328c40f35300ff02ae637acad2f88ac',
+           'value': 12885261},
+          {'script': '76a914cb634e44f310091c6b75cae549c1763dbddb365488ac',
+           'value': 6248760}],
+ 'version': 1}
+2016-11-19 15:08:48,533 [MCThread    ] [INFO ]  potentially earned = 0
+2016-11-19 15:08:48,533 [MCThread    ] [DEBUG]  mycjaddr, mychange = 1Khy6sM2YQGroX9Pox4bwo9vCcgViU4o1K, 1PfVj9BmK8AyyhudpcKB9s2rBVTgTiYtEf
+2016-11-19 15:08:48,534 [MCThread    ] [INFO ]  goodtx
+2016-11-19 15:08:48,542 [MCThread    ] [DEBUG]  rpc: getaccount ['1PfVj9BmK8AyyhudpcKB9s2rBVTgTiYtEf']
+2016-11-19 15:08:48,543 [MCThread    ] [DEBUG]  >>privmsg on CgAn: nick=J52AdEVozTCSvHzm cmd=sig msg=SDBFAiEA52m8tnbwU6wyvrS9q5vu7MXKvPZSCwelXSrXvDX2zsUCIGoMNfYq6pW058Nyl4EbGldk9329O+FAUPWTdhyaWvBQASECBSxO1hLGsKvONdWWiBRpNdjWrjQRdQLFwI7TSxWH2tM=

@@ -1,0 +1,133 @@
+2016-11-19 05:04:40,592 [MainThread  ] [INFO ]  starting yield generator
+2016-11-19 05:04:40,593 [MainThread  ] [DEBUG]  get_utxos_by_mixdepth = 
+{0: {u'77f850a5e1fd00eca38f9bf89d0345078f3f460ca246fb057280bbdb7c3c2870:0': {'address': u'1AUZGPe5K5V9QVHKcw6BGEN3PXgPyHXfEz',
+                                                                             'value': 100000000}},
+ 1: {},
+ 2: {},
+ 3: {},
+ 4: {}}
+2016-11-19 05:04:40,593 [MainThread  ] [INFO ]  connecting to message channels
+2016-11-19 05:04:40,594 [PingThread  ] [DEBUG]  starting ping thread
+2016-11-19 05:04:40,594 [MCThread    ] [INFO ]  connecting to host irc.cyberguerrilla.org6697
+2016-11-19 05:04:40,594 [ThrottleThre] [DEBUG]  starting throttle thread
+2016-11-19 05:04:40,595 [PingThread  ] [DEBUG]  starting ping thread
+2016-11-19 05:04:40,595 [MCThread    ] [INFO ]  connecting to host agora.anarplex.net14716
+2016-11-19 05:04:40,595 [ThrottleThre] [DEBUG]  starting throttle thread
+2016-11-19 05:04:42,109 [MCThread    ] [DEBUG]  found network name: CgAn;
+2016-11-19 05:04:42,581 [MCThread    ] [INFO ]  Connected to IRC and joined channel on CgAn 
+2016-11-19 05:04:46,875 [MCThread    ] [DEBUG]  found network name: agora-irc;
+2016-11-19 05:04:49,197 [MCThread    ] [INFO ]  Connected to IRC and joined channel on agora-irc 
+2016-11-19 05:05:16,340 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J5CBq3Uxb4oHkK71 message=!orderbook
+2016-11-19 05:05:16,340 [MCThread    ] [DEBUG]  >>privmsg on CgAn: nick=J5CBq3Uxb4oHkK71 cmd=reloffer msg=0 7500000 99972700 1000 0.0002
+2016-11-19 05:20:24,698 [MainThread  ] [WARNI]  Quitting! Dumping object contents to logfile.
+2016-11-19 05:20:24,698 [MainThread  ] [DEBUG]  Class debug dump, name:Wallet
+2016-11-19 05:20:24,698 [MainThread  ] [DEBUG]  key=unspent
+2016-11-19 05:20:24,698 [MainThread  ] [DEBUG]  {u'77f850a5e1fd00eca38f9bf89d0345078f3f460ca246fb057280bbdb7c3c2870:0': {'address': u'1AUZGPe5K5V9QVHKcw6BGEN3PXgPyHXfEz',
+                                                                         'value': 100000000}}
+2016-11-19 05:20:24,698 [MainThread  ] [DEBUG]  key=gaplimit
+2016-11-19 05:20:24,698 [MainThread  ] [DEBUG]  6
+2016-11-19 05:20:24,699 [MainThread  ] [DEBUG]  key=index
+2016-11-19 05:20:24,699 [MainThread  ] [DEBUG]  [[1, 0], [0, 0], [0, 0], [0, 0], [0, 0]]
+2016-11-19 05:20:24,699 [MainThread  ] [DEBUG]  key=index_cache
+2016-11-19 05:20:24,699 [MainThread  ] [DEBUG]  [[0, 0], [0, 0], [0, 0], [0, 0], [0, 0]]
+2016-11-19 05:20:24,699 [MainThread  ] [DEBUG]  key=spent_utxos
+2016-11-19 05:20:24,699 [MainThread  ] [DEBUG]  []
+2016-11-19 05:20:24,699 [MainThread  ] [DEBUG]  key=utxo_selector
+2016-11-19 05:20:24,699 [MainThread  ] [DEBUG]  <function select at 0x7fc260e9e9b0>
+2016-11-19 05:20:24,699 [MainThread  ] [DEBUG]  key=path
+2016-11-19 05:20:24,699 [MainThread  ] [DEBUG]  string: len:19
+2016-11-19 05:20:24,699 [MainThread  ] [DEBUG]  wallets/wallet.json
+2016-11-19 05:20:24,699 [MainThread  ] [DEBUG]  key=storepassword
+2016-11-19 05:20:24,699 [MainThread  ] [DEBUG]  False
+2016-11-19 05:20:24,699 [MainThread  ] [DEBUG]  key=max_mix_depth
+2016-11-19 05:20:24,699 [MainThread  ] [DEBUG]  5
+2016-11-19 05:20:24,700 [MainThread  ] [DEBUG]  key=imported_privkeys
+2016-11-19 05:20:24,700 [MainThread  ] [DEBUG]  {}
+2016-11-19 05:20:24,700 [MainThread  ] [DEBUG]  Class debug dump, name:YieldGeneratorBasic
+2016-11-19 05:20:24,700 [MainThread  ] [DEBUG]  key=wallet_unspent_lock
+2016-11-19 05:20:24,700 [MainThread  ] [DEBUG]  <_RLock owner=None count=0>
+2016-11-19 05:20:24,700 [MainThread  ] [DEBUG]  key=dblock
+2016-11-19 05:20:24,700 [MainThread  ] [DEBUG]  <thread.lock object at 0x7fc2643f5ad0>
+2016-11-19 05:20:24,700 [MainThread  ] [DEBUG]  key=ordertype
+2016-11-19 05:20:24,700 [MainThread  ] [DEBUG]  string: len:8
+2016-11-19 05:20:24,700 [MainThread  ] [DEBUG]  reloffer
+2016-11-19 05:20:24,700 [MainThread  ] [DEBUG]  key=nextoid
+2016-11-19 05:20:24,700 [MainThread  ] [DEBUG]  -1
+2016-11-19 05:20:24,700 [MainThread  ] [DEBUG]  key=db
+2016-11-19 05:20:24,700 [MainThread  ] [DEBUG]  <sqlite3.Cursor object at 0x7fc260697650>
+2016-11-19 05:20:24,700 [MainThread  ] [DEBUG]  key=cjfee_r
+2016-11-19 05:20:24,700 [MainThread  ] [DEBUG]  string: len:6
+2016-11-19 05:20:24,700 [MainThread  ] [DEBUG]  0.0002
+2016-11-19 05:20:24,700 [MainThread  ] [DEBUG]  key=wallet
+2016-11-19 05:20:24,700 [MainThread  ] [DEBUG]  <joinmarket.wallet.Wallet object at 0x7fc262181e10>
+2016-11-19 05:20:24,700 [MainThread  ] [DEBUG]  key=minsize
+2016-11-19 05:20:24,700 [MainThread  ] [DEBUG]  7500000
+2016-11-19 05:20:24,700 [MainThread  ] [DEBUG]  key=txfee
+2016-11-19 05:20:24,701 [MainThread  ] [DEBUG]  1000
+2016-11-19 05:20:24,701 [MainThread  ] [DEBUG]  key=mix_levels
+2016-11-19 05:20:24,701 [MainThread  ] [DEBUG]  5
+2016-11-19 05:20:24,701 [MainThread  ] [DEBUG]  key=orderlist
+2016-11-19 05:20:24,701 [MainThread  ] [DEBUG]  [{'cjfee': '0.0002',
+  'maxsize': 99972700,
+  'minsize': 7500000,
+  'oid': 0,
+  'ordertype': 'reloffer',
+  'txfee': 1000}]
+2016-11-19 05:20:24,701 [MainThread  ] [DEBUG]  key=msgchan
+2016-11-19 05:20:24,701 [MainThread  ] [DEBUG]  <joinmarket.message_channel.MessageChannelCollection object at 0x7fc2606d2ed0>
+2016-11-19 05:20:24,701 [MainThread  ] [DEBUG]  key=income_statement
+2016-11-19 05:20:24,701 [MainThread  ] [DEBUG]  <closed file 'logs/yigen-statement.csv', mode 'a' at 0x7fc260de9ae0>
+2016-11-19 05:20:24,701 [MainThread  ] [DEBUG]  key=tx_unconfirm_timestamp
+2016-11-19 05:20:24,701 [MainThread  ] [DEBUG]  {}
+2016-11-19 05:20:24,701 [MainThread  ] [DEBUG]  key=cjfee_a
+2016-11-19 05:20:24,701 [MainThread  ] [DEBUG]  200
+2016-11-19 05:20:24,701 [MainThread  ] [DEBUG]  key=active_orders
+2016-11-19 05:20:24,701 [MainThread  ] [DEBUG]  {}
+2016-11-19 05:20:24,701 [MainThread  ] [DEBUG]  Class debug dump, name:MessageChannelCollection
+2016-11-19 05:20:24,702 [MainThread  ] [DEBUG]  key=nicks_seen
+2016-11-19 05:20:24,702 [MainThread  ] [DEBUG]  {<joinmarket.irc.IRCMessageChannel object at 0x7fc26069b150>: set(['J5CBq3Uxb4oHkK71']),
+ <joinmarket.irc.IRCMessageChannel object at 0x7fc26069b410>: set([])}
+2016-11-19 05:20:24,702 [MainThread  ] [DEBUG]  key=nick
+2016-11-19 05:20:24,702 [MainThread  ] [DEBUG]  string: len:16
+2016-11-19 05:20:24,702 [MainThread  ] [DEBUG]  J57tTXam1WWAbLcf
+2016-11-19 05:20:24,702 [MainThread  ] [DEBUG]  key=active_channels
+2016-11-19 05:20:24,702 [MainThread  ] [DEBUG]  {}
+2016-11-19 05:20:24,702 [MainThread  ] [DEBUG]  key=nick_pkh
+2016-11-19 05:20:24,702 [MainThread  ] [DEBUG]  string: len:14
+2016-11-19 05:20:24,702 [MainThread  ] [DEBUG]  7tTXam1WWAbLcf
+2016-11-19 05:20:24,702 [MainThread  ] [DEBUG]  key=welcomed
+2016-11-19 05:20:24,702 [MainThread  ] [DEBUG]  True
+2016-11-19 05:20:24,702 [MainThread  ] [DEBUG]  key=on_connect
+2016-11-19 05:20:24,702 [MainThread  ] [DEBUG]  None
+2016-11-19 05:20:24,702 [MainThread  ] [DEBUG]  key=on_order_seen
+2016-11-19 05:20:24,702 [MainThread  ] [DEBUG]  <bound method YieldGeneratorBasic.on_order_seen of <__main__.YieldGeneratorBasic object at 0x7fc26069b710>>
+2016-11-19 05:20:24,702 [MainThread  ] [DEBUG]  key=mc_status
+2016-11-19 05:20:24,702 [MainThread  ] [DEBUG]  {<joinmarket.irc.IRCMessageChannel object at 0x7fc26069b150>: 1,
+ <joinmarket.irc.IRCMessageChannel object at 0x7fc26069b410>: 1}
+2016-11-19 05:20:24,702 [MainThread  ] [DEBUG]  key=nick_pubkey
+2016-11-19 05:20:24,703 [MainThread  ] [DEBUG]  string: len:66
+2016-11-19 05:20:24,703 [MainThread  ] [DEBUG]  02617ecaf3ac902416c3ae3f267675473dde2dcbf12bce8d1bbdcb3a5f8f727f6e
+2016-11-19 05:20:24,703 [MainThread  ] [DEBUG]  key=give_up
+2016-11-19 05:20:24,703 [MainThread  ] [DEBUG]  False
+2016-11-19 05:20:24,703 [MainThread  ] [DEBUG]  key=mc_lock
+2016-11-19 05:20:24,703 [MainThread  ] [DEBUG]  <thread.lock object at 0x7fc2643f5b10>
+2016-11-19 05:20:24,703 [MainThread  ] [DEBUG]  key=on_disconnect
+2016-11-19 05:20:24,703 [MainThread  ] [DEBUG]  None
+2016-11-19 05:20:24,703 [MainThread  ] [DEBUG]  key=on_nick_leave
+2016-11-19 05:20:24,703 [MainThread  ] [DEBUG]  <bound method YieldGeneratorBasic.on_nick_leave of <__main__.YieldGeneratorBasic object at 0x7fc26069b710>>
+2016-11-19 05:20:24,703 [MainThread  ] [DEBUG]  key=on_welcome
+2016-11-19 05:20:24,703 [MainThread  ] [DEBUG]  <bound method YieldGeneratorBasic.on_welcome of <__main__.YieldGeneratorBasic object at 0x7fc26069b710>>
+2016-11-19 05:20:24,703 [MainThread  ] [DEBUG]  key=on_nick_change
+2016-11-19 05:20:24,703 [MainThread  ] [DEBUG]  None
+2016-11-19 05:20:24,703 [MainThread  ] [DEBUG]  key=mchannels
+2016-11-19 05:20:24,703 [MainThread  ] [DEBUG]  [<joinmarket.irc.IRCMessageChannel object at 0x7fc26069b150>,
+ <joinmarket.irc.IRCMessageChannel object at 0x7fc26069b410>]
+2016-11-19 05:20:24,703 [MainThread  ] [DEBUG]  key=on_orderbook_requested
+2016-11-19 05:20:24,703 [MainThread  ] [DEBUG]  <bound method YieldGeneratorBasic.on_orderbook_requested of <__main__.YieldGeneratorBasic object at 0x7fc26069b710>>
+2016-11-19 05:20:24,704 [MainThread  ] [DEBUG]  Traceback (most recent call last):
+  File "/root/joinmarket/joinmarket/yieldgenerator.py", line 162, in ygmain
+    mcc.run()
+  File "/root/joinmarket/joinmarket/message_channel.py", line 193, in run
+    time.sleep(1)
+KeyboardInterrupt
+

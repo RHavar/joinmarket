@@ -1,0 +1,343 @@
+2016-11-19 05:21:31,262 [MainThread  ] [INFO ]  starting yield generator
+2016-11-19 05:21:31,263 [MainThread  ] [DEBUG]  get_utxos_by_mixdepth = 
+{0: {u'77f850a5e1fd00eca38f9bf89d0345078f3f460ca246fb057280bbdb7c3c2870:0': {'address': u'1AUZGPe5K5V9QVHKcw6BGEN3PXgPyHXfEz',
+                                                                             'value': 100000000}},
+ 1: {},
+ 2: {},
+ 3: {},
+ 4: {}}
+2016-11-19 05:21:31,263 [MainThread  ] [INFO ]  connecting to message channels
+2016-11-19 05:21:31,264 [PingThread  ] [DEBUG]  starting ping thread
+2016-11-19 05:21:31,267 [MCThread    ] [INFO ]  connecting to host irc.cyberguerrilla.org6697
+2016-11-19 05:21:31,267 [ThrottleThre] [DEBUG]  starting throttle thread
+2016-11-19 05:21:31,268 [PingThread  ] [DEBUG]  starting ping thread
+2016-11-19 05:21:31,268 [ThrottleThre] [DEBUG]  starting throttle thread
+2016-11-19 05:21:31,268 [MCThread    ] [INFO ]  connecting to host agora.anarplex.net14716
+2016-11-19 05:21:33,213 [MCThread    ] [DEBUG]  found network name: CgAn;
+2016-11-19 05:21:33,686 [MCThread    ] [INFO ]  Connected to IRC and joined channel on CgAn 
+2016-11-19 05:21:34,513 [MCThread    ] [DEBUG]  found network name: agora-irc;
+2016-11-19 05:21:36,061 [MCThread    ] [INFO ]  Connected to IRC and joined channel on agora-irc 
+2016-11-19 05:25:17,980 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J56tcLNXiwC7ZewD message=!reloffer 0 7388105 520837356 1002 0.000216 ~
+2016-11-19 05:25:18,173 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J56tcLNXiwC7ZewD message=!reloffer 0 7788355 536547023 826 0.000220 ~
+2016-11-19 05:25:18,395 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J56tcLNXiwC7ZewD message=!reloffer 0 7388105 520837356 1002 0.000216 ~
+2016-11-19 05:25:18,843 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J5BB3jMzr5DsG8an message=!reloffer 0 7500000 217851496 1000 0.0002 ~
+2016-11-19 05:25:18,940 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J56tcLNXiwC7ZewD message=!reloffer 0 7788355 536547023 826 0.000220 ~
+2016-11-19 05:25:19,361 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5BB3jMzr5DsG8an message=!reloffer 0 7500000 217851496 1000 0.0002 ~
+2016-11-19 05:25:19,362 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J532VhLY3XfePFyR message=!absoffer 0 100000 59459859 0 3500 ~
+2016-11-19 05:25:19,781 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J532VhLY3XfePFyR message=!absoffer 0 100000 59459859 0 3500 ~
+2016-11-19 05:25:20,251 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J53dC5LZzCK9owJL message=!reloffer 0 7500000 162828543 1000 0.0002 ~
+2016-11-19 05:25:21,750 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J54ChMpZkKgagTko message=!reloffer 0 300000 1027779940 10 0.00005 ~
+2016-11-19 05:25:23,058 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J5PCqJag1ZFas78O message=!reloffer 0 10000000 313903811 0 0.00003 ~
+2016-11-19 05:25:23,438 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5PCqJag1ZFas78O message=!reloffer 0 10000000 313903811 0 0.00003 ~
+2016-11-19 05:25:30,188 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J547ejG1uxnq8T9C message=!reloffer 0 0 3603623597 0 0.000166 ~
+2016-11-19 05:25:30,188 [MCThread    ] [DEBUG]  J547ejG1uxnq8T9C has dusty minsize, capping at 27300
+2016-11-19 05:25:30,388 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J547ejG1uxnq8T9C message=!reloffer 0 0 3604886704 0 0.000166 ~
+2016-11-19 05:25:30,388 [MCThread    ] [DEBUG]  J547ejG1uxnq8T9C has dusty minsize, capping at 27300
+2016-11-19 05:25:31,588 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J59Jf8hjZMLxF2fo message=!reloffer 0 1500000 2559573290 100 0.0001 ~
+2016-11-19 05:25:34,505 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J52GZVYijiyeidYB message=!reloffer 0 154990 995565068 10 0.00009678 ~
+2016-11-19 05:25:51,245 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J5Cj9RBjvSUnNRZS message=!reloffer 0 0 7614089967 0 0.000123 ~
+2016-11-19 05:25:51,246 [MCThread    ] [DEBUG]  J5Cj9RBjvSUnNRZS has dusty minsize, capping at 27300
+2016-11-19 05:25:51,975 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J54481nsNAJQrHuH message=!reloffer 0 3750000 10232896453 500 0.0002 ~
+2016-11-19 05:25:52,533 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J57aAgfeeNmpikxC message=!reloffer 0 2142857 11933007655 200 0.00014 ~
+2016-11-19 05:28:15,426 [MCThread    ] [DEBUG]  <<privmsg on CgAn: nick=J53ah3kCY4D7cxXd message=!hp2 fe9f3f0a52ebe6da9b47768d4d30ae19121f296e52cf2ca90093ca33a7d741ef 039efc7b3b6b0899d4ae7a63ae2fa35703244ace4f1ba1ca53eefd4afe3bf3a054 MEUCIQDLRfZ6qhoHz1k5SJCzOiOxZ/jKVqP8mhGet2qs5LE0jwIgbaOdyxYmwY6NQ+foGqAJ9MkBwXkhyCMmjcvU0Fc9ID4=
+2016-11-19 05:28:15,427 [MCThread    ] [DEBUG]  >>pubmsg !hp2 fe9f3f0a52ebe6da9b47768d4d30ae19121f296e52cf2ca90093ca33a7d741ef
+2016-11-19 05:28:15,427 [MCThread    ] [DEBUG]  >>pubmsg !hp2 fe9f3f0a52ebe6da9b47768d4d30ae19121f296e52cf2ca90093ca33a7d741ef
+2016-11-19 05:28:16,812 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J53dC5LZzCK9owJL message=!hp2 fe9f3f0a52ebe6da9b47768d4d30ae19121f296e52cf2ca90093ca33a7d741ef
+2016-11-19 05:28:16,813 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: fe9f3f0a52ebe6da9b47768d4d30ae19121f296e52cf2ca90093ca33a7d741ef, now blacklisted.
+2016-11-19 05:28:50,326 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J57aAgfeeNmpikxC message=!reloffer 0 2142857 11918338969 200 0.00014 ~
+2016-11-19 05:28:51,703 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J54481nsNAJQrHuH message=!reloffer 0 3750000 10218204508 500 0.0002 ~
+2016-11-19 05:28:52,993 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J53ah3kCY4D7cxXd message=!reloffer 0 200000 4928869593 0 0.0001 ~
+2016-11-19 05:28:55,612 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J52GZVYijiyeidYB message=!reloffer 0 154990 27757064 10 0.00009678 ~
+2016-11-19 05:32:48,665 [MCThread    ] [DEBUG]  <<privmsg on CgAn: nick=J58Mpxroo4BVYhpn message=!fill 0 2037162 03ec580661b497716e35ef8c2b8ca23942f04ee6d91e28159333ff0b434e1959 P10be245d492ee73bf35646077805dc2e58fae55cb4ae2b5929ff650b99a92c00 03f425a88d496e083f9353be94f55c5bac964ed318929a0a3bd5da1a51eb900a1c MEUCIQDFtfRRw0uLCws0pcq61pfpxKQSyQjjz4LVNqa2OyYE6gIgeVjEzRrJ/w2RAVjqh1QeZX/Ta0d/c8qddXiiLk5oLU8=
+2016-11-19 05:32:48,666 [MCThread    ] [INFO ]  new cjorder nick=J58Mpxroo4BVYhpn oid=0 amount=2037162
+2016-11-19 05:32:48,666 [MCThread    ] [DEBUG]  get_utxos_by_mixdepth = 
+{0: {u'77f850a5e1fd00eca38f9bf89d0345078f3f460ca246fb057280bbdb7c3c2870:0': {'address': u'1AUZGPe5K5V9QVHKcw6BGEN3PXgPyHXfEz',
+                                                                             'value': 100000000}},
+ 1: {},
+ 2: {},
+ 3: {},
+ 4: {}}
+2016-11-19 05:32:48,666 [MCThread    ] [DEBUG]  mix depths that have enough = [(0, 100000000)]
+2016-11-19 05:32:48,666 [MCThread    ] [INFO ]  filling offer, mixdepth=0
+2016-11-19 05:32:48,668 [MCThread    ] [DEBUG]  rpc: getaccount ['13Nyk7c6tDcDxX1d1BesvAARHTPRWQBb1t']
+2016-11-19 05:32:48,670 [MCThread    ] [DEBUG]  rpc: getaccount ['1J1qJk9kuChpLQ599nZ4DzTQDaYNWA3tg5']
+2016-11-19 05:32:48,670 [MCThread    ] [DEBUG]  get_utxos_by_mixdepth = 
+{0: {u'77f850a5e1fd00eca38f9bf89d0345078f3f460ca246fb057280bbdb7c3c2870:0': {'address': u'1AUZGPe5K5V9QVHKcw6BGEN3PXgPyHXfEz',
+                                                                             'value': 100000000}},
+ 1: {},
+ 2: {},
+ 3: {},
+ 4: {}}
+2016-11-19 05:32:48,671 [MCThread    ] [DEBUG]  for mixdepth=0 amount=2038162 selected:
+2016-11-19 05:32:48,671 [MCThread    ] [DEBUG]  [{'utxo': u'77f850a5e1fd00eca38f9bf89d0345078f3f460ca246fb057280bbdb7c3c2870:0',
+  'value': 100000000}]
+2016-11-19 05:32:48,671 [MCThread    ] [DEBUG]  maker utxos = {u'77f850a5e1fd00eca38f9bf89d0345078f3f460ca246fb057280bbdb7c3c2870:0': {'address': u'1AUZGPe5K5V9QVHKcw6BGEN3PXgPyHXfEz',
+                                                                         'value': 100000000}}
+2016-11-19 05:32:48,671 [MCThread    ] [DEBUG]  rpc: gettxout [u'77f850a5e1fd00eca38f9bf89d0345078f3f460ca246fb057280bbdb7c3c2870', 0, False]
+2016-11-19 05:32:48,674 [MCThread    ] [DEBUG]  Dynamic switch nick: J58Mpxroo4BVYhpn
+2016-11-19 05:32:48,674 [MCThread    ] [DEBUG]  >>privmsg on CgAn: nick=J58Mpxroo4BVYhpn cmd=pubkey msg=0564d61d01312ce4ecef0c20294936ed572fafb2e52a528c025df426fdf6e037
+2016-11-19 05:32:52,758 [MCThread    ] [DEBUG]  <<privmsg on CgAn: nick=J58Mpxroo4BVYhpn message=!auth /drm+QYsp0Hx0K1sW4YbGK7ICURimKWGDqXH57J8AOjZXUPKvONAJm9FLoj6jy0suHVquZqBWMDXJARBDnkZqazcw6g7ei83lb5J6XR5pspra5n87k1Dj52eCZKq1l4pmDp/n1XPv9POhrp6I2k5ZUuYpS9xzZ9gkFUjQ2aOcSrj8O/sUCT2BA2kIGms7Eu94Lk7afdOWJNhhMxkliyIJQyXAe/UedGEenh2Nnnp4dqkxxtbyYHGhRYE1y7L/c4U/56eN1+dBCMYui7IWUFmEFTdmxOcOo+vFTOeC4mGVKJQgTLTTaAEknbHQBCIF4kQhsuDRqB/SsUbTklfyL/MjS0KABQj5nljnW0dI93QOFqaa8mYqvHQl8Zvzm9LlmVGYCjVdyKhUhzjhfrLXAF8uJDnjYEAUw2e0cuuaObRoSoDf2RxnQBjjNQsH995Rynf04z5VNHCb59Nn6LylyAI+leUwf6fR685Is1E94Fzeadf1g== 03f425a88d496e083f9353be94f55c5bac964ed318929a0a3bd5da1a51eb900a1c MEQCIAH2rqvWqbF+76eYu9HTnA0oJvO/i5acwbI2nVBc4YFnAiA0qcXk3ZVzBuHbOXQnmLBQ3XNtdeVA9lxYktIybWXCRQ==
+2016-11-19 05:32:52,798 [MCThread    ] [DEBUG]  rpc: gettxout ['e6fafc3e84156db8e686457864422db8f1c5ce64d68709b7b2ce22bb5a04ed86', 0, False]
+2016-11-19 05:32:52,801 [MCThread    ] [DEBUG]  >>privmsg on CgAn: nick=J58Mpxroo4BVYhpn cmd=ioauth msg=77f850a5e1fd00eca38f9bf89d0345078f3f460ca246fb057280bbdb7c3c2870:0 03edfd6ec8dfb514582b11c493d9b86748feee7470d57eef65bdf7602edfd6a8dd 13Nyk7c6tDcDxX1d1BesvAARHTPRWQBb1t 1J1qJk9kuChpLQ599nZ4DzTQDaYNWA3tg5 MEQCICHWXk3y3E6ulVtr8j2nL/QCzkxw3VPlTaXwL76pbI3oAiADDdTrP7PUC7WrKYPzzj1QeZ72KDN+Rhcui+u6lYJmYg==
+2016-11-19 05:32:52,802 [MCThread    ] [DEBUG]  Sending commitment to: J57aAgfeeNmpikxC
+2016-11-19 05:32:52,803 [MCThread    ] [DEBUG]  >>privmsg on CgAn: nick=J57aAgfeeNmpikxC cmd=hp2 msg=10be245d492ee73bf35646077805dc2e58fae55cb4ae2b5929ff650b99a92c00
+2016-11-19 05:32:54,036 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J57aAgfeeNmpikxC message=!hp2 10be245d492ee73bf35646077805dc2e58fae55cb4ae2b5929ff650b99a92c00
+2016-11-19 05:32:54,037 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 10be245d492ee73bf35646077805dc2e58fae55cb4ae2b5929ff650b99a92c00, now blacklisted.
+2016-11-19 05:32:57,647 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J5BB3jMzr5DsG8an message=!hp2 10be245d492ee73bf35646077805dc2e58fae55cb4ae2b5929ff650b99a92c00
+2016-11-19 05:32:57,647 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 10be245d492ee73bf35646077805dc2e58fae55cb4ae2b5929ff650b99a92c00, now blacklisted.
+2016-11-19 05:32:57,964 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5BB3jMzr5DsG8an message=!hp2 10be245d492ee73bf35646077805dc2e58fae55cb4ae2b5929ff650b99a92c00
+2016-11-19 05:32:57,964 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 10be245d492ee73bf35646077805dc2e58fae55cb4ae2b5929ff650b99a92c00, now blacklisted.
+2016-11-19 05:33:47,033 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J5Cj9RBjvSUnNRZS message=!reloffer 0 0 7613928470 0 0.000123 ~
+2016-11-19 05:33:47,033 [MCThread    ] [DEBUG]  J5Cj9RBjvSUnNRZS has dusty minsize, capping at 27300
+2016-11-19 05:34:00,448 [MCThread    ] [DEBUG]  <<privmsg on CgAn: nick=J58Mpxroo4BVYhpn message=!tx MslHIZ1CQDHftlLOWTQVIanl/UkbmR+ZE33JnpkDr8zuOOkzCKEgOARvWJZK8Kl3Fk3ViTSW/hv0EBfAdiO9q/jVxtVoMhb/k6TYUKrFFV49dHGu+sFe4g4ATp7UwVWrBXyYB7A+o4evznM0lv89YTAoUrG5S4RnXomX2vrEaZkHC3eA7b3+8h4l4lr3g1Zy4JnBjqjpJ6hs9Q5pLcV8OQSpekDbWwfvuQEGgj3OFHvmSqiISWZJs0UIvWmhJGhsAcdlXbXYVVAqwAI1tVP4Orc0Kkn4afAntPpuy5YNFwZ7BEXYyVAyAOTspI8jA5lpKJl9N94qGS9KYIUbFz0aY1ggNxgil860pIMFPpKl0zw34rwTVz6Mzt6QSmvw8w4v1O0Dhxsz1h1kXZijSXALE4gvACM0Ff+lsPxRTHOeGvkd5QrrcrYH9ppBpqhOWh5uql/aG82brP7icUed4LlZbWY14lzRRCCExiRTCtNhC+DOmEvMR11lwuB9tBvdH+8zz/Gdb8eRRkzc8E7C2HE5r34DYUX4eCsafihrp4hXNAA1GfecH92tLRYEiIFA3HX9oDjouhlgZXZ2o45wZv+QbpvJtwYuyKLiQwQHqODVcciKBK5TOAm43DD+vER0h/0wSORAuRLqGQV2Cxlt/5lKPnuTg0UMIf8NPyL3P9xtZnArO+tbJGW7ERXQah7hee4/RtyoFrBUmK79AANzZA3yyJZSK8AX+7rr0GQy23l6PXn5dIsE2awsFFqVRDpDtXHNFzK6o8OVeSrpKTD4ZYjmIpirvJCFEEvgvYU4fPGUOfmECUfUkX/fVvP12QdgHUZJ0pm4PbAHhaOVW1rhInavR02AtmyXvmF8K8Mhn1Z7z5ZEBOEV+oSUiwogvrH5QnHtbPNhtl5dZMTPHh69C0iHY8rsw1GN3eR8X3vEmDLG+R5aXt9UPAzEW9tRMVCR0zymkneuhGzfTNBhL2ar0u4dO2tUGxUpY1e5xMvvDIRpLu8tAd96l2dXzkcuLiTQB6x+2mKzbxkI+rU6PuiEEa+l+POzhINJfYVFKctZ2bpyKhGQEfrShqG/y1O7bPfYMYDLWY/bwTj1xf62Oe7mvABOgxtK9CSth7EGpvOE5w9Ft89hiUG8wNukmaaZCO6+O/wKVNSBRVK7jqxkXQ6jy+fqGgRh/2+soGcOyz6pxbMcPrdRmfy6ULZI6ul0pTHTx37rFka7k+8K4KS+uoXG/8pAwGCfnl4IT5i5pkD196JzJpqdvMMFqRjK5j72Sg1lmauB0LtKcepZ6YY1fgZSkPXvUmQtIcs= 03f425a88d496e083f9353be94f55c5bac964ed318929a0a3bd5da1a51eb900a1c MEQCIDAN3K+40crt4aG4yNzEXtePkRQUVDmGTXXSogkSqON5AiASzrYXRgZMv0QxwzV97LnAyAIRGhDpHijC9PJIwrIvRQ==
+2016-11-19 05:34:00,454 [MCThread    ] [INFO ]  obtained tx
+{'ins': [{'outpoint': {'hash': 'd012fae5ebb5806f8f2648c3cf75f19f4db08bffe0052773b42017ffdbcff06a',
+                       'index': 5},
+          'script': '',
+          'sequence': 4294967295},
+         {'outpoint': {'hash': '77f850a5e1fd00eca38f9bf89d0345078f3f460ca246fb057280bbdb7c3c2870',
+                       'index': 0},
+          'script': '',
+          'sequence': 4294967295},
+         {'outpoint': {'hash': '50f5d8365eae08114803892dd3802cb7afbfeb95aa9d2a2b59a74ca0805345eb',
+                       'index': 11},
+          'script': '',
+          'sequence': 4294967295},
+         {'outpoint': {'hash': 'c31b975234998153791ca036f06251ad1170c4797b56a361dc2039b44a1a6901',
+                       'index': 6},
+          'script': '',
+          'sequence': 4294967295},
+         {'outpoint': {'hash': 'e6fafc3e84156db8e686457864422db8f1c5ce64d68709b7b2ce22bb5a04ed86',
+                       'index': 0},
+          'script': '',
+          'sequence': 4294967295},
+         {'outpoint': {'hash': '072d599293c5e586e46285881a9bc6787346b4d847141ce2e1565d5bee092eaa',
+                       'index': 11},
+          'script': '',
+          'sequence': 4294967295},
+         {'outpoint': {'hash': '99cbbf9d63398c44c61e46ec83e62daff0bd7489cd7a74edfda1695f57aa022f',
+                       'index': 1},
+          'script': '',
+          'sequence': 4294967295}],
+ 'locktime': 0,
+ 'outs': [{'script': '76a914f82ed2d490c9eb9c47d53db2b5d692cd06fb22b688ac',
+           'value': 15352},
+          {'script': '76a9140e1ad70883378869e4ad970ee15cfc02227c67a888ac',
+           'value': 2037162},
+          {'script': '76a9145f73b13e78f936f589f2bcd3ed595453a9a3cdbd88ac',
+           'value': 3615498},
+          {'script': '76a9141a185a8d8bc69c90aaa519324376032432dd99de88ac',
+           'value': 2037162},
+          {'script': '76a91470ac7c53a0b3811d3d4fcaf5f7b6871fdc0768b888ac',
+           'value': 2037162},
+          {'script': '76a9143b41542db43f734f5e585a21715d91e0d9cd298d88ac',
+           'value': 83422},
+          {'script': '76a914baa2764b2b8848a77fd88d8f938ccc475026bf5488ac',
+           'value': 97963038},
+          {'script': '76a914ca3770e5f2bf0e56de9ac5a3844ee90bb06e872288ac',
+           'value': 2037162},
+          {'script': '76a914a410b00f00f1d792938d588d696b26b06d49957388ac',
+           'value': 2371074},
+          {'script': '76a914da5c14d19d21e5d1569a834652a641cc8fa3050488ac',
+           'value': 441502},
+          {'script': '76a91414c9a3319195dbbb027bca36bee9129cde13688a88ac',
+           'value': 2037162},
+          {'script': '76a914ab9c6298fbbb72c9f5b1e2a6ee831d6e1aec7bdf88ac',
+           'value': 2037162}],
+ 'version': 1}
+2016-11-19 05:34:00,455 [MCThread    ] [INFO ]  potentially earned = 200
+2016-11-19 05:34:00,455 [MCThread    ] [DEBUG]  mycjaddr, mychange = 13Nyk7c6tDcDxX1d1BesvAARHTPRWQBb1t, 1J1qJk9kuChpLQ599nZ4DzTQDaYNWA3tg5
+2016-11-19 05:34:00,456 [MCThread    ] [INFO ]  goodtx
+2016-11-19 05:34:00,464 [MCThread    ] [DEBUG]  rpc: getaccount ['1PdGfw352t8ipc5r9bGbdPH7hGK8kg3kPB']
+2016-11-19 05:34:00,465 [CoreNotifyTh] [INFO ]  started bitcoin core notify listening thread, host=localhost port=62602
+2016-11-19 05:34:00,466 [MCThread    ] [DEBUG]  rpc: getaccount ['12HacZTnq89NjNRq5Cu7wrSApDixqDPzzC']
+2016-11-19 05:34:00,467 [MCThread    ] [DEBUG]  rpc: getaccount ['19hhnfrid7cbSw81yubX2JhGVqK2LoWQRH']
+2016-11-19 05:34:00,467 [MCThread    ] [DEBUG]  rpc: getaccount ['13Nyk7c6tDcDxX1d1BesvAARHTPRWQBb1t']
+2016-11-19 05:34:00,468 [MCThread    ] [DEBUG]  >>privmsg on CgAn: nick=J58Mpxroo4BVYhpn cmd=sig msg=SDBFAiEA2bKHdmfEaPXNSwS9MXfLcb6a2hudx33nn+wHR4H//g0CIBj0bWVMjH8l6UtBihe14D3cFfQBcAfSA3JYVySrdT7PASED7f1uyN+1FFgrEcST2bhnSP7udHDVfu9lvfdgLt/WqN0=
+2016-11-19 05:34:12,963 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J52GZVYijiyeidYB message=!reloffer 0 154990 23349015 10 0.00009678 ~
+2016-11-19 05:34:13,788 [CoreNotifyTh] [DEBUG]  rpc: getrawtransaction ['b8ccf48feb09a4674451aceeb41bd469c18d9902f1a3b7da3e5a381089871c4f']
+2016-11-19 05:34:13,791 [CoreNotifyTh] [DEBUG]  rpc: gettxout ['b8ccf48feb09a4674451aceeb41bd469c18d9902f1a3b7da3e5a381089871c4f', 0, True]
+2016-11-19 05:34:13,792 [CoreNotifyTh] [DEBUG]  get_utxos_by_mixdepth = 
+{0: {}, 1: {}, 2: {}, 3: {}, 4: {}}
+2016-11-19 05:34:13,792 [CoreNotifyTh] [DEBUG]  removed utxos, wallet now is 
+{0: {}, 1: {}, 2: {}, 3: {}, 4: {}}
+2016-11-19 05:34:13,792 [CoreNotifyTh] [INFO ]  saw tx on network, removed_utxos=
+{'77f850a5e1fd00eca38f9bf89d0345078f3f460ca246fb057280bbdb7c3c2870:0': {'address': u'1AUZGPe5K5V9QVHKcw6BGEN3PXgPyHXfEz',
+                                                                        'value': 100000000}}
+2016-11-19 05:34:13,792 [CoreNotifyTh] [DEBUG]  get_utxos_by_mixdepth = 
+{0: {}, 1: {}, 2: {}, 3: {}, 4: {}}
+2016-11-19 05:34:13,792 [CoreNotifyTh] [ERROR]  do not have any coins left
+2016-11-19 05:34:13,793 [CoreNotifyTh] [INFO ]  modifying orders. to_cancel=[0]
+to_announce=[]
+2016-11-19 05:34:13,793 [CoreNotifyTh] [DEBUG]  >>pubmsg !cancel 0
+2016-11-19 05:34:13,793 [CoreNotifyTh] [DEBUG]  >>pubmsg !cancel 0
+2016-11-19 05:34:13,793 [CoreNotifyTh] [DEBUG]  ran unconfirmfun
+2016-11-19 05:34:15,844 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J5Cj9RBjvSUnNRZS message=!reloffer 0 0 7611876207 0 0.000123 ~
+2016-11-19 05:34:15,844 [MCThread    ] [DEBUG]  J5Cj9RBjvSUnNRZS has dusty minsize, capping at 27300
+2016-11-19 05:34:23,736 [MCThread    ] [INFO ]  <<pubmsg on CgAn: nick=J5639mCUPEFLQD8Q message=!orderbook
+2016-11-19 05:35:23,089 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J532VhLY3XfePFyR message=!hp2 c2f013d02d2f6cdc7ef2c98e1e8b87e51e67597ea7df8c85e1faf9bb7431ae05
+2016-11-19 05:35:23,090 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: c2f013d02d2f6cdc7ef2c98e1e8b87e51e67597ea7df8c85e1faf9bb7431ae05, now blacklisted.
+2016-11-19 05:36:31,853 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 05:37:31,853 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 05:37:31,853 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 05:42:31,887 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 05:43:31,888 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 05:43:31,888 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 05:44:58,156 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J56tcLNXiwC7ZewD message=!hp2 679bebe14a13b43f7f4ede2d6239b2b8ab9e6d2204ca84789ac3aacb040fbf50
+2016-11-19 05:44:58,156 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 679bebe14a13b43f7f4ede2d6239b2b8ab9e6d2204ca84789ac3aacb040fbf50, now blacklisted.
+2016-11-19 05:46:06,745 [MCThread    ] [INFO ]  <<pubmsg on agora-irc: nick=J5AyGMv3bToVi6oH message=!hp2 4bbce5b6601902f01878b6ff7324f7b10873ea538333b4add46798f60f600d47
+2016-11-19 05:46:06,745 [MCThread    ] [DEBUG]  Received commitment broadcast by other maker: 4bbce5b6601902f01878b6ff7324f7b10873ea538333b4add46798f60f600d47, now blacklisted.
+2016-11-19 05:48:31,982 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 05:49:31,987 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 05:49:31,989 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 05:54:31,999 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 05:55:31,998 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 05:55:31,999 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 05:59:20,313 [CoreNotifyTh] [DEBUG]  rpc: getrawtransaction ['b3a1c9797a584ef7cd52f306b47820b87122a5ffc2cdbb7e51074bd367bae51f']
+2016-11-19 05:59:20,339 [CoreNotifyTh] [INFO ]  txid=b3a1c9797a584ef7cd52f306b47820b87122a5ffc2cdbb7e51074bd367bae51f not being listened for
+2016-11-19 06:00:32,097 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 06:01:32,097 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 06:01:32,097 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 06:06:32,195 [ThrottleThre] [WARNI]  failed to send ping message on socket
+2016-11-19 06:07:32,194 [PingThread  ] [WARNI]  irc ping timed out
+2016-11-19 06:07:32,195 [PingThread  ] [INFO ]  errored while trying to quit: error(9, 'Bad file descriptor')
+2016-11-19 06:08:08,310 [MainThread  ] [WARNI]  Quitting! Dumping object contents to logfile.
+2016-11-19 06:08:08,310 [MainThread  ] [DEBUG]  Class debug dump, name:Wallet
+2016-11-19 06:08:08,311 [MainThread  ] [DEBUG]  key=unspent
+2016-11-19 06:08:08,311 [MainThread  ] [DEBUG]  {}
+2016-11-19 06:08:08,311 [MainThread  ] [DEBUG]  key=gaplimit
+2016-11-19 06:08:08,311 [MainThread  ] [DEBUG]  6
+2016-11-19 06:08:08,311 [MainThread  ] [DEBUG]  key=index
+2016-11-19 06:08:08,311 [MainThread  ] [DEBUG]  [[1, 1], [0, 1], [0, 0], [0, 0], [0, 0]]
+2016-11-19 06:08:08,311 [MainThread  ] [DEBUG]  key=index_cache
+2016-11-19 06:08:08,311 [MainThread  ] [DEBUG]  [[0, 0], [0, 0], [0, 0], [0, 0], [0, 0]]
+2016-11-19 06:08:08,311 [MainThread  ] [DEBUG]  key=spent_utxos
+2016-11-19 06:08:08,311 [MainThread  ] [DEBUG]  ['77f850a5e1fd00eca38f9bf89d0345078f3f460ca246fb057280bbdb7c3c2870:0']
+2016-11-19 06:08:08,311 [MainThread  ] [DEBUG]  key=utxo_selector
+2016-11-19 06:08:08,311 [MainThread  ] [DEBUG]  <function select at 0x7f245b03b9b0>
+2016-11-19 06:08:08,312 [MainThread  ] [DEBUG]  key=path
+2016-11-19 06:08:08,312 [MainThread  ] [DEBUG]  string: len:19
+2016-11-19 06:08:08,312 [MainThread  ] [DEBUG]  wallets/wallet.json
+2016-11-19 06:08:08,312 [MainThread  ] [DEBUG]  key=storepassword
+2016-11-19 06:08:08,312 [MainThread  ] [DEBUG]  False
+2016-11-19 06:08:08,312 [MainThread  ] [DEBUG]  key=max_mix_depth
+2016-11-19 06:08:08,312 [MainThread  ] [DEBUG]  5
+2016-11-19 06:08:08,312 [MainThread  ] [DEBUG]  key=imported_privkeys
+2016-11-19 06:08:08,312 [MainThread  ] [DEBUG]  {}
+2016-11-19 06:08:08,312 [MainThread  ] [DEBUG]  Class debug dump, name:YieldGeneratorBasic
+2016-11-19 06:08:08,312 [MainThread  ] [DEBUG]  key=wallet_unspent_lock
+2016-11-19 06:08:08,312 [MainThread  ] [DEBUG]  <_RLock owner=None count=0>
+2016-11-19 06:08:08,312 [MainThread  ] [DEBUG]  key=dblock
+2016-11-19 06:08:08,313 [MainThread  ] [DEBUG]  <thread.lock object at 0x7f245e592e30>
+2016-11-19 06:08:08,313 [MainThread  ] [DEBUG]  key=ordertype
+2016-11-19 06:08:08,313 [MainThread  ] [DEBUG]  string: len:8
+2016-11-19 06:08:08,313 [MainThread  ] [DEBUG]  absoffer
+2016-11-19 06:08:08,313 [MainThread  ] [DEBUG]  key=nextoid
+2016-11-19 06:08:08,313 [MainThread  ] [DEBUG]  -1
+2016-11-19 06:08:08,313 [MainThread  ] [DEBUG]  key=db
+2016-11-19 06:08:08,313 [MainThread  ] [DEBUG]  <sqlite3.Cursor object at 0x7f245a834650>
+2016-11-19 06:08:08,313 [MainThread  ] [DEBUG]  key=cjfee_r
+2016-11-19 06:08:08,313 [MainThread  ] [DEBUG]  string: len:5
+2016-11-19 06:08:08,313 [MainThread  ] [DEBUG]  0.000
+2016-11-19 06:08:08,313 [MainThread  ] [DEBUG]  key=wallet
+2016-11-19 06:08:08,313 [MainThread  ] [DEBUG]  <joinmarket.wallet.Wallet object at 0x7f245c31ee10>
+2016-11-19 06:08:08,313 [MainThread  ] [DEBUG]  key=minsize
+2016-11-19 06:08:08,313 [MainThread  ] [DEBUG]  100000
+2016-11-19 06:08:08,313 [MainThread  ] [DEBUG]  key=txfee
+2016-11-19 06:08:08,313 [MainThread  ] [DEBUG]  1000
+2016-11-19 06:08:08,313 [MainThread  ] [DEBUG]  key=mix_levels
+2016-11-19 06:08:08,313 [MainThread  ] [DEBUG]  5
+2016-11-19 06:08:08,313 [MainThread  ] [DEBUG]  key=orderlist
+2016-11-19 06:08:08,313 [MainThread  ] [DEBUG]  []
+2016-11-19 06:08:08,313 [MainThread  ] [DEBUG]  key=msgchan
+2016-11-19 06:08:08,313 [MainThread  ] [DEBUG]  <joinmarket.message_channel.MessageChannelCollection object at 0x7f245a86fed0>
+2016-11-19 06:08:08,313 [MainThread  ] [DEBUG]  key=commit
+2016-11-19 06:08:08,314 [MainThread  ] [DEBUG]  string: len:64
+2016-11-19 06:08:08,314 [MainThread  ] [DEBUG]  10be245d492ee73bf35646077805dc2e58fae55cb4ae2b5929ff650b99a92c00
+2016-11-19 06:08:08,314 [MainThread  ] [DEBUG]  key=income_statement
+2016-11-19 06:08:08,314 [MainThread  ] [DEBUG]  <closed file 'logs/yigen-statement.csv', mode 'a' at 0x7f245af86b70>
+2016-11-19 06:08:08,314 [MainThread  ] [DEBUG]  key=tx_unconfirm_timestamp
+2016-11-19 06:08:08,314 [MainThread  ] [DEBUG]  {'13Nyk7c6tDcDxX1d1BesvAARHTPRWQBb1t': 1479533653}
+2016-11-19 06:08:08,314 [MainThread  ] [DEBUG]  key=cjfee_a
+2016-11-19 06:08:08,314 [MainThread  ] [DEBUG]  200
+2016-11-19 06:08:08,314 [MainThread  ] [DEBUG]  key=active_orders
+2016-11-19 06:08:08,314 [MainThread  ] [DEBUG]  {'J58Mpxroo4BVYhpn': None}
+2016-11-19 06:08:08,314 [MainThread  ] [DEBUG]  Class debug dump, name:MessageChannelCollection
+2016-11-19 06:08:08,314 [MainThread  ] [DEBUG]  key=nicks_seen
+2016-11-19 06:08:08,315 [MainThread  ] [DEBUG]  {<joinmarket.irc.IRCMessageChannel object at 0x7f245a838150>: set(['J52GZVYijiyeidYB',
+                                                                   'J532VhLY3XfePFyR',
+                                                                   'J53ah3kCY4D7cxXd',
+                                                                   'J53dC5LZzCK9owJL',
+                                                                   'J54481nsNAJQrHuH',
+                                                                   'J547ejG1uxnq8T9C',
+                                                                   'J54ChMpZkKgagTko',
+                                                                   'J5639mCUPEFLQD8Q',
+                                                                   'J56tcLNXiwC7ZewD',
+                                                                   'J57aAgfeeNmpikxC',
+                                                                   'J58Mpxroo4BVYhpn',
+                                                                   'J59Jf8hjZMLxF2fo',
+                                                                   'J5BB3jMzr5DsG8an',
+                                                                   'J5Cj9RBjvSUnNRZS',
+                                                                   'J5PCqJag1ZFas78O']),
+ <joinmarket.irc.IRCMessageChannel object at 0x7f245a838410>: set(['J532VhLY3XfePFyR',
+                                                                   'J56tcLNXiwC7ZewD',
+                                                                   'J5AyGMv3bToVi6oH',
+                                                                   'J5BB3jMzr5DsG8an',
+                                                                   'J5PCqJag1ZFas78O'])}
+2016-11-19 06:08:08,315 [MainThread  ] [DEBUG]  key=nick
+2016-11-19 06:08:08,315 [MainThread  ] [DEBUG]  string: len:16
+2016-11-19 06:08:08,315 [MainThread  ] [DEBUG]  J55GdC3bhr3L75CO
+2016-11-19 06:08:08,315 [MainThread  ] [DEBUG]  key=active_channels
+2016-11-19 06:08:08,315 [MainThread  ] [DEBUG]  {'J52GZVYijiyeidYB': <joinmarket.irc.IRCMessageChannel object at 0x7f245a838150>,
+ 'J532VhLY3XfePFyR': <joinmarket.irc.IRCMessageChannel object at 0x7f245a838410>,
+ 'J53ah3kCY4D7cxXd': <joinmarket.irc.IRCMessageChannel object at 0x7f245a838150>,
+ 'J53dC5LZzCK9owJL': <joinmarket.irc.IRCMessageChannel object at 0x7f245a838150>,
+ 'J54481nsNAJQrHuH': <joinmarket.irc.IRCMessageChannel object at 0x7f245a838150>,
+ 'J547ejG1uxnq8T9C': <joinmarket.irc.IRCMessageChannel object at 0x7f245a838150>,
+ 'J54ChMpZkKgagTko': <joinmarket.irc.IRCMessageChannel object at 0x7f245a838150>,
+ 'J56tcLNXiwC7ZewD': <joinmarket.irc.IRCMessageChannel object at 0x7f245a838410>,
+ 'J57aAgfeeNmpikxC': <joinmarket.irc.IRCMessageChannel object at 0x7f245a838150>,
+ 'J58Mpxroo4BVYhpn': <joinmarket.irc.IRCMessageChannel object at 0x7f245a838150>,
+ 'J59Jf8hjZMLxF2fo': <joinmarket.irc.IRCMessageChannel object at 0x7f245a838150>,
+ 'J5BB3jMzr5DsG8an': <joinmarket.irc.IRCMessageChannel object at 0x7f245a838410>,
+ 'J5Cj9RBjvSUnNRZS': <joinmarket.irc.IRCMessageChannel object at 0x7f245a838150>,
+ 'J5PCqJag1ZFas78O': <joinmarket.irc.IRCMessageChannel object at 0x7f245a838410>}
+2016-11-19 06:08:08,315 [MainThread  ] [DEBUG]  key=nick_pkh
+2016-11-19 06:08:08,315 [MainThread  ] [DEBUG]  string: len:14
+2016-11-19 06:08:08,315 [MainThread  ] [DEBUG]  5GdC3bhr3L75CO
+2016-11-19 06:08:08,315 [MainThread  ] [DEBUG]  key=welcomed
+2016-11-19 06:08:08,316 [MainThread  ] [DEBUG]  True
+2016-11-19 06:08:08,316 [MainThread  ] [DEBUG]  key=on_connect
+2016-11-19 06:08:08,316 [MainThread  ] [DEBUG]  None
+2016-11-19 06:08:08,316 [MainThread  ] [DEBUG]  key=on_order_seen
+2016-11-19 06:08:08,316 [MainThread  ] [DEBUG]  <bound method YieldGeneratorBasic.on_order_seen of <__main__.YieldGeneratorBasic object at 0x7f245a838710>>
+2016-11-19 06:08:08,316 [MainThread  ] [DEBUG]  key=mc_status
+2016-11-19 06:08:08,316 [MainThread  ] [DEBUG]  {<joinmarket.irc.IRCMessageChannel object at 0x7f245a838150>: 1,
+ <joinmarket.irc.IRCMessageChannel object at 0x7f245a838410>: 1}
+2016-11-19 06:08:08,316 [MainThread  ] [DEBUG]  key=nick_pubkey
+2016-11-19 06:08:08,316 [MainThread  ] [DEBUG]  string: len:66
+2016-11-19 06:08:08,316 [MainThread  ] [DEBUG]  03255747abb932ab5cb180f2ec5c434c9b0cd607cfd7b99ae6b61d01d47fadf2db
+2016-11-19 06:08:08,316 [MainThread  ] [DEBUG]  key=give_up
+2016-11-19 06:08:08,316 [MainThread  ] [DEBUG]  False
+2016-11-19 06:08:08,316 [MainThread  ] [DEBUG]  key=mc_lock
+2016-11-19 06:08:08,316 [MainThread  ] [DEBUG]  <thread.lock object at 0x7f245e592b10>
+2016-11-19 06:08:08,316 [MainThread  ] [DEBUG]  key=on_disconnect
+2016-11-19 06:08:08,316 [MainThread  ] [DEBUG]  None
+2016-11-19 06:08:08,316 [MainThread  ] [DEBUG]  key=on_nick_leave
+2016-11-19 06:08:08,316 [MainThread  ] [DEBUG]  <bound method YieldGeneratorBasic.on_nick_leave of <__main__.YieldGeneratorBasic object at 0x7f245a838710>>
+2016-11-19 06:08:08,316 [MainThread  ] [DEBUG]  key=on_welcome
+2016-11-19 06:08:08,316 [MainThread  ] [DEBUG]  <bound method YieldGeneratorBasic.on_welcome of <__main__.YieldGeneratorBasic object at 0x7f245a838710>>
+2016-11-19 06:08:08,316 [MainThread  ] [DEBUG]  key=on_nick_change
+2016-11-19 06:08:08,316 [MainThread  ] [DEBUG]  None
+2016-11-19 06:08:08,317 [MainThread  ] [DEBUG]  key=mchannels
+2016-11-19 06:08:08,317 [MainThread  ] [DEBUG]  [<joinmarket.irc.IRCMessageChannel object at 0x7f245a838150>,
+ <joinmarket.irc.IRCMessageChannel object at 0x7f245a838410>]
+2016-11-19 06:08:08,317 [MainThread  ] [DEBUG]  key=on_orderbook_requested
+2016-11-19 06:08:08,317 [MainThread  ] [DEBUG]  <bound method YieldGeneratorBasic.on_orderbook_requested of <__main__.YieldGeneratorBasic object at 0x7f245a838710>>
+2016-11-19 06:08:08,317 [MainThread  ] [DEBUG]  Traceback (most recent call last):
+  File "/root/joinmarket/joinmarket/yieldgenerator.py", line 162, in ygmain
+    mcc.run()
+  File "/root/joinmarket/joinmarket/message_channel.py", line 193, in run
+    time.sleep(1)
+KeyboardInterrupt
+
